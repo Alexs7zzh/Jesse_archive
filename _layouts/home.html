@@ -16,11 +16,7 @@ titles:
           {%- assign href = __return -%}
           <h1><a href="{{ href }}">{{ post.title }}</a></h1>
           <div class="m-article-content">
-            {%- if site.excerpt_type == 'html' -%}
-              {{ post.excerpt }}
-            {%- else -%}
-              {{ post.excerpt | strip_html | truncate: 350 }}
-            {%- endif -%}
+              {{ post.excerpt | markdownify }}
           </div>
           {%- assign __path = post.url -%}
           {%- include snippets/prepend-baseurl.html -%}

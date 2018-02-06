@@ -28,14 +28,7 @@ layout: blog-default
 					{%- else -%}
 						<meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
 					{%- endif -%}
-					<div class="article-license">
-						{%- include components/license.html -%}
-					</div>
 				</footer>
-				{%- if page.comment != false -%}
-					<section>{%- include utils/comment-disqus.html -%}</section>
-					<section>{%- include utils/comment-gitalk.html -%}</section>
-				{%- endif -%}
 			</article>
 		</div>
 	</div>
