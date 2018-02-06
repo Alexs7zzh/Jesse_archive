@@ -2,35 +2,11 @@
   <div class="main clearfix">
     <img class="site-logo icon" width="30px" height="30px" src="{{ 'assets/images/logo/logo.svg'  | relative_url }}" /img>
     <a class="site-title" title="{{ site.title }}" href="{{ site.url }}">{{ site.title }}</a>
-    <nav>
-      <ul>
-        {%- assign __path = site.paths.home | default: site.data.variables.default.paths.home -%}
-        {%- include snippets/get-nav-url.html -%}
-        {%- assign href = __return -%}
-        {%- assign __locale = site.data.locale.NAV.HOME -%}
-        {%- include snippets/locale-to-string.html -%}
-        <li><a href="{{ href }}">{{ __return }}</a></li>
-        {%- assign __path = site.paths.all | default: site.data.variables.default.paths.all -%}
-        {%- include snippets/get-nav-url.html -%}
-        {%- assign href = __return -%}
-        {%- assign __locale = site.data.locale.NAV.ALL -%}
-        {%- include snippets/locale-to-string.html -%}
-        <li><a href="{{ href }}">{{ __return }}</a></li>
-        {%- for list in site.nav_lists -%}
-          {%- assign __path = list.url -%}
-          {%- include snippets/get-nav-url.html -%}
-          {%- assign href = __return -%}
-          {%- assign __locale = list.titles -%}
-          {%- include snippets/locale-to-string.html -%}
-          <li><a href="{{ href }}">{%- if list.title -%}{{ list.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-        {%- endfor -%}
-        {%- assign __path = site.paths.rss | default: site.data.variables.default.paths.rss -%}
-        {%- include snippets/get-nav-url.html -%}
-        {%- assign href = __return -%}
-        {%- assign __locale = site.data.locale.NAV.RSS -%}
-        {%- include snippets/locale-to-string.html -%}
-        <li><a type="application/rss+xml" href="{{ href }}">{{ __return }}</a></li>
-      </ul>
-    </nav>
+    <nav><ul>
+        <li><a href="{{ '/' | relative_url }}">首页</a></li>
+        <li><a href="{{ '/all/' | relative_url }}">文章列表</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">关于本站</a></li>
+        <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+    </ul></nav>
   </div>
 </header>
