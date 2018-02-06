@@ -8,6 +8,7 @@ excerpt: "「哪件数码产品最能代表 2017 年？」
 
 是 iPhone X 吗？是 Nintendo Switch 吗？纵观 2017 这一整年，优秀、甚至是伟大的产品很多，但你很难从一款产品中，得以窥见整个 2017。"
 tags: 科技
+image: "/assets/images/2018/anas-alshanti-169265.jpg"
 ---
 
 ![]({{ "/assets/images/2018/anas-alshanti-169265.jpg" | absolute_url }})

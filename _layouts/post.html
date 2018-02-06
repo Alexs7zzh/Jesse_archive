@@ -10,19 +10,13 @@ layout: blog-default
 			<article itemscope itemtype="http://schema.org/BlogPosting">
 				<meta itemprop="mainEntityOfPage" itemscope itemType="https://schema.org/WebPage"/>
 				<header class="main-header">
-					{%- include snippets/page-title.html -%}
-					<h1 itemprop="headline" itemprop="name headline">{{ __return }}</h1>
+					<h1 itemprop="headline" itemprop="name headline">{{ post.title }}</h1>
 					{%- include components/article-data.html -%}
 				</header>
 				<div class="m-article-content js-article-content" itemprop="articleBody">{{ content }}</div>
 				<footer>
 					{%- if page.modify_date -%}
-						{%- assign __locale = site.data.locale.ARTICLE_DATE_FORMAT -%}
-						{%- include snippets/locale-to-string.html -%}
-						{%- assign date_format = __return -%}
-						{%- assign __locale = site.data.locale.LAST_UPDATED -%}
-						{%- include snippets/locale-to-string.html -%}
-						<span>{{ __return }}
+						<span>更新于
 							<time datetime="{{ page.modify_date | date_to_xmlschema }}" itemprop="dateModified">{{ page.modify_date | date: date_format }}</time>
 						</span>
 					{%- else -%}

@@ -5,4 +5,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-feed'
   gem 'jekyll-paginate'
+  gem 'jekyll-auto-image'
 end

@@ -3,7 +3,6 @@
 <html lang="{{ __return }}">
   <head>
     {%- include common-head.html -%}
-    {%- include head-icons-rel.html -%}
     {%- assign __path = '/assets/css/blog.css' -%}
     {%- include snippets/prepend-baseurl.html -%}
     <link rel="stylesheet" href="{{ __return }}">
@@ -29,8 +28,5 @@
     </script>
     {%- include utils/mathjax.html -%}
     {%- include utils/mermaid.html -%}
-    {%- if jekyll.environment != "development" -%}
-      {%- include utils/google-analytics.html -%}
-    {%- endif -%}
   </body>
 </html>

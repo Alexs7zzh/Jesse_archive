@@ -1,10 +1,30 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-{%- include snippets/page-title.html -%}
-<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
-<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
-<link rel="canonical" href="{%- include snippets/page-url.html -%}">
-{%- assign __path = '/feed.xml' -%}
-{%- include snippets/prepend-baseurl.html -%}
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return | prepend: site.url }}">
+    
+<title>{{ page.title | default: site.title }}</title>
+<meta property=​"og:​title" content=​"{{ page.title | default: site.title }}">
+<meta name=​"author" content=​"{{ site.author.name }}">
+<meta property=​"og:​locale" content=​"{{ site.lang }}">
+<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
+<meta property=​"og:​description" content=​"{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
+<link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
+<meta property=​"og:​url" content=​"{{ page.url | replace:'index.html', '' | absolute_url }}">
+<meta property=​"og:​site_name" content=​"{{ site.title }}">
+
+<meta name=​"twitter:​site" content=​"@{{ site.author.twitter }}">
+<meta name=​"twitter:​creator" content=​"@{{ site.author.twitter }}">
+    
+    
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/logo/apple-touch-icon.png?v=1">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/logo/favicon-32x32.png?v=1">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/logo/favicon-16x16.png?v=1">
+<link rel="manifest" href="/assets/images/logo/site.webmanifest?v=1">
+<link rel="mask-icon" href="/assets/images/logo/safari-pinned-tab.svg?v=1" color="#2d89ef">
+<link rel="shortcut icon" href="/assets/images/logo/favicon.ico?v=1">
+<meta name="apple-mobile-web-app-title" content="大破进击">
+<meta name="application-name" content="大破进击">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="msapplication-config" content="/assets/images/logo/browserconfig.xml?v=1">
+<meta name="theme-color" content="#ffffff">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | absolute_url }}">
