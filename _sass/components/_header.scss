@@ -50,6 +50,7 @@
     overflow-x: auto;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
+    font-size: map-get($base, font-size-h4);
     ul {
       margin: 0;
       @include horizontal-space(1rem, .5rem, nowrap);
