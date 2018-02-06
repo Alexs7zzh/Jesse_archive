@@ -8,6 +8,7 @@
   height: map-get($layout, footer-height);
   margin-top: - map-get($layout, footer-height);
   background-color: $main-color-3;
+  font-size: 1.2rem;
   p {
     color: $text-color-3;
   }
