@@ -1,7 +1,7 @@
 <header class="m-page-header">
   <div class="main clearfix">
     <div class='site-logo'>
-    {%- include logo/logo.svg -%}
+    <img class="icon" width="30px" height="30px" src="{{ 'assets/images/logo/logo.svg'  | relative_url }}" /img>
     {%- assign __path = site.paths.base | default: site.data.variables.default.paths.base  -%}
     {%- include snippets/get-nav-url.html -%}
     {%- if site.title -%}
