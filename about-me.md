@@ -1,7 +1,7 @@
 ---
 layout: page
-titles: "关于本站"
-permalink: /about/
+titles: "关于我"
+permalink: /about-me/
 image: 
 ---
 
@@ -50,5 +50,7 @@ image:
 
 Nintendo Friend Code：214914422524
 
-Email & iMessage: jessechan42[at]gmail.com
+Email: <a href="mailto:jessechan42@gmail.com">jessechan42[at]gmail.com</a>
+
+iMessage: <a href="sms:jessechan42@gmail.com">jessechan42[at]gmail.com</a>
 
