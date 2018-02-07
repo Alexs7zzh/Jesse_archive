@@ -13,13 +13,11 @@ before_install:
 - chmod 600 jesor_rsa
 - ssh-add jesor_rsa
 
-script:
-- bundle exec jekyll build
-- ssh jesse@172.104.113.239
+script: bundle exec jekyll build
 
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --quiet --delete-after _site/ jesse@172.104.113.239:~/jesse
+  script: rsync -avzr --quiet --delete-after _site/ jesse@172.104.113.239:~/jesse
   on:
     branch: master
