@@ -15,4 +15,6 @@ before_install:
 - ls
 
 script: bundle exec jekyll build
+script: ls
+script: jekyll build
 script: rsync -avzr --delete-after $TRAVIS_BUILD_DIR/_site/ jesse@172.104.113.239:~/jesse
