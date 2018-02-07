@@ -61,4 +61,3 @@ defaults:
       layout: page
       image:
 
-server_url: "0.0.0.0"
