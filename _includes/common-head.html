@@ -8,8 +8,8 @@
 <meta property=​"og:​locale" content=​"{{ site.lang }}">
 <meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
 <meta property=​"og:​description" content=​"{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
-<link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
-<meta property=​"og:​url" content=​"{{ page.url | replace:'index.html', '' | absolute_url }}">
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+<meta property=​"og:​url" content=​"{{ page.url | prepend: site.url }}">
 <meta property=​"og:​site_name" content=​"{{ site.title }}">
 
 <meta name=​"twitter:​site" content=​"@{{ site.author.twitter }}">
