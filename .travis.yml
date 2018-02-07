@@ -10,8 +10,9 @@ addons:
 before_install:
 - openssl aes-256-cbc -K $encrypted_c965527be372_key -iv $encrypted_c965527be372_iv -in jesor_rsa.enc -out jesor_rsa -d
 - eval "$(ssh-agent -s)"
-- chmod 600 /tmp/jesor_rsa
-- ssh-add /tmp/jesor_rsa
+- ls
+- chmod 600 jesor_rsa
+- ssh-add jesor_rsa
 
 script: bundle exec jekyll build
 
