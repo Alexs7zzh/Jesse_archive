@@ -13,6 +13,7 @@ before_install:
 - chmod 600 jesor_rsa
 - ssh-add jesor_rsa
 
-script: bundle exec jekyll build --config _config.yml
+script: bundle exec
+script: jekyll build --config _config.yml
 script: ls
 
