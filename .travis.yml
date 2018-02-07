@@ -15,7 +15,7 @@ before_install:
 
 script:
 - bundle exec jekyll build
-- ls
+- ssh jesse@172.104.113.239
 
 deploy:
   provider: script
