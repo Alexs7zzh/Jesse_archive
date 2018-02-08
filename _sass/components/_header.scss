@@ -36,6 +36,11 @@
     ul {
       margin: 0;
       @include horizontal-space(1rem, .5rem, nowrap);
+&>li {
+@include media-breakpoint-down(s) {
+margin-right: .7rem
+}
+}
       @include align-items(center);
       height: map-get($layout, header-height);
       @include media-breakpoint-down(s) {
