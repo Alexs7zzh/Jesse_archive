@@ -1,5 +1,5 @@
 ---
-excerpt: "![][image-1]
+excerpt: "![](https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r)
 
 
 
@@ -23,7 +23,7 @@ excerpt: "![][image-1]
 
 
 
-![][image-2]
+![](https://cl.ly/oPy7/14ec3a075f6c92eeab457eb931e3007a)
 
 
 
@@ -35,7 +35,7 @@ excerpt: "![][image-1]
 title: "写在S5之后：在路上"
 ---
 
-![][image-3]
+![](https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r)
 
 彩屑落下，灯光升起，英雄加冕，S5正式宣告落幕。这是英雄联盟的第五年。五年，韩国拿了三个冠军，LPL战队从夺冠大热门开始，八强全数折戟沉沙。
 
@@ -47,7 +47,7 @@ title: "写在S5之后：在路上"
 
 后来的结果，你们都知道了。
 
-![][image-4]
+![](https://cl.ly/oPy7/14ec3a075f6c92eeab457eb931e3007a)
 
 而这一次，Faker终于再度捧杯。甚至赛前全世界的媒体所讨论的内容，都是SKT是否能全胜夺冠。
 
@@ -85,7 +85,7 @@ LPL的名次，进入世界赛的资格，或许在很多人眼里还不如七�
 
 只要他还在游戏的路上。
 
-![][image-5]
+![](https://cl.ly/oQh9/bd45fb6e1c76b84e35bc720b338dd73f_r)
 
 四
 
@@ -103,7 +103,7 @@ LGD全员改名「乐观XXX」，接受来自全国LOL玩家的嘲讽。
 
 每一个无保留地投入到游戏中的召唤师，还在坚持着自己的游戏梦想，他们构成了英雄之路的未来。
 
-![][image-6]
+![](https://cl.ly/oQru/e6aefcaee8ae2d8ae0598fb1bfbffb21)
 
 五
 
@@ -124,10 +124,3 @@ LGD全员改名「乐观XXX」，接受来自全国LOL玩家的嘲讽。
 还在坚持自己单纯游戏梦想的每一个职业选手，每一个玩家，每一个你我，都在自己的英雄之路上。
 
 而只要还在路上，就一定会有闪闪发光的滚烫的未来。
-
-[image-1]:	https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r
-[image-2]:	https://cl.ly/oPy7/14ec3a075f6c92eeab457eb931e3007a
-[image-3]:	https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r
-[image-4]:	https://cl.ly/oPy7/14ec3a075f6c92eeab457eb931e3007a
-[image-5]:	https://cl.ly/oQh9/bd45fb6e1c76b84e35bc720b338dd73f_r
-[image-6]:	https://cl.ly/oQru/e6aefcaee8ae2d8ae0598fb1bfbffb21

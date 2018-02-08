@@ -11,7 +11,7 @@ excerpt: "今天下午回家的路上，一条推送显示在我的 Apple Watch 
 title: "10 Years of iPhone"
 ---
 
-![][image-1]
+![](https://cl.ly/oR27/iphone10years1)
 
 __iPhone 在过去的 10 年里改变的，远远不止我们接起电话说 "Hello" 的方式。__
 
@@ -65,5 +65,3 @@ Steve Jobs 走上台，宣布这是他们等待了两年半的一天，向台下
 
 [1]:	https://www.youtube.com/watch?v=mmiWTKZzBLY
 [2]:	https://www.youtube.com/watch?v=mmiWTKZzBLY
-
-[image-1]:	https://cl.ly/oR27/iphone10years1

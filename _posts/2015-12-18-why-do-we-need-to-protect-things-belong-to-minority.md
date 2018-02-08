@@ -1,5 +1,5 @@
 ---
-excerpt: "![][image-1]
+excerpt: "![](https://cl.ly/oPhZ/4f5858e4bc92b0a998d96bfcd173d76e_r)
 
 
 
@@ -32,7 +32,7 @@ __高考作文要求800字，叫兽易小星写完数了数，发现只有523个
 title: "为什么我们要保护独立小众的东西？"
 ---
 
-![][image-2]
+![](https://cl.ly/oPhZ/4f5858e4bc92b0a998d96bfcd173d76e_r)
 
 __高考作文要求800字，叫兽易小星写完数了数，发现只有523个字，然后强行挤牙膏挤到最后写了803个字。心满意足地盖上笔，大喊一声，这是我的诚意之作。但这其中有700多个字是希伯来文。0分，不解释。__
 
@@ -97,6 +97,3 @@ __高考作文要求800字，叫兽易小星写完数了数，发现只有523个
 
 [1]:	https://www.zhihu.com/people/980f8cb328df5d02d154c5e31a043d83
 [2]:	https://www.zhihu.com/people/980f8cb328df5d02d154c5e31a043d83
-
-[image-1]:	https://cl.ly/oPhZ/4f5858e4bc92b0a998d96bfcd173d76e_r
-[image-2]:	https://cl.ly/oPhZ/4f5858e4bc92b0a998d96bfcd173d76e_r

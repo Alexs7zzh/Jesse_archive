@@ -3,7 +3,7 @@ excerpt: "iPhone X 真正所关乎的、引领的，从来就不是什么「全�
 title: "iPhone X: A step beyond"
 ---
 
-![][image-1]
+![](https://cl.ly/oPRJ/tyler-lastovich-454477-768x576)
 
 _iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。_
 
@@ -61,7 +61,7 @@ iPhone 5s 的产品视频中，Jony Ive 是这样总结 Touch ID 的。
 
 半年前的 WWDC 上，ARKit 随着 iOS 11 问世。  
 我的第一反应仍然是不解，特别是当其第一个 demo 是一个蹩脚的游戏时。  
-但后来的一些对 Tim Cook 的采访，包括去东京旅行的经历，让我对 AR 有了更深刻的认识。大部分感想我都写在了[这篇文章][1]里。
+但后来的一些对 Tim Cook 的采访，包括去东京旅行的经历，让我对 AR 有了更深刻的认识。大部分感想我都写在了[这篇文章](https://jesor.me/2017/tokyo-ar-publicspace/)里。
 
 当然，ARKit 在今天还处于一个很初级的阶段，苹果所做的，更多是进行概念上的选窜，以及吸引开发者，积累利用 AR 工具进行开发的经验。真正要在产品层面带来革命性的改变，我认为很可能需要等到苹果的 AR 眼镜问世的那一天。  
 但即使只是停留在概念上，AR 也已经可以用来解释很多东西了。
@@ -81,7 +81,3 @@ AR 的答案是，让内容流出屏幕、流出手机，真正地做到与现�
 
 更重要的是，苹果非常清楚，「全面屏」并不是终点，iPhone X 所处的位置也不是其要到达的目的地。Cook 要开启的未来 10 年，其实才刚刚开始。  
 这让我的兴奋远远不只停留在 iPhone X 本身，更是在于其引申出的「What next?」这一未来时命题，最终将我带向属于未来的远方。
-
-[1]:	https://jesor.me/2017/tokyo-ar-publicspace/
-
-[image-1]:	https://cl.ly/oPRJ/tyler-lastovich-454477-768x576
