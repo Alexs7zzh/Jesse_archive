@@ -12,7 +12,12 @@ before_install:
 - eval "$(ssh-agent -s)"
 - chmod 600 jesor_rsa
 - ssh-add jesor_rsa
-- ls
 
 script: bundle exec jekyll build
-script: rsync -avzr --delete-after $TRAVIS_BUILD_DIR/_site/ jesse@172.104.113.239:~/jesse
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -avzr --quiet --delete-after _site/ jesse@172.104.113.239:~/jesse
+  on:
+    branch: master
