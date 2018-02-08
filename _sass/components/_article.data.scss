@@ -22,6 +22,7 @@
     margin: 0 0 0 .6rem;
     @include media-breakpoint-down(s) {
       float: none;
+      margin: 0 0 0 0;
     }
   }
   .view-wrapper {
