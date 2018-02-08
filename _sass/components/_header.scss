@@ -9,6 +9,23 @@
     @include horizontal-space(1rem, 0);
     @include align-items(center);
     height: map-get($layout, header-height);
+    &>svg {
+      margin-right: .8rem;
+      vertical-align: middle;
+      width: map-get($base, font-size-h4) * 1.6;
+      height: map-get($base, font-size-h4) * 1.6;
+    }
+    &>a {
+      display: inline-block;
+      font-size: map-get($base, font-size-h4);
+      @include media-breakpoint-down(s) {
+        font-size: map-get($base, font-size-h4-s);
+      }
+    }
+    @include media-breakpoint-down(s) {
+      float: none;
+      height: map-get($layout, header-height-s);
+    }
   }
   &>.main>.site-title {
     float: left;
@@ -17,6 +34,10 @@
     height: map-get($layout, header-height);
     font-size: map-get($base, font-size-h3);
     margin-left: .5rem;
+    @include media-breakpoint-down(s) {
+      float: none;
+      height: map-get($layout, header-height-s);
+    }
   }
   &>.main>nav {
     display: block;
