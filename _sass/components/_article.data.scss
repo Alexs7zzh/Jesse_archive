@@ -1,5 +1,5 @@
 .m-article-data {
-  margin: .8rem 0;
+  margin: .5rem 0;
   .date-wrapper,
   .tag-wrapper,
   .view-wrapper {
@@ -19,7 +19,7 @@
     @include align-items(center);
     @include flex-wrap(wrap);
     color: $text-color-l;
-    margin: 0 0 0 .6rem;
+    margin: .25rem 0 0 .6rem;
     @include media-breakpoint-down(s) {
       float: none;
       margin: 0 0 0 0;
