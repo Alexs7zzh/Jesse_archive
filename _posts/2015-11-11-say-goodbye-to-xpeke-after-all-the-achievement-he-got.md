@@ -4,8 +4,6 @@ excerpt: "-「他可能是整个欧洲最受欢迎的选手，没有之一。并
 
 
 
-
----
 -LCS.EU解说Trevor Henry
 
 
