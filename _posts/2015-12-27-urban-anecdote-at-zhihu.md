@@ -57,7 +57,7 @@ title: "「都市传说」在知乎"
 
 **而其中的重点是，那个当初在微博冒充「葛军」的账号，最初所用的头像，跟今天这个知乎的 [@葛军](https://www.zhihu.com/people/fcc91c678b62d1e334e951acd98b84c1) ，是同一张图片。**
 
-![](https://jesor.me/wp-content/uploads/2017/05/7375720bc71ab6efedfc1f3217fde00c.png) ![](https://jesor.me/wp-content/uploads/2017/05/ffee82886cc17fce048433ee2174a63e.png)
+![](https://cl.ly/pOUT/7375720bc71ab6efedfc1f3217fde00c) ![](https://cl.ly/pOwd/ffee82886cc17fce048433ee2174a63e)
 
 一个当初澄清过自己并未在微博发声，并且很忙的校长，突然来到知乎，一夜之间撰写答案近4000字。
 

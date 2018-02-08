@@ -17,7 +17,7 @@ title: "我的首页还是知乎管理员的首页？"
 
 怎么不见了？我点进子雄的个人主页，这些动态还清清楚楚地展示在他的主页上啊？
 
-![](https://jesor.me/wp-content/uploads/2017/05/800cf7612ca644997aa011e4bda108c7_r.png) ![](https://jesor.me/wp-content/uploads/2017/05/20a137f238f3ba8c0363d4c54c3b31a7_r.png)而我也没有开那个让知乎官方决定我的TL上显示什么的功能啊。 ![](https://jesor.me/wp-content/uploads/2017/05/5ac958ba1df362d141a43d6a6be946b5_r.png)
+![](https://cl.ly/pNzq/800cf7612ca644997aa011e4bda108c7_r) ![](https://cl.ly/pNsf/20a137f238f3ba8c0363d4c54c3b31a7_r)而我也没有开那个让知乎官方决定我的TL上显示什么的功能啊。 ![](https://cl.ly/pO3A/5ac958ba1df362d141a43d6a6be946b5_r)
 
 再结合一下头几天 [@Shimizumint](https://www.zhihu.com/people/c6a88903a476789b098a088182c69fe1) 巨巨莫名出现在其关注者TL上的点赞（[被点赞的我。 - 残念少女 - 知乎专栏](https://zhuanlan.zhihu.com/enokitsukanon/20050432)），贵乎的TL上的bug还真是多啊。
 
