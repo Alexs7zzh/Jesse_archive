@@ -4,26 +4,15 @@
     font-weight: map-get($base, font-weight);
     @include link-text-colors( $text-color-3, $main-color-1);
   }
-  &>.main>.site-logo {
-    float: left;
-    @include horizontal-space(1rem, 0);
-    @include align-items(center);
-    height: map-get($layout, header-height);
-    @include media-breakpoint-down(s) {
-      height: map-get($layout, header-height-s);
-    }
-  }
-  &>.main>.site-title {
+  &>.main>site_title {
     float: left;
     @include horizontal-space(1rem, 0);
     @include align-items(center);
     height: map-get($layout, header-height);
     font-size: map-get($base, font-size-h3);
-    margin-left: .5rem;
     @include media-breakpoint-down(s) {
-      margin-left: 2.5rem;
-      float: none;
       height: map-get($layout, header-height-s);
+      float: none;
     }
   }
   &>.main>nav {
