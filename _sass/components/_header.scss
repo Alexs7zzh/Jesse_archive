@@ -34,7 +34,7 @@
   }
   &>.main>.site-title {
     float: left;
-    @include horizontal-space(1rem, 0);
+
     @include align-items(center);
     height: map-get($layout, header-height);
     font-size: map-get($base, font-size-h3);
