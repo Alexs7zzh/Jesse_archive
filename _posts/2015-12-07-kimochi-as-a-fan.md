@@ -1,5 +1,4 @@
 ---
-
 excerpt: "一
 
 
@@ -22,8 +21,6 @@ title: "作为 fan 的心情"
 image: https://cl.ly/oPPh/5915884212b0c68d365451260846d145_r
 ---
 
-
-![](https://cl.ly/oPPh/5915884212b0c68d365451260846d145_r)
 
 一
 

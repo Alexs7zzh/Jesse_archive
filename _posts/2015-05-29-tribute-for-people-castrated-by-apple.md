@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oQze/90dbd77057d4770276930c51d9b47b01_r)
 
 
@@ -26,8 +25,6 @@ title: "为被苹果阉掉的少年们默哀3分钟"
 image: https://cl.ly/oQze/90dbd77057d4770276930c51d9b47b01_r
 ---
 
-
-![](https://cl.ly/oQze/90dbd77057d4770276930c51d9b47b01_r)
 
 _题图 via fengo_
 

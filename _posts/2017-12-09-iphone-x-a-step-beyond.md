@@ -1,13 +1,10 @@
 ---
-
 excerpt: "iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。"
 title: "iPhone X: A step beyond"
 
 image: https://cl.ly/oPRJ/tyler-lastovich-454477-768x576
 ---
 
-
-![](https://cl.ly/oPRJ/tyler-lastovich-454477-768x576)
 
 _iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。_
 

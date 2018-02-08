@@ -1,9 +1,9 @@
 ---
-
 excerpt: "什么是「高端」？它往往和价格高低无关，iPhone 不是因为卖得贵而看起来「高端」，可口可乐以同样的价格可以比百事可乐「高端」，麦当劳比肯德基更便宜却更「高端」，「高端」就在于，用「how it works」的态度来做设计，并且坚持这样的设计，让全世界的人，看到你的设计就能意识到这是你的产品，即使公司已经大到进军一个有着截然不同文化海外市场，坚持「This is the right way.」而不是「This is the best, the most profitable way.」"
 title: "《Design as Branding》、《高端品牌不需要创新》读后感"
 
 ---
+
 
 
 这两天感觉所有人都在讨论 John Gruber 那篇 [《Design as Branding》][1] ，Lawrence 也写了一篇[《高端品牌不需要创新》][2]。

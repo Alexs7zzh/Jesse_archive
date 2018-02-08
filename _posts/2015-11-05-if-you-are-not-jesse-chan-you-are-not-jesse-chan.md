@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPlR/cea7a37923ee8cce3b0bbcdac538b1a1_r)
 
 
@@ -43,8 +42,6 @@ title: "If you’re not Jesse Chan, you’re not Jesse Chan."
 image: https://cl.ly/oPlR/cea7a37923ee8cce3b0bbcdac538b1a1_r
 ---
 
-
-![](https://cl.ly/oPlR/cea7a37923ee8cce3b0bbcdac538b1a1_r)
 
 一
 

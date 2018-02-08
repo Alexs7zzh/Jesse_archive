@@ -1,5 +1,4 @@
 ---
-
 excerpt: "一
 
 
@@ -20,8 +19,6 @@ title: "距离以一颗观月的心"
 image: https://cl.ly/oQKU/dcd360d080f1aa33fbf9dd1745310937_r
 ---
 
-
-![](https://cl.ly/oQKU/dcd360d080f1aa33fbf9dd1745310937_r)
 
 一
 

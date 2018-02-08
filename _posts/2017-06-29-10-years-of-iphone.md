@@ -1,5 +1,4 @@
 ---
-
 excerpt: "今天下午回家的路上，一条推送显示在我的 Apple Watch 上，提醒我今天是 iPhone 发布十周年的纪念日。我对 iPhone 说：「Hey, Siri, play Snow by Red Hot Chilli Peppers.」，Steve 在 10 年前的 demo 上播放过的那首歌。Siri 没有破坏我的一点点小兴致，以发布会 demo 的水准迅速识别了我说的话并准确地开始播放。
 
 
@@ -14,8 +13,6 @@ title: "10 Years of iPhone"
 image: https://cl.ly/oR27/iphone10years1
 ---
 
-
-![](https://cl.ly/oR27/iphone10years1)
 
 __iPhone 在过去的 10 年里改变的，远远不止我们接起电话说 "Hello" 的方式。__
 

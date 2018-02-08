@@ -1,5 +1,4 @@
 ---
-
 excerpt: "还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？
 
 
@@ -10,8 +9,6 @@ title: "新 MacBook Pro, with iOS 10."
 image: https://cl.ly/oQlR/v2-56fa6d15f92ebddec2b7494806650fc4_r
 ---
 
-
-![](https://cl.ly/oQlR/v2-56fa6d15f92ebddec2b7494806650fc4_r)
 
 > _还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？_
 > 

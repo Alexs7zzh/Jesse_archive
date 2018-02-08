@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPpp/6750f7bc0ff865e2785ae2506f6f431a_r)
 
 
@@ -82,8 +81,6 @@ title: "唱衰知乎已经没有用了。"
 image: https://cl.ly/oPpp/6750f7bc0ff865e2785ae2506f6f431a_r
 ---
 
-
-![](https://cl.ly/oPpp/6750f7bc0ff865e2785ae2506f6f431a_r)
 
 我点开了三年前，2013年2月，给我在知乎的前两个回答点赞的全部16个用户的主页。
 

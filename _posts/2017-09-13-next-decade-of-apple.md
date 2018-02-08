@@ -1,5 +1,4 @@
 ---
-
 excerpt: "如果你回顾一下 iPhone 的 10 年历史，我觉得即使称这场发布会为除初代 iPhone 发布会之外最重要的一场苹果发布会也不为过。
 
 
@@ -14,8 +13,6 @@ title: "苹果的下一个十年"
 image: https://cl.ly/oQq0/WechatIMG43-768x421
 ---
 
-
-![](https://cl.ly/oQq0/WechatIMG43-768x421)
 
 如果你回顾一下 iPhone 的 10 年历史，我觉得即使称这场发布会为除初代 iPhone 发布会之外最重要的一场苹果发布会也不为过。
 

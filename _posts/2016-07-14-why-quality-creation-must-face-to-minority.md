@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oQ9Q/3766c8476a8c12298ac6e72e7faf67fa_r)
 
 
@@ -14,8 +13,6 @@ title: "为什么有质量的创作一定是面向小众的？"
 image: https://cl.ly/oQ9Q/3766c8476a8c12298ac6e72e7faf67fa_r
 ---
 
-
-![](https://cl.ly/oQ9Q/3766c8476a8c12298ac6e72e7faf67fa_r)
 
 因为面向小众的文章可以不「标题党」。
 

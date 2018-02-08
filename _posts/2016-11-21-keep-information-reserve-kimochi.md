@@ -1,13 +1,10 @@
 ---
-
 excerpt: "一则关于[《一天世界》#36 苹果大书](https://link.zhihu.com/?target=http%3A//ipn.li/yitianshijie/36/) 的听众反馈。"
 title: "保存信息与保存心情"
 
 image: https://cl.ly/oQ5e/photo-1415201364774-f6f0bb35f28f-1-768x512
 ---
 
-
-![](https://cl.ly/oQ5e/photo-1415201364774-f6f0bb35f28f-1-768x512)
 
 _一则关于[《一天世界》#36 苹果大书](https://link.zhihu.com/?target=http%3A//ipn.li/yitianshijie/36/) 的听众反馈。_
 

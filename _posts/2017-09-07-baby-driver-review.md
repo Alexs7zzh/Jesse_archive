@@ -1,13 +1,10 @@
 ---
-
 excerpt: "《Baby Drive》是暑期爆米花电影的终极形态，明快的节奏，直白的抒情，胡逼的故事，一切都俗爆了，毫无内涵却又形成了一种独特的 flow，让人畅快淋漓，汗毛倒立，肾上腺素狂飙。"
 title: "《Baby Driver》：可乐对身体有害，但它是夏天的燃料。"
 
 image: https://cl.ly/oPRj/MV5BZjJmYmYxMzItNTQyOC00OTNiLWFmMWMtYjViNjk3YTY4ZmY4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_-768x432
 ---
 
-
-![](https://cl.ly/oPRj/MV5BZjJmYmYxMzItNTQyOC00OTNiLWFmMWMtYjViNjk3YTY4ZmY4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_-768x432)
 
 _《Baby Drive》是暑期爆米花电影的终极形态，明快的节奏，直白的抒情，胡逼的故事，一切都俗爆了，毫无内涵却又形成了一种独特的 flow，让人畅快淋漓，汗毛倒立，肾上腺素狂飙。_
 

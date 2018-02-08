@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPOD/f934a66bb876fab5ea37a1c6fc9c7007_r)
 
 
@@ -23,8 +22,6 @@ title: "又一个被知乎从TL上雪藏的问题"
 image: https://cl.ly/oPOD/f934a66bb876fab5ea37a1c6fc9c7007_r
 ---
 
-
-![](https://cl.ly/oPOD/f934a66bb876fab5ea37a1c6fc9c7007_r)
 
 题主没有给出来源，所以暂时还无法得知这个消息的真伪。  
 所以下面的答案权当是对于知乎到底需不需要留住那些老的「大牛」的一点个人见解。

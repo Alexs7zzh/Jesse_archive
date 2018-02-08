@@ -1,13 +1,10 @@
 ---
-
 excerpt: "《Dunkirk》颠覆了战争片的经典范式，诺兰镜头下的人们，既不是毫无意义的蝼蚁，也不是所向披靡的超人。这样的一个个普通人，唤醒了同为普通人的我们对战争的意识和觉悟。"
 title: "《Dunkirk》：当战争中的他们不再是英雄或蝼蚁"
 
 image: https://cl.ly/oQ3r/Dunkirk-Official-Movie-Wallpaper-768x480
 ---
 
-
-![](https://cl.ly/oQ3r/Dunkirk-Official-Movie-Wallpaper-768x480)
 
 _《Dunkirk》颠覆了战争片的经典范式，诺兰镜头下的人们，既不是毫无意义的蝼蚁，也不是所向披靡的超人。这样的一个个普通人，唤醒了同为普通人的我们对战争的意识和觉悟。_
 

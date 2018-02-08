@@ -1,5 +1,4 @@
 ---
-
 excerpt: "作为一个消费者，在总结自己的数字生活的时候，我无意于去评价 2016 年「是否是技术上伟大的一年」，但无论是回想起这一年来对我重要的几个时刻，还是日常生活的变化，技术无不在其中发挥着巨大的作用。
 
 
@@ -11,8 +10,6 @@ title: "Salute to the digital 2016 in a hard way"
 image: https://cl.ly/oQtj/photo-1477124508671-45ba8ede458f-1
 ---
 
-
-![](https://cl.ly/oQtj/photo-1477124508671-45ba8ede458f-1)
 
 _保留一切相关的权利。_
 

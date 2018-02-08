@@ -1,5 +1,4 @@
 ---
-
 title: "改版在即"
 excerpt: "之前跟朋友 tease 了一下这个 Project Soba。其实就是对「大破进击」博客进行了一次彻底的更新换代。换掉了博客框架，有了更现代的界面、更完善的功能。
 
@@ -22,8 +21,6 @@ tags: Log 日常
 image: "/assets/images/2018/IMG_5354.jpg"
 ---
 
-
-![]({{ "/assets/images/2018/IMG_5354.jpg" | absolute_url }})
 
 害，久しぶり。（并不
 

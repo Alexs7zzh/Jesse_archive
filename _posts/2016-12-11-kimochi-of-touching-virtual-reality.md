@@ -1,5 +1,4 @@
 ---
-
 excerpt: "其实还是很羡慕的，如果在这么长久的时间里，都能保持着对初音也好，整个 Vocaloid 也好的热爱。虽然刚刚在[一篇文章](https://zhuanlan.zhihu.com/p/24198264)里把 Vocaloid 写得已经药丸了。
 
 
@@ -26,8 +25,6 @@ title: "触碰虚拟现实的中二心情"
 image: https://cl.ly/oQ7l/v2-f219f4ba1d2ba3cbea1f2d50ac5f453c_r
 ---
 
-
-![](https://cl.ly/oQ7l/v2-f219f4ba1d2ba3cbea1f2d50ac5f453c_r)
 
 一
 

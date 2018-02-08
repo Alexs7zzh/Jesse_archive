@@ -1,5 +1,4 @@
 ---
-
 excerpt: "对啊，这个世界是属于现充的，你们这些在次文化圈子里装得人模狗样的「硬核玩家」又算个什么东西？  
 **在次文化圈子里越是核心，在主流文化的圈子里就越边缘，就越是 loser 。**
 
@@ -11,8 +10,6 @@ title: "一个 loser 和很多个 losers"
 image: https://cl.ly/oPnw/0a5438e64c5b2b7ef3fa0cc3dd40dc7e_r
 ---
 
-
-![](https://cl.ly/oPnw/0a5438e64c5b2b7ef3fa0cc3dd40dc7e_r)
 
 原文发布于：[你觉得什么样的人是 loser？ - Jesse Chan 的回答](https://www.zhihu.com/question/20365580/answer/62175444)
 

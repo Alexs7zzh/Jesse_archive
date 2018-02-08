@@ -1,5 +1,4 @@
 ---
-
 excerpt: "最近4年以来，《Frozen》在制作技术上爬上了一个新的台阶，《Inside Out》在动画创意上达到了一个新的次元，《Kung-Fu Panda 3》在美术水准上到达了一个新的水准。这是好莱坞的动画工业在对未来探索上的匍匐前进。**而当 PIXAR 、DreamWorks 都在尝试着在某些方面突破自我，这一部《Zootopia》所带来的，是全面而整体的好莱坞动画革命。**
 
 
@@ -11,8 +10,6 @@ title: "《Zootopia》：我可能不应该给其他动画片打10分。"
 image: https://cl.ly/oPW4/e88190942f006a7bdc440cca652b5775_r
 ---
 
-
-![](https://cl.ly/oPW4/e88190942f006a7bdc440cca652b5775_r)
 
 最近4年以来，《Frozen》在制作技术上爬上了一个新的台阶，《Inside Out》在动画创意上达到了一个新的次元，《Kung-Fu Panda 3》在美术水准上到达了一个新的水准。这是好莱坞的动画工业在对未来探索上的匍匐前进。**而当 PIXAR 、DreamWorks 都在尝试着在某些方面突破自我，这一部《Zootopia》所带来的，是全面而整体的好莱坞动画革命。**
 

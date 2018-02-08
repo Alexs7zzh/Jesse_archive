@@ -1,5 +1,4 @@
 ---
-
 excerpt: "> 「一期一会」妙在它从不强调要努力改变你们相逢或相离的轨迹，审慎就好，恭敬就好，珍惜就好。
 
 
@@ -26,8 +25,6 @@ title: "回望知乎 003丨茶道里的「一期一会」是什么意思？"
 image: https://cl.ly/oPS5/lkjrucblg9i-patrick-fore
 ---
 
-
-![](https://cl.ly/oPS5/lkjrucblg9i-patrick-fore)
 
 > 「一期一会」妙在它从不强调要努力改变你们相逢或相离的轨迹，审慎就好，恭敬就好，珍惜就好。
 

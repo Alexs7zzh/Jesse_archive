@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPOI/1fa9edd8e80ee6bb802e24cf18ad49c8_r)
 
 
@@ -18,8 +17,6 @@ title: "Cheerleader Apple"
 image: https://cl.ly/oPOI/1fa9edd8e80ee6bb802e24cf18ad49c8_r
 ---
 
-
-![](https://cl.ly/oPOI/1fa9edd8e80ee6bb802e24cf18ad49c8_r)
 
 我刚刚度过了我可能是我使用智能手机的人生中最灰暗的三个月，使用着一台Android手机。
 

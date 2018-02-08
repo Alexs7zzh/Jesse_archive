@@ -1,5 +1,4 @@
 ---
-
 excerpt: "葛巾老师离开知乎的时候，说「梁园仍好」。岂止是仍好，最新的数据是[有两个知友在一天之内就涨了2800个粉](https://www.zhihu.com/question/29441948/answer/48899921)。
 
 
@@ -14,8 +13,6 @@ title: "黄金时代 ——《我日的知乎》序言"
 image: https://cl.ly/oPqt/ef8dc88ecaee38467c6b963e8859f3b7_r
 ---
 
-
-![](https://cl.ly/oPqt/ef8dc88ecaee38467c6b963e8859f3b7_r)
 
 这是葛巾老师离开知乎的第11个月，也是知乎三大软狗中我个人觉得贡献好内容最多的winter离开知乎的第40多天。
 

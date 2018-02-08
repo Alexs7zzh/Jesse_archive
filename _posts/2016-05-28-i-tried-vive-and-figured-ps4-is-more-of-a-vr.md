@@ -1,5 +1,4 @@
 ---
-
 excerpt: "这应该是我最后一次，写关于主流语境下「狭义上的 VR」的文章了。
 
 
@@ -18,8 +17,6 @@ title: "「我玩了一下 Vive，然后发现 PS4 都比它更 VR 。」"
 image: https://cl.ly/oQsk/4f1bcaf2ab8be0807067535e4b4a9c3f-768x432
 ---
 
-
-![](https://cl.ly/oQsk/4f1bcaf2ab8be0807067535e4b4a9c3f-768x432)
 
 这应该是我最后一次，写关于主流语境下「狭义上的 VR」的文章了。
 

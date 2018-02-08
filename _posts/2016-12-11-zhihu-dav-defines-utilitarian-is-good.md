@@ -1,5 +1,4 @@
 ---
-
 excerpt: "> 知乎本质上是一群**有精神洁癖**的**半吊子屌丝知识分子**集中**意淫**的地方。
 > 
 > 为什么说这里屌丝，看看知乎大V们可怜的变现能力就知道了。"
@@ -8,8 +7,6 @@ title: "最新消息：知乎大威定义了，世俗的就是好的。"
 image: https://cl.ly/oQed/aqncc2h1eme-joanna-kosinska
 ---
 
-
-![](https://cl.ly/oQed/aqncc2h1eme-joanna-kosinska)
 
 > 知乎本质上是一群**有精神洁癖**的**半吊子屌丝知识分子**集中**意淫**的地方。
 > 

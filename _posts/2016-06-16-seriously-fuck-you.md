@@ -1,5 +1,4 @@
 ---
-
 excerpt: "这种来知乎抄答案的营销微博，又找到新方法了。
 
 
@@ -19,8 +18,6 @@ title: "Seriously，肏您妈。"
 image: https://cl.ly/oPVz/9d03b70e580ec919c256baa7a8d7a5fc_r-768x512
 ---
 
-
-![](https://cl.ly/oPVz/9d03b70e580ec919c256baa7a8d7a5fc_r-768x512)
 
 这种来知乎抄答案的营销微博，又找到新方法了。
 

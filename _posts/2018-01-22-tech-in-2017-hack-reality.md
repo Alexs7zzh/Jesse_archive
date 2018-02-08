@@ -1,5 +1,4 @@
 ---
-
 title: "Tech in 2017: Hack Reality"
 excerpt: "「哪件数码产品最能代表 2017 年？」
 
@@ -14,8 +13,6 @@ image: "/assets/images/2018/anas-alshanti-169265.jpg"
 image: "/assets/images/2018/anas-alshanti-169265.jpg"
 ---
 
-
-![]({{ "/assets/images/2018/anas-alshanti-169265.jpg" | absolute_url }})
 
 「哪件数码产品最能代表 2017 年？」
 我本想从这个问题切入，来总结 2017 年的数字生活。

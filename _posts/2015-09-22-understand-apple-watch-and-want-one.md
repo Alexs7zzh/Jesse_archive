@@ -1,5 +1,4 @@
 ---
-
 excerpt: "所以当我一旦把Apple Watch和同价位的传统手表放在一起比较的时候，我发现Apple Watch变成了一个在我能接受的价格范围内展示我个人人格的极好工具，比我现在戴的这块售价也几乎相当于最低价Apple Watch一半的表好太多了。
 "
 title: "Understand Apple Watch and want one"
@@ -7,8 +6,6 @@ title: "Understand Apple Watch and want one"
 image: https://cl.ly/oQBv/b50e990efeaa5d07b2b4b059f883b83e_r
 ---
 
-
-![](https://cl.ly/oQBv/b50e990efeaa5d07b2b4b059f883b83e_r)
 
 _关于我为什么想买Apple Watch，通过用手机判断一个人的人格到底是否错误，以及为什么有果粉。_
 

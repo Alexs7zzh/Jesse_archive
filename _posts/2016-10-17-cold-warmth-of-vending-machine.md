@@ -1,5 +1,4 @@
 ---
-
 excerpt: "（晚上读了最新一期[离线](https://zhuanlan.zhihu.com/theoffline)《[自动贩卖机：买下全宇宙](https://link.zhihu.com/?target=https%3A//the-offline.com/issue/31/)》，突然很想写点什么，然后就有了这一篇。）
 
 
@@ -10,8 +9,6 @@ title: "自贩机的冷酷温情"
 image: https://cl.ly/oPsA/15192045998_77255b121f_k
 ---
 
-
-![](https://cl.ly/oPsA/15192045998_77255b121f_k)
 
 （晚上读了最新一期[离线](https://zhuanlan.zhihu.com/theoffline)《[自动贩卖机：买下全宇宙](https://link.zhihu.com/?target=https%3A//the-offline.com/issue/31/)》，突然很想写点什么，然后就有了这一篇。）
 

@@ -1,13 +1,10 @@
 ---
-
 excerpt: "关于互联网和教育正在使方言消亡，《三体》中所描述的那种语言在未来也许会成为现实，我们能不能做到完全的「接地气」和如何说话才是「不反智」。"
 title: "「方言的日渐式微，证明了互联网的强大。」"
 
 image: https://cl.ly/oQe4/0b7cc68c123b20551654d91e1ba13980_r-768x480
 ---
 
-
-![](https://cl.ly/oQe4/0b7cc68c123b20551654d91e1ba13980_r-768x480)
 
 （题图 via wonderfulengineering.com）
 

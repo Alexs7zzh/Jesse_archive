@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPSw/8461f88c66b3d38fd632d8616e4171a0_r)
 
 
@@ -26,8 +25,6 @@ title: "剥了你那一身狗皮"
 image: https://cl.ly/oPSw/8461f88c66b3d38fd632d8616e4171a0_r
 ---
 
-
-![](https://cl.ly/oPSw/8461f88c66b3d38fd632d8616e4171a0_r)
 
 我在半个多月之前在另一篇文章是这么说的。
 

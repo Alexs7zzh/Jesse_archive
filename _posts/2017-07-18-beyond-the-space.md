@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oQmP/photo-1452289765185-5df11aa2a706-copy-768x533)
 
 
@@ -14,8 +13,6 @@ title: " 超然于空间"
 image: https://cl.ly/oQmP/photo-1452289765185-5df11aa2a706-copy-768x533
 ---
 
-
-![](https://cl.ly/oQmP/photo-1452289765185-5df11aa2a706-copy-768x533)
 
 _&&我觉得技术的发展理应让信息超越空间，特别是在内容行业这样对实体的依赖特别小的领域里&&我希望自己能抓住的则是那些难以超越空间的东西。_
 

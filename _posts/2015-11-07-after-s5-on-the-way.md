@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r)
 
 
@@ -38,8 +37,6 @@ title: "写在S5之后：在路上"
 image: https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r
 ---
 
-
-![](https://cl.ly/oPyd/63ed681ae210efd9f0ac9920d9fb29d4_r)
 
 彩屑落下，灯光升起，英雄加冕，S5正式宣告落幕。这是英雄联盟的第五年。五年，韩国拿了三个冠军，LPL战队从夺冠大热门开始，八强全数折戟沉沙。
 

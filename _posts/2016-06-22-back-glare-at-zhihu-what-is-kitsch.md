@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPRi/9d43a1812ca9acb66fec154c03494dbf_r-768x512)
 
 
@@ -30,8 +29,6 @@ title: "回望知乎 001丨刻奇（Kitsch）是什么？如何克服刻奇？"
 image: https://cl.ly/oPRi/9d43a1812ca9acb66fec154c03494dbf_r-768x512
 ---
 
-
-![](https://cl.ly/oPRi/9d43a1812ca9acb66fec154c03494dbf_r-768x512)
 
 最近有两个，其实两三年前我就在知乎看到，并且当时的印象就很深的答案，再次刷上我的知乎 Timeline 。
 

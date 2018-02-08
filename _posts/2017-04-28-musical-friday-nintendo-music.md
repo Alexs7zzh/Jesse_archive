@@ -1,5 +1,4 @@
 ---
-
 excerpt: "在制作这期视频[《新鲜度 90+ | 能带来不一样体验的 Nintendo Switch》](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
 
 
@@ -16,8 +15,6 @@ title: "【M】周五音乐组 -remake：任天堂音乐考"
 image: https://cl.ly/oQ3X/nintendo-characters-wallpapers-high-definition-768x480
 ---
 
-
-![](https://cl.ly/oQ3X/nintendo-characters-wallpapers-high-definition-768x480)
 
 在制作这期视频[《新鲜度 90+ | 能带来不一样体验的 Nintendo Switch》](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
 

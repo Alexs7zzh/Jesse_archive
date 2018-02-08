@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPxa/7375720bc71ab6efedfc1f3217fde00c_r)
 
 
@@ -26,8 +25,6 @@ title: "「都市传说」在知乎"
 image: https://cl.ly/oPxa/7375720bc71ab6efedfc1f3217fde00c_r
 ---
 
-
-![](https://cl.ly/oPxa/7375720bc71ab6efedfc1f3217fde00c_r)
 
 （文章内图片截图自新浪微博，搜索自Google）
 

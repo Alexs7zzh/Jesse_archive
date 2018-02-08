@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oR1s/v2-db936a1d481734eb3d94b92bea18e20a_r)
 
 
@@ -23,8 +22,6 @@ title: "什么是「先进的」、「现代的」智能手机？"
 image: https://cl.ly/oR1s/v2-db936a1d481734eb3d94b92bea18e20a_r
 ---
 
-
-![](https://cl.ly/oR1s/v2-db936a1d481734eb3d94b92bea18e20a_r)
 
 在端传媒上发布的一篇对电影《La La Land》导演，Damien Chazelle 的[采访](https://link.zhihu.com/?target=https%3A//theinitium.com/article/20170222-culture-movie-DamienChazelle/)中，他这样描述这部电影：
 

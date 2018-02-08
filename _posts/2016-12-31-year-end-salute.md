@@ -1,5 +1,4 @@
 ---
-
 excerpt: "毕业散伙饭上，大家喝过一点酒之后，就有同学，善意地，向我提出了人生忠告：
 
 
@@ -15,8 +14,6 @@ title: "茫茫于时间"
 image: https://cl.ly/oQy5/qll_mif7xjc-kelly-sikkema
 ---
 
-
-![](https://cl.ly/oQy5/qll_mif7xjc-kelly-sikkema)
 
 一
 

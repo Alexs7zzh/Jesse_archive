@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPUe/ec2e4b812f24ea5bff2b7af14aef5896_r)
 
 
@@ -38,8 +37,6 @@ title: "日曜日"
 image: https://cl.ly/oPUe/ec2e4b812f24ea5bff2b7af14aef5896_r
 ---
 
-
-![](https://cl.ly/oPUe/ec2e4b812f24ea5bff2b7af14aef5896_r)
 
 _一篇去年这个时候写的旧文。在一年之后的现在，过完年之后大家陆陆续续散了，最后一个假期过完。即使有了更多的财务自由来吃吃喝喝，想买的东西也都买了。晚上回家，路灯把影子拉长，徒增出许多空虚，也只觉得更看不清眼前的路。_
 

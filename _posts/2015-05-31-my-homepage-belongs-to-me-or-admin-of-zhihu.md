@@ -1,5 +1,4 @@
 ---
-
 excerpt: "![](https://cl.ly/oPae/6b2522ab57355b9d435368c8d4999ca7_r)
 
 
@@ -10,8 +9,6 @@ title: "我的首页还是知乎管理员的首页？"
 image: https://cl.ly/oPae/6b2522ab57355b9d435368c8d4999ca7_r
 ---
 
-
-![](https://cl.ly/oPae/6b2522ab57355b9d435368c8d4999ca7_r)
 
 吃完饭正坐在电脑前刷知乎。在TL上看到 [@子雄](https://www.zhihu.com/people/e41a75ba81f6b90038da375599b8ed30) 关注了这样一个问题，[如何看待知乎友善制度逼走 winter？](https://www.zhihu.com/question/30782408)，还给问题下的几个答案点了赞。自己当时没点进去，只是注意到了这个问题，先去处理自己的消息了。
 
