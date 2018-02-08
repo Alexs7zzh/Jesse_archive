@@ -13,7 +13,12 @@ layout: blog-default
 					<h1 itemprop="headline" itemprop="name headline">{{ page.title }}</h1>
 					{%- include components/article-data.html -%}
 				</header>
-				<div class="m-article-content js-article-content" itemprop="articleBody">{{ content }}</div>
+				<div class="m-article-content js-article-content" itemprop="articleBody">
+                    {%- if page.image -%}
+                    <p><img src="{{ page.image | absolute_url }}" alt=""></p>
+                    {%- endif -%}
+                    {{ content }}
+                </div>
 				<footer>
 					{%- if page.modify_date -%}
 						<span>更新于
