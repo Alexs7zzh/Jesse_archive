@@ -11,7 +11,7 @@
     height: map-get($layout, header-height);
     font-size: map-get($base, font-size-h3);
     @include media-breakpoint-down(s) {
-      height: map-get($layout, header-height-s) + 1rem;
+      height: map-get($layout, header-height);
       float: none;
     }
   }
