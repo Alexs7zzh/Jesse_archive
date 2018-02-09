@@ -48,9 +48,16 @@ plugins:
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_posts/blog"
     values:
       layout: post
+      category: blog
+      
+  - scope:
+      path: "_posts/microblog"
+    values:
+      layout: post
+      category: blog
 
 
   - scope:
