@@ -10,6 +10,7 @@
     @include align-items(center);
     height: map-get($layout, header-height);
     font-size: map-get($base, font-size-h3);
+    font-weight: font-weight-bold;
     @include media-breakpoint-down(s) {
       height: map-get($layout, header-height-s);
       float: none;
