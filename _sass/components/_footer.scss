@@ -16,8 +16,11 @@
     @include link-text-colors ( $text-color-3, $main-color-1);
   }
   .site-info {
-    text-align: center;
+    @include align-items(center);
     font-size: map-get($base, font-size-tiny);
     margin: 0 auto;
+    img {
+      height: map-get($base, font-size-tiny);
+    }
   }
 }
