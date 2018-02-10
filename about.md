@@ -1,8 +1,7 @@
 ---
 layout: page
-titles: "关于本站"
+titles: "关于"
 permalink: /about/
-image: 
 ---
 
 # 关于我
