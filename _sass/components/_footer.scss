@@ -16,11 +16,16 @@
     @include link-text-colors ( $text-color-3, $main-color-1);
   }
   .site-info {
-    @include align-items(center);
+    text-align: center;
     font-size: map-get($base, font-size-tiny);
     margin: 0 auto;
+  }
+  .site-rss {
+    text-align: center;
+    font-size: map-get($base, font-size-h6);
+    margin: 0 auto;
     img {
-      height: map-get($base, font-size-tiny);
+      height: map-get($base, font-size-sub);
     }
   }
 }
