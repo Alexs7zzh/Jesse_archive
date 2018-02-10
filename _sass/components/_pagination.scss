@@ -2,6 +2,9 @@
   &>ul {
     @include horizontal-space();
   }
+  &>p {
+   color: #9c9c9c;
+  }
   .round-button.cur {
     background-color: $main-color-1;
     border-color: $main-color-1;
