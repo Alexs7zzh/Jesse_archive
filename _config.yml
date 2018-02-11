@@ -1,10 +1,6 @@
 url: "https://dev.jesor.me"
 title: "大破进击"
 description: "廃人日志。Cross the sea, we're still you and me."
-nav_lists:
-  - titles:
-      zh: 关于本站
-    url: /about.html
 
 lang: zh
 timezone: Asia/Shanghai
@@ -23,8 +19,18 @@ author:
 toc:
   # selectors: 'h1,h2,h3'
 
-paginate: 5
-paginate_path: /page:num/
+pagination:
+  enabled: true
+  debug: false
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ":title - Page :num of :max"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+  trail:
+    before: 4
+    after: 5
 
 excerpt_separator: <!--more-->
 permalink: /:year/:title/
@@ -40,10 +46,20 @@ exclude:
   - package.json
   - /node_modules
   - /vendor
+  - .gitignore
+  - .travis.yml
+  - jesor_rsa.enc
+  - jesor_rsa
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - "*.sublime-project"
+  - "*.sublime-workspace"
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jemoji
 
 defaults:

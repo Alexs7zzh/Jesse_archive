@@ -11,6 +11,19 @@
     }
    margin-bottom: 2.6rem;
   }
+.clipboard {
+ font-size: map-get($base, font-size-sub);
+font-weight: map-get($base, font-weight-bold);
+text-decoration: none;
+@include link-normal {
+color: $main-color-1;
+}
+@include link-emphasize {
+text-decoration: underline;
+color: $main-color-1;
+}
+@include transition(all .8s ease 0s);
+}
   .m-article-content {
     font-size: map-get($base, font-size-sub);
     h1,

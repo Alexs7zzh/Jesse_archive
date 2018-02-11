@@ -1,45 +1,36 @@
 ---
 layout: blog-default
-titles:
-  en: Blog
-  zh: 博客
-  zh-Hans: 博客
-  zh-Hant: 博客
+titles: "大破进击"
 ---
 <div class="m-home">
   <div class="main">
     <div class="m-post-list">
       {%- for post in paginator.posts -%}
         <article>
-          {%- assign __path = post.url -%}
-          {%- include snippets/prepend-baseurl.html -%}
-          {%- assign href = __return -%}
-          <h1><a href="{{ href }}">{{ post.title }}</a></h1>
+            {%- if post.categories contains 'blog' -%}
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
           <div class="m-article-content">
               {{ post.excerpt | markdownify }}
           </div>
-          {%- assign __path = post.url -%}
-          {%- include snippets/prepend-baseurl.html -%}
-          {%- assign __locale = site.data.locale.READMORE -%}
-          {%- include snippets/locale-to-string.html -%}
-          <a href="{{ href }}">{{ __return }}</a>
+          <a href="{{ post.url | relative_url }}">阅读全文</a>
           {%- include components/article-data.html -%}
+          {%- else -%}
+          <div class="m-article-content">
+              {{ post.excerpt | markdownify }}
+          </div>
+          <div class="clipboard" id="clipboard" data-clipboard-text="{{ post.url | absolute_url }}">复制链接</div>
+          {%- include components/article-data.html -%}
+          {%- endif -%}
         </article>
       {%- endfor -%}
     </div>
+    
     {%- if paginator.total_pages > 1 -%}
         <nav class="m-pagination">
-          {%- assign __locale = site.data.locale.STATISTICS -%}
-          {%- include snippets/locale-to-string.html -%}
-          {%- assign post_count = site.posts | size -%}
-          {%- assign page_count = paginator.total_pages -%}
-          <p>{{ __return | replace: '[POST_COUNT]', post_count | replace: '[PAGE_COUNT]', page_count }}</p>
+          <p>共计 {{ paginator.total_posts }} 篇文章，{{ paginator.total_pages }} 页</p>
           <ul>
           {%- if paginator.previous_page -%}
-            {%- assign __path = paginator.previous_page_path -%}
-            {%- include snippets/prepend-baseurl.html -%}
-            {%- assign href = __return -%}
-            <li><a class="round-button" href="{{ href }}">
+            <li><a class="round-button" href="{{ paginator.previous_page_path | relative_url }}">
               <div class="icon icon--previous">{%- include icon/previous.svg -%}</div></a>
             </li>
           {%- else -%}
@@ -47,37 +38,18 @@ titles:
               <div class="icon icon--prrevious">{%- include icon/previous.svg -%}</div></div>
             </li>
           {%- endif -%}
-          {%- for page in (1..paginator.total_pages) -%}
-            {%- if page == paginator.page -%}
-              <li>
-                <div class="round-button cur"><span>{{ page }}</span></div>
-              </li>
-            {%- elsif page == 1 -%}
-              {%- if site.paths.base -%}
-                {%- assign __path = site.paths.base -%}
-              {%- else -%}
-                {%- assign __path = '/' -%}
-              {%- endif -%}
-              {%- include snippets/prepend-baseurl.html -%}
-              {%- assign href = __return -%}
-              <li>
-                <a class="round-button" href="{{ href }}"><span>{{ page }}</span></a>
-              </li>
-            {%- else -%}
-              {%- assign __path = site.paginate_path -%}
-              {%- include snippets/prepend-baseurl.html -%}
-              {%- assign href = __return -%}
-              <li>
-                <a class="round-button" href="{{ href | replace: ':num', page }}"><span>{{ page }}</span></a>
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
+          
+          {% if paginator.page_trail %}
+          {% for trail in paginator.page_trail %}
+          <li>
+              <a class="round-button {% if page.url == trail.path %}cur{% endif %}" href="{{ trail.path | remove: "index.html" }}" title="{{trail.title}}"><span>{{ trail.num }}</span></a>
+          </li>
+          {% endfor %}
+          {% endif %}
+          
           {%- if paginator.next_page -%}
-            {%- assign __path = paginator.next_page_path -%}
-            {%- include snippets/prepend-baseurl.html -%}
-            {%- assign href = __return -%}
             <li>
-              <a class="round-button" href="{{ href }}">
+              <a class="round-button" href="{{ paginator.next_page_path }}">
                 <div class="icon icon--next">{%- include icon/next.svg -%}</div>
               </a>
             </li>
@@ -91,28 +63,4 @@ titles:
     {%- endif -%}
   </div>
 </div>
-{%- if site.leancloud.app_id and site.leancloud.app_key and site.leancloud.app_class and jekyll.environment != "development" -%}
-  <script src="//cdn1.lncld.net/static/js/3.4.1/av-min.js"></script>
-  <script>
-    $(function() {
-      AV.init({
-        appId: '{{ site.leancloud.app_id }}',
-        appKey: '{{ site.leancloud.app_key }}'
-      });
-      $(".article-view").each(function() {
-        var curId = this.id;
-        var query = new AV.Query('{{ site.leancloud.app_class }}');
-        query.equalTo('key', curId.substr(9));
-        query.first().then(function(result) {
-          if (result) {
-            $('#' + curId).text(result.attributes.views);
-          }
-        }, function(error) {
-          if (error) {
-            throw error;
-          }
-        });
-      });
-    });
-  </script>
-{%- endif -%}
+
