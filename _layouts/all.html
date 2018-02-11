@@ -9,6 +9,7 @@ titles: "文章列表"
     <!--group by year: http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year-->
     <section class="js-year-wrapper">
       {%- for post in site.posts -%}
+     {%- if post.categories contains 'blog' -%}
         {%- assign currentdate = post.date | date: '%Y' -%}
         {%- if currentdate != date -%}
           {%- unless forloop.first -%}</ul></section>{%- endunless -%}
@@ -32,6 +33,7 @@ titles: "文章列表"
           <a class="post-link" href="{{ href }}">{{ post.title }}</a>
         </li>
         {%- if forloop.last -%}</ul></section>{%- endif -%}
+     {%- endif -%}
       {%- endfor -%}
     </section>
   </div>
