@@ -19,7 +19,7 @@ titles: "大破进击"
           <div class="microblog-content">
               {{ post.excerpt | markdownify }}
           </div>
-          <div class="clipboard" id="clipboard" data-clipboard-text="{{ post.url | absolute_url }}">复制链接</div>
+          <div class="clipboard" data-clipboard-text="{{ post.url | absolute_url }}">复制链接</div>
           {%- include components/article-data.html -%}
           {%- endif -%}
           

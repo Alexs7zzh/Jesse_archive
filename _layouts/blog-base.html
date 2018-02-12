@@ -20,15 +20,14 @@
     <div class="m-page-stage js-page-stage">{{ content }}</div>
     {%- include components/footer.html -%}
     <script>
-        var btn = document.getElementById('clipboard');
-        var clipboard = new Clipboard(btn);
+        var clipboard = new Clipboard('.clipboard');
         clipboard.on('success', function(e) {
-                     console.log(e);
-                     });
-                     clipboard.on('error', function(e) {
-                                  console.log(e);
-                                  });
-        </script>
+          console.log(e);
+        });
+        clipboard.on('error', function(e) {
+          console.log(e);
+        });
+    </script>
     <script>
       $(function() {
         // display coding language
