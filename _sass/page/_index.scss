@@ -60,4 +60,116 @@
       max-height: 12rem;
     }
   }
+  .microblog-content {
+    font-size: map-get($base, font-size);
+    line-height: map-get($base, line-height-large);
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin: .5em 0 .8rem 0;
+    }
+    h1,
+    h2,
+    h3 {
+      color: $text-color;
+    }
+    h1,
+    h2 {
+      padding: 0;
+      border: 0 dashed $border-color;
+      border-bottom-width: 2px;
+    }
+    p {
+      margin: .5rem 0;
+    }
+    blockquote {
+      padding: 0 0 0 1rem;
+      border: 0 solid $border-color;
+      border-left-width: 4px;
+      margin: .8rem 0;
+      font-size: map-get($base, font-size);
+      color: $text-color-l;
+      p {
+       margin: .4rem 0;
+     }
+     > :last-child {
+     margin-bottom: 0;
+     }
+    }
+    h1 {
+      font-size: map-get($base, font-size-h1);
+    }
+    h2 {
+      font-size: map-get($base, font-size-h2);
+    }
+    h3 {
+      font-size: map-get($base, font-size-h3);
+    }
+    h4 {
+      font-size: map-get($base, font-size-h4);
+    }
+img:not(.emoji) {
+max-width: 100%;
+max-height: 37rem;
+vertical-align: middle;
+}
+.emoji {
+display: inline-block;
+vertical-align: text-bottom;
+width: map-get($base, line-height-large) * .7rem;
+height: map-get($base, line-height-large) * .7rem;
+}
+figure {
+&:before {
+content: attr(data-lang);
+display: block;
+border-top-left-radius: map-get($shape, round-rect-radius);
+border-top-right-radius: map-get($shape, round-rect-radius);
+padding: .5rem 1rem .5rem 0;
+color: $decorate-color;
+font-weight: map-get($base, font-weight-bold);
+text-align: right;
+text-transform: uppercase;
+}
+&>pre {
+margin: 0;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+&>code {
+padding-top: 0;
+&>.rouge-table {
+margin: 0;
+tbody, tr, td {
+border: none;
+padding-top: 0;
+padding-bottom: 0;
+}
+&>tbody {
+@include flexbox;
+&>tr {
+width: 100%;
+@include flexbox;
+&>.code {
+@include flexbox;
+overflow: auto;
+-webkit-overflow-scrolling: touch;
+}
+}
+}
+tbody td>pre {
+margin: 0;
+border-radius: 0;
+&.lineno {
+color: $text-color-l;
+@include user-select(none);
+}
+}
+}
+}
+}
+}
+  }
 }
