@@ -60,7 +60,7 @@
   h5,
   h6 {
     position: relative;
-    margin: map-get($base, vertical-space-large) + .5rem 0 map-get($base, vertical-space-large) 0;
+    margin-top: map-get($base, vertical-space-large) + .3rem;
     & > .anchor {
       @include link-text-colors($border-color, $main-color-1);
       @include transform(translate(-100% ,0));
@@ -79,21 +79,18 @@
   }
   h1,
   h2 {
-    border: 0 dashed $border-color;
-    border-bottom-width: 2px;
+    @include split-line(bottom);
   }
-  p {
-    margin: map-get($base, vertical-space-large) 0;
+  hr {
+    @include split-line();
   }
   blockquote {
-    padding: 0 0 0 1rem;
-    border: 0 solid $border-color;
-    border-left-width: 4px;
-    margin: .8rem 0;
+    padding-left: 1rem;
+    @include split-line(left, 4px, $border-color);
     font-size: map-get($base, font-size-sub);
     color: $text-color-l;
     p {
-      margin: map-get($base, vertical-space-large) 0;
+      margin: map-get($base, vertical-space) 0;
     }
     &>:last-child {
       margin-bottom: 0;

@@ -16,7 +16,9 @@
   }
   .article-previous-next {
     word-wrap: break-word;
-    margin-top: 3rem;
+    margin: map-get($base, vertical-space-large) * 2 0 map-get($base, vertical-space-large) 0;
+    padding-top: map-get($base, vertical-space-large) / 2;
+    @include split-line(top);
     & > .article-previous, & > .article-next {
       box-sizing: border-box;
       width: 50%;
