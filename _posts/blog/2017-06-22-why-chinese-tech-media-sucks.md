@@ -17,7 +17,7 @@ excerpt_img: true
 
 一阵屎意从腹部窜上来，让我不得不冲上楼去释放自己。在释放的过程中，我打开微信准备看看我最近喜欢看的一个海豹漫画是不是有更新。  
 
-看完海豹，它下面的一条推送进入了我的视线：「太羞耻了，那些年看过的 iPhone 谍照&&」我连标题都没有看完，就知道这篇文章是洗稿自我下午刚刚读过的一篇 Outline 的文章《[Leaked recording: Inside Apple's global war on leakers](https://link.zhihu.com/?target=https%3A//theoutline.com/post/1766/leaked-recording-inside-apple-s-global-war-on-leakers)》。
+看完海豹，它下面的一条推送进入了我的视线：「太羞耻了，那些年看过的 iPhone 谍照…」我连标题都没有看完，就知道这篇文章是洗稿自我下午刚刚读过的一篇 Outline 的文章《[Leaked recording: Inside Apple's global war on leakers](https://link.zhihu.com/?target=https%3A//theoutline.com/post/1766/leaked-recording-inside-apple-s-global-war-on-leakers)》。
 
 <br>
 
