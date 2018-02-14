@@ -1,4 +1,4 @@
-url: "https://dev.jesor.me"
+url: "https://soba.jesor.me"
 title: "大破进击"
 description: "廃人日志。Cross the sea, we're still you and me."
 
@@ -6,7 +6,7 @@ lang: zh
 timezone: Asia/Shanghai
 
 site:
-  url: https://dev.jesor.me
+  url: https://soba.jesor.me
 
 author:
   name: Jesse
