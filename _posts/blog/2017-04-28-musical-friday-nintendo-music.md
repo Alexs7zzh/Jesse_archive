@@ -6,7 +6,7 @@ image: "/assets/images/2017/v2-4ee3c42b9b8359dec05f57f298971a9f.jpg"
 excerpt_img: true
 ---
 
-在制作这期视频[《新鲜度 90+ | 能带来不一样体验的 Nintendo Switch》](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
+在制作这期视频[《新鲜度 90+：能带来不一样体验的 Nintendo Switch》](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
 
 **要聊任天堂的音乐制作，就不得不从 8-bit 时代的近藤浩治开始说起。**
 
