@@ -11,6 +11,7 @@ tags: 科技
 image: "/assets/images/2018/anas-alshanti-169265.jpg"
 
 image: "/assets/images/2018/anas-alshanti-169265.jpg"
+excerpt_img: true
 ---
 
 
