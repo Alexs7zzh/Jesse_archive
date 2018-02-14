@@ -13,7 +13,6 @@ excerpt: "之前跟朋友 tease 了一下这个 Project Soba。其实就是对�
 4. 将导航栏上的「关于我」、「关于本站」和「RSS」三个选项进行了逻辑重构。现在友链会被放在「关于本站」页面下，捐赠信息则是在「关于我」页面下，RSS 直接指向 RSS 链接。"
 tags: Log 日常
 image: "/assets/images/2018/IMG_5354.jpg"
-excerpt_img: true
 ---
 
 
