@@ -5,6 +5,7 @@ excerpt: "《闪光少女》在两个小时不到的片长里接连侮辱了民�
 title: "《闪光少女》：它侮辱了一切，却有一颗闪亮的灵魂。"
 tags: 电影
 image: "/assets/images/2017/peter-hershey-282615.jpg"
+excerpt_img:true
 ---
 
 我是看了「影向标」对《闪光少女》的评分，动了去看这部电影的念头。
