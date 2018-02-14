@@ -3,6 +3,7 @@ excerpt: "iPhone X 真正所关乎的、引领的，从来就不是什么「全�
 
 苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。"
 title: "iPhone X: A step beyond"
+tags: 科技
 
 image: "/assets/images/2017/tyler-lastovich-454477.jpg"
 excerpt_img: true
