@@ -2,10 +2,13 @@
 title: "HomePod: A Sound-hacking Speaker"
 excerpt: "这是 HomePod 根本的颠覆性所在。 从记录声音到重构声音，物理定律决定了单纯的回放不可能做到完美。对于狭小的空间，单体扬声器不可能回放出令人满意的立体声，HomePod 在音响领域迈出了 hack 声音的第一步，我无比期待看到它在未来还能做得更多更好。"
 tags: 科技
-image: "/assets/images/2018/apple-homepod-02.jpeg"
+image: "/assets/images/2017/apple-homepod-02.jpeg"
+excerpt_img: true
 ---
 
 HomePod 的第一批评测已经出炉了，结果和大部分人预想的都一样。HomePod 有着该价位无懈可击的最佳音质，同时又有着最简陋的功能，最封闭的生态。
+
+<br>
 
 去年的 WWDC 上苹果没有过分强调 HomePod 作为一个「智能音箱」中「智能」的部分，从一开始就将「声音」作为其核心卖点。在今天看来，苹果交上了一份完美的答卷。
 
@@ -15,13 +18,15 @@ The Verge 甚至给出了这样一个结论，如果你是一个 Audio nerds（�
 
 ## HomePod 是什么？
 
-所以 HomePod 是什么？
+**所以 HomePod 是什么？**
 
 Phil Schiller 把这件事解释得非常清楚：
 
 > It’s about creating an experience that moves with you throughout the day — so the experience you have at home, is replicated in the car with CarPlay, at work with iPad and Mac, and when you’re out for a run with Watch and iPhone. You can listen to the same music, control your home accessories or ask Siri to do something for you, wherever you are.
 
 （我们的任务就是创造一套全方位覆盖的声音体验。你在家里、在 HomePod 上的体验，可以在车上被 CarPlay 所复制；在办公室里重现，通过 iPad 和 Mac；运动的时候使用 Watch 和 iPhone 也是一样。你可以用完全相同的方式听音乐、控制智能家居、让 Siri 为你做某些事，无论你身处何处。）
+
+<br>
 
 **苹果想要接管用户所聆听的一切声音、发出的一切语音指令，24/7/365。**而 HomePod 就是在家庭环境下的关键一环。
 
@@ -56,7 +61,7 @@ HomePod 的核心卖点是声音。所有的媒体都对其在其类目下的声
 
 <br>
 
-戴上就可以聆听，喊出就可以播放，综合的体验甩出同类产品几个次元，这是苹果想通过自己的音频设备所做到的事情，尽管做到这一点可能需要对软硬件的强势掌控，也就意味着封闭，但这从来就是苹果的核心驱动力。
+戴上就可以聆听，喊出就可以播放，综合的体验甩出同类产品几个次元，这是苹果想通过自己的音频设备所做到的事情，尽管做到这一点可能需要对软硬件的强势掌控，也就意味着封闭，但这从来就是苹果式体验的核心驱动力。
 
 ## HomePod 预示了「数字音频」怎样的未来？
 我第一个能想到的，当然就是带降噪功能的 AirPods，这是从 AirPods 问世的第一天我就在期待的东西。
@@ -77,4 +82,4 @@ HomePod 的核心卖点是声音。所有的媒体都对其在其类目下的声
 
 <br>
 
-当我每每看到身边的朋友，有很多还在用 iPhone 本身的扬声器来播放声音，EarPods 就是他们唯一的耳机，我就越是觉得 AirPods 也好、HomePod 也好，有着非同凡响的意义。即使它们有着无数缺点，一直被包括我在内的 nerds 所诟病。我明确地知道，它们代表了未来的方向，标定了数字声音的下一个锚点。这也是苹果所最擅长的事情。
+当我每每看到身边的朋友，有很多还在用 iPhone 本身的扬声器来播放声音，EarPods 就是他们唯一的耳机，我就越是觉得 AirPods 也好、HomePod 也好，有着非同凡响的意义。即使它们有着无数缺点，一直被包括我在内的 nerds 所诟病。我明确地知道，它们代表了未来的方向，标定了数字声音的下一个锚点。这是苹果所最擅长的事情，也是作为用户的我想要看到其坚持做下去的事情。

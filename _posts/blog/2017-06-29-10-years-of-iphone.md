@@ -1,30 +1,29 @@
 ---
 excerpt: "今天下午回家的路上，一条推送显示在我的 Apple Watch 上，提醒我今天是 iPhone 发布十周年的纪念日。我对 iPhone 说：「Hey, Siri, play Snow by Red Hot Chilli Peppers.」，Steve 在 10 年前的 demo 上播放过的那首歌。Siri 没有破坏我的一点点小兴致，以发布会 demo 的水准迅速识别了我说的话并准确地开始播放。
 
-
-
 [初代 iPhone 的那个串剪了众多经典电影里接起电话说 「Hello」 的广告](https://www.youtube.com/watch?v=mmiWTKZzBLY)，至今仍然是我心中最棒的广告创意之一。
-
-
 
 只是 iPhone 在过去的 10 年里改变的，远远不止我们接起电话说「Hello」的方式，这大概是我在这样一个时刻还是有一点感动的原因，除了把苹果公司带向商业的顶端之外，iPhone 对我来说更重要的意义是把我与世界、与时间连接起来了，成为了我生活中不可或缺的一部分。"
 title: "10 Years of iPhone"
-
-image: https://cl.ly/oR27/iphone10years1
+tags: 科技
+image: "/assets/images/2017/v2-c4e6644c4147625a8717e5fd5df529ef.jpg"
 ---
 
-
-__iPhone 在过去的 10 年里改变的，远远不止我们接起电话说 "Hello" 的方式。__
-
 2007 年 6 月 29 日，那个时候的我很可能在做的事情是，用自己的小号，打开自己的 QQ 空间，一只手按住 F5，帮自己的 QQ 空间刷访问量。距离我拥有自己的第一台智能手机还有两年，距离我拥有自己的第一台 iPhone 的时刻则还有 5 年。  
+
 当然，那时在地球的另一端所正在发生的，就是之后我们看过无数次的那场发布会了。
+
+<br>
 
 Steve Jobs 走上台，宣布这是他们等待了两年半的一天，向台下兴奋的观众解释，今天苹果要发布的是三个革命性的产品，
 
-"An iPod, a phone, an Internet communicator. An iPod, a phone, an Internet communicator."  
+> An iPod, a phone, an Internet communicator. An iPod, a phone, an Internet communicator.
+
 输入完上面这行字的时候，我审视了几遍这个句子，仍然觉得 phone 这个单词的 P 如果不大写，似乎就不是那个用来表示「电话」这个意思的单词了。
 
 这大概是 iPhone 改变我们对世界认知的第一步。
+
+<br>
 
 5 年之后，我所拥有的第一台 iPhone 是 iPhone 4S，最后一代 3.5 英寸的 iPhone。对于当时那个还没被大屏手机所训练的我来说，就像 Steve 所说的，"it fits beautifully in your palm."
 
@@ -40,6 +39,8 @@ Steve Jobs 走上台，宣布这是他们等待了两年半的一天，向台下
 
 但我对 iPhone 一直保持着这样的信心，即使有为了功能所做的一些妥协，当你真的把最新款的 iPhone 拿在手上的时候，那种由结构到材质所带来的完整的体验，永远是同期的产品里最好的。
 
+<br>
+
 "I just take my finger, and I scroll."
 
 对于我来说，滑动屏幕的体验，是在很长一段时间里慢慢建立起来的。从最初的 iPod touch，到带 Retina 屏幕的 iPod touch 4，到 iPhone 4S。
@@ -52,9 +53,13 @@ Steve Jobs 走上台，宣布这是他们等待了两年半的一天，向台下
 
 无论是利用重力感应来操作的《Doodle Jump》、利用多点触控屏幕来操作的《Angry Birds》、《Fruit Ninja》,iPhone 给世界带来了很多全新的，前所未有的交互方式。它是丰富的、直觉的，又是精致的、具有美感的。
 
+<br>
+
 从 2012 年到现在的 5 年里我买了 3 台 iPhone，现在躺在桌上的 iPhone 6s 也进入了计划寿命的最终阶段，我对新 iPhone 没有特别多的期待，按照自己的节奏继续发展下去就好。Steve 10 年前说 iPhone 的软件领先其他手机 5 年，10 年后的今天我也没有在其他的手机上看到赶超的迹象。
 
 唯一让我稍微有点紧张的消息大概是下半年的新款 iPhone 在九月只有 400 万部的备货吧，我不想走到去 Apple Store 门口安营扎寨这一步。
+
+<br>
 
 今天下午回家的路上，一条推送显示在我的 Apple Watch 上，提醒我今天是 iPhone 发布十周年的纪念日。我对 iPhone 说："Hey, Siri, play Snow by Red Hot Chilli Peppers."，Steve 在 10 年前的 demo 上播放过的那首歌。Siri 没有破坏我的一点点小兴致，以发布会 demo 的水准迅速识别了我说的话并准确地开始播放。
 
