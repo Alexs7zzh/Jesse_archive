@@ -6,7 +6,7 @@ excerpt: "毕业散伙饭上，大家喝过一点酒之后，就有同学，善�
 所幸的是，至少在今天，我还不用这样做，不用这么快就「被社会磨平了棱角」，甚至是作为一个要面对公众的媒体人身份。而这也是我会竭尽我的全部努力，不去放弃的东西。"
 title: "茫茫于时间"
 tags: 日常
-image: "/assets/images/2017/qll_mif7xjc-kelly-sikkema.jpg"
+image: "/assets/images/2016/qll_mif7xjc-kelly-sikkema.jpg"
 excerpt_img: true
 ---
 
