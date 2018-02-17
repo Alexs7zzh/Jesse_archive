@@ -8,6 +8,10 @@ image: "/assets/images/2016/v2-56fa6d15f92ebddec2b7494806650fc4.jpg"
 excerpt_img: true
 ---
 
+接下来的内容仍然按照发布会顺序来写，方便大家找到自己想看的内容。
+
+<br>
+
 ![]({{ "/assets/images/2016/v2-fc8eb45d58a0320140f5c01d9c1994d7.jpg" | absolute_url }})
 
 ## Accessibility
