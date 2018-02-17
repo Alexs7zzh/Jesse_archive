@@ -1,6 +1,6 @@
 url: "https://soba.jesor.me"
 title: "大破进击"
-description: "廃人日志。Cross the sea, we're still you and me."
+description: "廃人日志。"
 logo: /assets/images/logo/android-chrome-512x512.png
 lang: zh
 timezone: Asia/Shanghai
@@ -18,6 +18,7 @@ author:
   telegram: Jesoooor
   zhihu: jesor
   instagram: jesoooor
+  telegram-channel: forwardlikehell
 
 toc:
   # selectors: 'h1,h2,h3'
