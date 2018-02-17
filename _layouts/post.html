@@ -29,6 +29,14 @@ layout: blog-default
 					{%- else -%}
 						<meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
 					{%- endif -%}
+                    <div class="article-previous-next clearfix">
+					{%- if page.next -%}
+						<div class="article-previous"><span>下篇</span><a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+					{%- endif -%}
+					{%- if page.previous -%}
+						<div class="article-next"><span>上篇</span><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></div>
+					{%- endif -%}
+					</div>
 				</footer>
 			</article>
 		</div>
