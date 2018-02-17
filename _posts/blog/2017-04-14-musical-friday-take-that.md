@@ -36,7 +36,7 @@ excerpt_img: true
 
 <br>
 
-我是在[三周前的《Carpool Karaoke》](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DjE_kWu9z_Zw)上才知道 Take That 的。听到这一首《Shine》之后，我发了一条 Tweet：
+我是在[三周前的《Carpool Karaoke》](https://www.youtube.com/watch?v=PWmVN4dZZgE)上才知道 Take That 的。听到这一首《Shine》之后，我发了一条 Tweet：
 
 ![]({{ "/assets/images/2017/v2-fa1badd0b49816e57eff6d862dee56d8.jpg" | absolute_url }})
 
