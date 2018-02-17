@@ -1,24 +1,9 @@
 ---
-excerpt: "![](https://cl.ly/oR1s/v2-db936a1d481734eb3d94b92bea18e20a_r)
-
-
-
-在端传媒上发布的一篇对电影《La La Land》导演，Damien Chazelle 的[采访](https://link.zhihu.com/?target=https%3A//theinitium.com/article/20170222-culture-movie-DamienChazelle/)中，他这样描述这部电影：
-
-
-
-> **我们不希望它看起来过时，我们也不希望它看起来很现代，我们希望它看起来永恒，我们希望做一个经久不衰的东西。**
-
-
-
-诚然，《La La Land》是一部具有十足的「前现代感」的电影，但就像[我在看过它之后写的影评](https://www.zhihu.com/question/50258333/answer/145869873)里说的，
-
-
-
-> **但这部电影里的植入软广，却一次次把我从这样的「前现代」体验里拉出来。**"
+excerpt: "我想这大概是现在国内很难做真正好的「产品」的原因，当所有人都在以客体的姿态，试图用自己的方式去度量一切，疯狂地追求着一切事物的「先进性」时，他们难以看到那些内在的、精神的、通过技术去切实让社会变得「更现代」的东西。"
 title: "什么是「先进的」、「现代的」智能手机？"
-
-image: https://cl.ly/oR1s/v2-db936a1d481734eb3d94b92bea18e20a_r
+tags: 科技 次文化
+image: "/assets/images/2017/v2-db936a1d481734eb3d94b92bea18e20a.jpg"
+excerpt
 ---
 
 
