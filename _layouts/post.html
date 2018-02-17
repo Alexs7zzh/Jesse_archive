@@ -15,7 +15,7 @@ layout: blog-default
 				</header>
                 {%- endif -%}
 				<div id="article" class="m-article-content js-article-content" itemprop="articleBody">
-                    {%- if page.image -%}
+                    {%- if page.image and page.image != '/assets/images/logo/android-chrome-512x512.png' -%}
                     <p><img src="{{ page.image | absolute_url }}" alt=""></p>
                     {%- endif -%}
                     {{ content }}
