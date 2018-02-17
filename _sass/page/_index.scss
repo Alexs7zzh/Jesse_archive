@@ -227,12 +227,12 @@
     border-collapse: collapse;
     th,
     td {
-      border: 1px solid $border-color;
+      border: 1px solid $border-color-1;
       padding: .5rem;
     }
     thead,
     tbody {
-      border: 1px solid $border-color;
+      border: 1px solid $border-color-1;
     }
     thead {
       border-bottom-width: 2px;
