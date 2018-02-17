@@ -37,7 +37,7 @@ pagination:
   sort_reverse: true
   trail:
     before: 3
-    after: 4
+    after: 3
 
 excerpt_separator: <!--more-->
 permalink: /:categories/:title/
