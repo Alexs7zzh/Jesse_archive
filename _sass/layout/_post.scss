@@ -16,7 +16,7 @@
   }
   .article-previous-next {
     word-wrap: break-word;
-    margin: map-get($base, vertical-space-large) 0;
+    margin-top: 3rem;
     & > .article-previous, & > .article-next {
       box-sizing: border-box;
       width: 50%;
