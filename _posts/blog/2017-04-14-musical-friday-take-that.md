@@ -87,4 +87,5 @@ Take That 的音乐没有多少前现代感，在 2017 年的今天，去听他�
     New Day
     Pray
     
+
 [FRIDAY MUSICAL: Take That by Jesse Chan on Apple Music](https://itunes.apple.com/us/playlist/friday-musical-take-that/idpl.0d129a4ea37841bd957b056c19c2254e)
