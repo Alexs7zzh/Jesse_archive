@@ -53,7 +53,7 @@
         }
     }
      .microblog-content {
-  margin-top: 1rem;
+ margin-top: 1rem;
   word-wrap: break-word;
   line-height: map-get($base, line-height-large);
   h1,
@@ -62,7 +62,7 @@
   h4,
   h5,
   h6 {
-    margin: .5em 0 .8rem 0;
+    margin: map-get($base, vertical-space-large) + .5rem 0 map-get($base, vertical-space-large) 0;
   }
   h1,
   h2 {
@@ -70,7 +70,7 @@
     border-bottom-width: 2px;
   }
   p {
-    margin: .5rem 0;
+    margin: map-get($base, vertical-space-large) 0;
   }
   blockquote {
     padding: 0 0 0 1rem;
@@ -80,7 +80,7 @@
     font-size: map-get($base, font-size-sub);
     color: $text-color-l;
     p {
-      margin: .4rem 0;
+      margin: map-get($base, vertical-space-large) 0;
     }
     &>:last-child {
       margin-bottom: 0;
@@ -120,7 +120,7 @@
     }
   }
   .highlighter-rouge, figure.highlight, pre {
-    margin: .8rem 0;
+    margin: map-get($base, vertical-space-large) 0;
   }
   .highlighter-rouge>.highlight, figure.highlight {
     &>pre {
@@ -128,7 +128,8 @@
     margin: 0;
     background-color: $text-background-color;
     &>code {
-      line-height: map-get($base, line-height-small);
+      display: block;
+      line-height: map-get($base, line-height);
     }
   }
 }
@@ -177,7 +178,7 @@
             }
             &>pre {
               @include round-rect(0, 0);
-              display: inline;
+              display: block;
               overflow: visible;
               margin: 0;
               &.lineno {
@@ -192,7 +193,7 @@
   }
   ul,
   ol {
-    margin: .8rem 0 .8rem 1.4rem;
+    margin: map-get($base, vertical-space-large) 0 map-get($base, vertical-space-large) 1.4rem;margin: .8rem 0 .8rem 1.4rem;
     li {
       margin: 0;
       p {
@@ -201,7 +202,7 @@
     }
   }
   dl {
-    margin: .8rem 0;
+    margin: map-get($base, vertical-space-large) 0;
     dt,
     dd {
       margin: 0;
@@ -221,16 +222,16 @@
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    margin: .8rem 0;
+    margin: map-get($base, vertical-space-large) 0;
     border-collapse: collapse;
     th,
     td {
-      border: 1px solid $border-color-1;
+      border: 1px solid $border-color-l;
       padding: .5rem;
     }
     thead,
     tbody {
-      border: 1px solid $border-color-1;
+      border: 1px solid $border-color-l;
     }
     thead {
       border-bottom-width: 2px;
