@@ -8,7 +8,7 @@
   height: map-get($layout, footer-height);
   margin-top: - map-get($layout, footer-height);
   background-color: $main-color-3;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   p {
     color: $text-color-3;
   }
@@ -22,7 +22,7 @@
   }
   .site-rss {
     text-align: center;
-    font-size: map-get($base, font-size-h6);
+    font-size: map-get($base, font-size-sub);
     margin: 0 auto;
     img {
       height: map-get($base, font-size-sub);
