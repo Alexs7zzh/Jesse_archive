@@ -1,175 +1,251 @@
 .m-post-list {
-  &>article {
-    &>h1 {
-      font-size: map-get($base, font-size-header-list);
-      &>a {
-        @include link-text-colors( $text-color-d, $main-color-1);
+     &>article {
+         &>h1 {
+             font-size: map-get($base, font-size-header-list);
+             &>a {
+                 @include link-text-colors( $text-color-d, $main-color-1);
+            }
+        }
+         &>a {
+             font-size: map-get($base, font-size-sub);
+        }
+         margin-top: 1rem;
+         margin-bottom: 2.6rem;
+    }
+     .clipboard {
+         font-size: map-get($base, font-size-sub);
+         font-weight: map-get($base, font-weight-bold);
+         @include link-normal {
+             color: $main-color-1;
+        }
+         @include link-emphasize {
+             text-decoration: underline;
+             color: $main-color-1;
+        }
+         @include transition(all .8s ease 0s);
+    }
+     .m-article-content {
+         font-size: map-get($base, font-size-sub);
+         h1, h2, h3, h4, h5, h6 {
+             margin: .8rem 0;
+        }
+         h1, h2, h3 {
+             color: $text-color;
+        }
+         h1, h2 {
+             padding: 0;
+             border: none;
+        }
+         h1 {
+             font-size: map-get($base, font-size-h1-excerpt);
+        }
+         h2 {
+             font-size: map-get($base, font-size-h2-excerpt);
+        }
+         h3 {
+             font-size: map-get($base, font-size-h3-excerpt);
+        }
+         h4 {
+             font-size: map-get($base, font-size-h4-excerpt);
+        }
+         img {
+             max-height: 12rem;
+        }
+    }
+     .microblog-content {
+  margin-top: 1rem;
+  word-wrap: break-word;
+  line-height: map-get($base, line-height-large);
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: .5em 0 .8rem 0;
+  }
+  h1,
+  h2 {
+    border: 0 dashed $border-color;
+    border-bottom-width: 2px;
+  }
+  p {
+    margin: .5rem 0;
+  }
+  blockquote {
+    padding: 0 0 0 1rem;
+    border: 0 solid $border-color;
+    border-left-width: 4px;
+    margin: .8rem 0;
+    font-size: map-get($base, font-size-sub);
+    color: $text-color-l;
+    p {
+      margin: .4rem 0;
+    }
+    &>:last-child {
+      margin-bottom: 0;
+    }
+  }
+  img:not(.emoji) {
+    max-width: 100%;
+    max-height: 37rem;
+    vertical-align: middle;
+  }
+  .emoji {
+    display: inline-block;
+    vertical-align: text-bottom;
+    width: map-get($base, line-height-large) * .7rem;
+    height: map-get($base, line-height-large) * .7rem;
+  }
+  code {
+    @include round-rect(default, .2rem .5rem);
+    span {
+      padding: 0;
+      margin: 0;
+    }
+  }
+  pre {
+    padding: 1rem 1rem;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    &>code {
+      background-color: transparent;
+      word-wrap: normal;
+      &.language-mermaid {
+        display: none;
+        &[data-processed] {
+          display: block;
+        }
       }
     }
-    &>a {
-      font-size: map-get($base, font-size-sub);
-    }
-   margin-top: 1rem;
-   margin-bottom: 2.6rem;
   }
-.clipboard {
-   font-size: map-get($base, font-size-sub);
-   font-weight: map-get($base, font-weight-bold);
-   @include link-normal {
-     color: $main-color-1;
-   }
-   @include link-emphasize {
-     text-decoration: underline;
-     color: $main-color-1;
-   }
-   @include transition(all .8s ease 0s);
-   }
-  .m-article-content {
-    font-size: map-get($base, font-size-sub);
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      margin: .8rem 0;
-    }
-    h1,
-    h2,
-    h3 {
-      color: $text-color;
-    }
-    h1,
-    h2 {
+  .highlighter-rouge, figure.highlight, pre {
+    margin: .8rem 0;
+  }
+  .highlighter-rouge>.highlight, figure.highlight {
+    &>pre {
+    @include round-rect(default, 1rem 1rem);
+    margin: 0;
+    background-color: $text-background-color;
+    &>code {
+      display: inline;
       padding: 0;
-      border: none;
-    }
-    h1 {
-      font-size: map-get($base, font-size-h1-excerpt);
-    }
-    h2 {
-      font-size: map-get($base, font-size-h2-excerpt);
-    }
-    h3 {
-      font-size: map-get($base, font-size-h3-excerpt);
-    }
-    h4 {
-      font-size: map-get($base, font-size-h4-excerpt);
-    }
-    img {
-      max-height: 12rem;
+      line-height: map-get($base, line-height-small);
     }
   }
-  .microblog-content {
-    font-size: map-get($base, font-size);
-    line-height: map-get($base, line-height-large);
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      margin: .5em 0 .8rem 0;
+}
+  figure.highlight {
+    &:before {
+      content: attr(data-lang);
+      display: block;
+      border-top-left-radius: map-get($shape, round-rect-radius);
+      border-top-right-radius: map-get($shape, round-rect-radius);
+      padding: .5rem 1rem .5rem 0;
+      color: $decorate-color;
+      background-color: $text-background-color;
+      font-weight: map-get($base, font-weight-bold);
+      text-align: right;
+      text-transform: uppercase;
     }
-    h1,
-    h2,
-    h3 {
-      color: $text-color;
+    &>pre {
+      padding-top: 0;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+      &>code {
+        &>.rouge-table {
+          width: auto;
+          margin: -1rem;
+          margin-top: 0rem;
+          tbody, tr, td {
+            border: none;
+            padding-top: 0;
+            padding-bottom: 0;
+          }
+          &>tbody {
+            padding: 0 1rem 1rem 1rem;
+            &>tr {
+              width: 100%;
+              @include flexbox;
+              &>.code {
+                @include flexbox;
+                overflow: auto;
+                -webkit-overflow-scrolling: touch;
+              }
+            }
+          }
+          tbody td {
+            &.gl {
+              padding-left: 1rem;
+            }
+            &>pre {
+              @include round-rect(0, 0);
+              display: inline;
+              overflow: visible;
+              margin: 0;
+              &.lineno {
+                color: $text-color-l;
+                @include user-select(none);
+              }
+            }
+          }
+        }
+      }
     }
-    h1,
-    h2 {
-      padding: 0;
-      border: 0 dashed $border-color;
+  }
+  ul,
+  ol {
+    margin: .8rem 0 .8rem 1.4rem;
+    li {
+      margin: 0;
+      p {
+        margin: 0;
+      }
+    }
+  }
+  dl {
+    margin: .8rem 0;
+    dt,
+    dd {
+      margin: 0;
+      p {
+        margin: 0;
+      }
+    }
+    dt {
+      font-weight: map-get($base, font-weight-bold);
+    }
+    dd {
+      margin-left: 2rem;
+    }
+  }
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: .8rem 0;
+    border-collapse: collapse;
+    th,
+    td {
+      border: 1px solid $border-color;
+      padding: .5rem;
+    }
+    thead,
+    tbody {
+      border: 1px solid $border-color;
+    }
+    thead {
       border-bottom-width: 2px;
     }
-    p {
-      margin: .5rem 0;
+    tbody>tr:nth-child(even) {
+      background-color: $text-background-color;
     }
-    blockquote {
-      padding: 0 0 0 1rem;
-      border: 0 solid $border-color;
-      border-left-width: 4px;
-      margin: .8rem 0;
-      font-size: map-get($base, font-size);
-      color: $text-color-l;
-      p {
-       margin: .4rem 0;
-     }
-     > :last-child {
-     margin-bottom: 0;
-     }
-    }
-    h1 {
-      font-size: map-get($base, font-size-h1);
-    }
-    h2 {
-      font-size: map-get($base, font-size-h2);
-    }
-    h3 {
-      font-size: map-get($base, font-size-h3);
-    }
-    h4 {
-      font-size: map-get($base, font-size-h4);
-    }
-img:not(.emoji) {
-max-width: 100%;
-max-height: 37rem;
-vertical-align: middle;
-}
-.emoji {
-display: inline-block;
-vertical-align: text-bottom;
-width: map-get($base, line-height-large) * .7rem;
-height: map-get($base, line-height-large) * .7rem;
-}
-figure {
-&:before {
-content: attr(data-lang);
-display: block;
-border-top-left-radius: map-get($shape, round-rect-radius);
-border-top-right-radius: map-get($shape, round-rect-radius);
-padding: .5rem 1rem .5rem 0;
-color: $decorate-color;
-font-weight: map-get($base, font-weight-bold);
-text-align: right;
-text-transform: uppercase;
-}
-&>pre {
-margin: 0;
-border-top-left-radius: 0;
-border-top-right-radius: 0;
-&>code {
-padding-top: 0;
-&>.rouge-table {
-margin: 0;
-tbody, tr, td {
-border: none;
-padding-top: 0;
-padding-bottom: 0;
-}
-&>tbody {
-@include flexbox;
-&>tr {
-width: 100%;
-@include flexbox;
-&>.code {
-@include flexbox;
-overflow: auto;
--webkit-overflow-scrolling: touch;
-}
-}
-}
-tbody td>pre {
-margin: 0;
-border-radius: 0;
-&.lineno {
-color: $text-color-l;
-@include user-select(none);
-}
-}
-}
-}
-}
-}
+  }
+  hr {
+    border: 0 dashed $border-color;
+    border-top-width: 2px;
+    margin: 1rem 0;
   }
 }
+}
+
