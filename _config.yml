@@ -22,7 +22,7 @@ author:
 toc:
   # selectors: 'h1,h2,h3'
 
-ga_tracking_id: 
+ga_tracking_id: UA-114350775-1
 
 pagination:
   enabled: true
