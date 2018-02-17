@@ -119,6 +119,7 @@ LoveLive 最早是在《电击 G's Magazine》上发表的读者参与型企划�
 <br>
 
 ![]({{ "/assets/images/2017/IMG_1792.jpg" | absolute_url }})
+
 （LoveLive 主题的绘马。）
 
 <br>
