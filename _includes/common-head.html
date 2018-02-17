@@ -2,23 +2,23 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <title>{{ page.title }}</title>
-<meta property=​"og:​title" content=​"{{ page.title | default: site.title }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
 
-<meta name=​"author" content=​"{{ site.author.name }}">
-<meta property=​"og:​locale" content=​"{{ site.lang }}">
+<meta name="author" content="{{ site.author.name }}">
+    <meta property="og:locale" content="{{ site.lang }}">
 
 <meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
-<meta property=​"og:​description" content=​"{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
+<meta property="og:description" content="{%- if page.excerpt -%}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{%- else -%}{{ site.description }}{%- endif -%}">
     
-<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-<meta property=​"og:​url" content=​"{{ page.url | prepend: site.url }}">
+<link rel="canonical" href="{{ page.url | prepend: site.url | remove: 'index.html' }}">
+<meta property="og:url" content="{{ page.url | prepend: site.url | remove: 'index.html' }}">
     
-<meta property=​"og:​site_name" content=​"{{ site.title }}">
+<meta property="og:site_name" content="{{ site.title }}">
 
 <meta property="og:image" content="{%- if page.image -%}{{ page.image | absolute_url }}{%- else -%}{{ '/assets/images/logo/favicon-32x32.png?v=1' | prepend: site.url }}{%- endif -%}">
 
-<meta name=​"twitter:​site" content=​"@{{ site.author.twitter }}">
-<meta name=​"twitter:​creator" content=​"@{{ site.author.twitter }}">
+<meta name="twitter:site" content="@{{ site.author.twitter }}">
+<meta name="twitter:creator" content="@{{ site.author.twitter }}">
 
 {%- if page.layout contains 'post' -%}<meta property="TelegramInstantView">{%- endif -%}
 {%- if page.layout contains 'page' -%}<meta property="TelegramInstantView">{%- endif -%}
