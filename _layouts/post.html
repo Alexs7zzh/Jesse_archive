@@ -30,11 +30,17 @@ layout: blog-default
 						<meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
 					{%- endif -%}
                     <div class="article-previous-next clearfix">
-					{%- if page.next -%}
-						<div class="article-previous"><span>下篇</span><a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
-					{%- endif -%}
-					{%- if page.previous -%}
-						<div class="article-next"><span>上篇</span><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></div>
+                    {%- if page.previous_in_category -%}
+                        <div class="article-next"><a href="{{ page.previous_in_category.url | relative_url }}">
+                            <span class="pager-label">上一篇</span>
+                            <span class="pager-title">{{ page.previous_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        </a></div>
+                    {%- endif -%}
+					{%- if page.next_in_category -%}
+						<div class="article-previous"><a href="{{ page.next_in_category.url | relative_url }}">
+                            <span class="pager-label">下一篇</span>
+                            <span class="pager-title">{{ page.next_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        </a></div>
 					{%- endif -%}
 					</div>
 				</footer>
