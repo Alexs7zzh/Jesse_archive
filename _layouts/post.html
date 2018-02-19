@@ -29,22 +29,22 @@ layout: blog-default
 					{%- else -%}
 						<meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}">
 					{%- endif -%}
-                    <div class="article-previous-next clearfix">
-                    {%- if page.previous_in_category -%}
-                        <div class="article-next"><a href="{{ page.previous_in_category.url | relative_url }}">
-                            <span class="pager-label">上一篇</span>
-                            <span class="pager-title">{{ page.previous_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-                        </a></div>
-                    {%- endif -%}
-					{%- if page.next_in_category -%}
-						<div class="article-previous"><a href="{{ page.next_in_category.url | relative_url }}">
-                            <span class="pager-label">下一篇</span>
-                            <span class="pager-title">{{ page.next_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-                        </a></div>
-					{%- endif -%}
-					</div>
 				</footer>
 			</article>
+            <div class="article-previous-next clearfix">
+                {%- if page.previous_in_category -%}
+                <div class="article-next"><a href="{{ page.previous_in_category.url | relative_url }}">
+                    <span class="pager-label">上一篇</span>
+                    <span class="pager-title">{{ page.previous_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </a></div>
+                {%- endif -%}
+                {%- if page.next_in_category -%}
+                <div class="article-previous"><a href="{{ page.next_in_category.url | relative_url }}">
+                    <span class="pager-label">下一篇</span>
+                    <span class="pager-title">{{ page.next_in_category.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </a></div>
+                {%- endif -%}
+            </div>
 		</div>
 	</div>
 </div>
