@@ -1,24 +1,19 @@
 ---
-excerpt: "还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？
-
-
-
+excerpt: "还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？<br>
 在今天这些事都完全不成立了，iPod 在苹果完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用 iOS 的逻辑来引领的，「试图进一步让 Mac 作为 iOS 用户以 iPhone 为起点进行延伸」的 Mac。"
 title: "新 MacBook Pro, with iOS 10."
-
-image: https://cl.ly/oQlR/v2-56fa6d15f92ebddec2b7494806650fc4_r
+tags: 科技
+image: "/assets/images/2016/v2-56fa6d15f92ebddec2b7494806650fc4.jpg"
+excerpt_img: true
 ---
-
-
-> _还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？_
-> 
-> _在今天这些事都完全不成立了，iPod 在苹果完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用 iOS 的逻辑来引领的，「试图进一步让 Mac 作为 iOS 用户以 iPhone 为起点进行延伸」的 Mac。_
 
 接下来的内容仍然按照发布会顺序来写，方便大家找到自己想看的内容。
 
-![](https://cl.ly/oPy5/v2-fc8eb45d58a0320140f5c01d9c1994d7)
+<br>
 
-  * **Accessibility**
+![]({{ "/assets/images/2016/v2-fc8eb45d58a0320140f5c01d9c1994d7.jpg" | absolute_url }})
+
+## Accessibility
 
 _苹果做了一系列页面，来帮助残疾人，学习使用辅助功能，来让他们也能正常地使用苹果设备。_
 
@@ -26,17 +21,21 @@ _苹果做了一系列页面，来帮助残疾人，学习使用辅助功能，�
 
 但这些事情，即使口头上讲得再多，苹果都仍然是这个世界上把这些好的价值取向，践行得最好的企业，几乎没有之一，值得我们每一次严肃地表达一下我们的尊敬。
 
-  * **iPhone / Apple Watch 回顾**
+<br>
+
+## iPhone / Apple Watch 回顾
 
 _Tim Cook 回顾了 iPhone 7 和 Apple Watch 发布一个多月以来取得的成绩。_
 
-在 9 月发布会的一个多月之后，开一场发布会来告诉你们：用户对新 iPhone 有多满意，用新 iPhone 拍出了多少好的照片，有多少 iOS 用户升级到了最新的 iOS，相比之下 Android 才多少，iOS 即将更新的新功能有多好用&&
+在 9 月发布会的一个多月之后，开一场发布会来告诉你们：用户对新 iPhone 有多满意，用新 iPhone 拍出了多少好的照片，有多少 iOS 用户升级到了最新的 iOS，相比之下 Android 才多少，iOS 即将更新的新功能有多好用……
 
-在去年没有这个环节（因为去年 10 月既没有更新 iPad 也没有更新 Mac）之后，这样无聊的吹嘘再一次展现起来，突然感觉有点亲切&&但同时又有一种「估计这场发布会应该没多少干货了」的精神分裂感&&
+在去年没有这个环节（因为去年 10 月既没有更新 iPad 也没有更新 Mac）之后，这样无聊的吹嘘再一次展现起来，突然感觉有点亲切，但同时又有一种「估计这场发布会应该没多少干货了」的精神分裂感……
 
-![](https://cl.ly/oQcU/v2-95009221914083a5abd100a34b7be3af)
+<br>
 
-  * **Apple TV**
+![]({{ "/assets/images/2016/v2-95009221914083a5abd100a34b7be3af.jpg" | absolute_url }})
+
+## Apple TV
 
 _Apple TV 更新了更多地 app，并且推出了 "TV" 这个 app，逻辑类似 Apple Music，让用户可以在首页的 Watch Now 里找到自己想看的内容。"TV" app 支持 iOS。_
 
@@ -46,21 +45,27 @@ Apple TV 的硬件没有更新，可能意味着，苹果已经开始意识到�
 
 而现在苹果在做的，就是一边弱化 Apple TV 硬件的存在，一边把 Apple TV 的独占内容往 iOS 和 macOS 上搬。
 
-  * _TV "app"_
+<br>
+
+### TV "app"
 
 这里的 TV app，指的是「运行在 tvOS 上的 app」。
 
 显然，除了游戏之外，「在电视上一边看球赛一边刷 Twitter」这样的 app 场景，仍然是一个有点可笑的，几乎可以说是被产品经理凭空想象出来的需求。因为你只要想象一下，在 Apple TV 上怎么解决「不同的用户需要登录不同的账户」这件事，我相信这就足以让你放弃在 Apple TV 上玩很多 app 了。
 
-  * _"TV" app_
+<br>
+
+### "TV" app
 
 这里的 TV app，指的是「运行在 tvOS 和 iOS 上的这个叫做『TV』的 app」。其实你在这里可以看出苹果在这两件事上的自相矛盾，一方面苹果希望你可以更多地「玩」Apple TV，推动开发者去给 Apple TV 开发 app，一方面希望用户可以更简单、更方便地获取 Apple TV 上的内容。
 
 通过 "TV" 这个 app，你不仅可以在 Apple TV 上更加一站式地获取你所有的多媒体内容，更加可以在 iOS 上看你的电视内容，而你完全可以想象在未来这个 app 是一定会上 macOS 的。这样无疑对 Apple TV 的销售会是一个沉重的打击，当你有更便于交互、性能更强、或者干脆是更贵的设备来获取内容，投到你的电视机上去看的时候，谁会愿意去操作一个麻烦且性能不够强的 Apple TV 呢？
 
-![](https://cl.ly/oR2V/v2-515159ca3441089448f1fb9a273b488c)
+<br>
 
-  * **新 MacBook Pro**
+![]({{ "/assets/images/2016/v2-515159ca3441089448f1fb9a273b488c.jpg" | absolute_url }})
+
+## 新 MacBook Pro
 
 _新 MacBook Pro 比之前的 MacBook Pro 更薄更轻更小，屏幕边框进一步收窄，并且有了深空灰色，但取消了之前 MacBook 的发光苹果 Logo 设计__。功能上有了更大的 ForceTouch 触摸板，广色域屏幕，新的扬声器，与之前相比能实现两倍的动态范围，以及第二代蝴蝶式键盘。_
 
@@ -68,9 +73,11 @@ _当然，最重要的，还是 MacBook Pro 新加入了一个 OLED 的触控区
 
 _价格上，新 MacBook Pro 分为三个大类，13 寸不带 Touch Bar、13 寸带 Touch Bar、15 寸带 Touch Bar 三种，国行定价最低 11488 元，标配最高 21488 元。_
 
-![](https://cl.ly/oQPA/v2-84ae9aa9ec3dccbeea04aa20eb8aaf92)
+<br>
 
-  * **Touch Bar**
+![]({{ "/assets/images/2016/v2-84ae9aa9ec3dccbeea04aa20eb8aaf92.jpg" | absolute_url }})
+
+### Touch Bar
 
 Jony Ive 在新 MacBook Pro 的设计片中讲到，Touch Bar 是 intuitive 的，而这种逻辑恰恰贯穿在从 New MacBook 发布开始的所有 Mac 更新的思路里。**Mac 不再为那些专业用户而更新，现在的 Mac 对它们来说已经足够好了，苹果只需要按照正常的进度对性能进行升级就可以了。Mac 的更新，瞄准的是大量的 iOS 用户，让他们的 iOS 体验得以在 Mac 上延伸。**
 
@@ -78,15 +85,17 @@ Touch Bar 就是一个典型的这个逻辑之下诞生的东西，即使苹果�
 
 因为无论你怎么去解释这件事，触摸屏和实体键盘放在一起的时候，目光聚焦的位置要游离在屏幕和 Touch Bar 之间的时候，割裂感是不可避免地会产生的。并且无论你怎么去定制你 Touch Bar 上的工具，这样的操作方式也一定是不及专业用户经过长期的学习和习惯，用 Commad+X 这样的快捷键方式进行操作来的方便的。
 
-反而我倒是觉得，在 DJ Pro 这个软件的演示环节，DJ 用两只手同时控制 Touch Bar 上的两个元素，是一个令人眼前一亮的东西，确实做到了之前鼠标做不到的一件事。但当我再回忆起专业声音工作者的调音台、MIDI 的时候，又还是会觉得，在这个场景下，Touch Bar 简直简陋得像一个玩具。
+我倒是反而觉得，在 DJ Pro 这个软件的演示环节，DJ 用两只手同时控制 Touch Bar 上的两个元素，是一个令人眼前一亮的东西，确实做到了之前鼠标做不到的一件事。但当我再回忆起专业声音工作者的调音台、MIDI 的时候，又还是会觉得，在这个场景下，Touch Bar 简直简陋得像一个玩具。
 
 **所以 Touch Bar 能做的事情，仍然是官方的广告中所演示的那样，**让 Mac 的新用户能更快地找到一些相对复杂软件的核心功能，把 iOS 上的一些交互方式，类似滑动、菜单、QuickType、以 iOS 上大家已经非常熟悉的触摸形式，重现在 MacBook 上。**让 MacBook Pro，对那些新 Mac 用户更加友好。**
 
 而这件事的另一个有力例证就是，连 MacBook Pro 产品线本身都没有全部配备这个看起来重要到「颠覆交互方式」的 Touch Bar，而我们又有什么信心去指望苹果会给 iMac、Mac Pro 的键盘也配上这个 Touch Bar 呢？**而只有一部分 MacBook Pro 有得硬件，这跟小米只在 5s 高配版上配备 3D Touch 的行为又有什么区别呢？**
 
-![](https://cl.ly/oPj9/v2-033944b866fb1d767000268988fd2123)
+<br>
 
-  * **Thunderbolt 3 接口**
+![]({{ "/assets/images/2016/v2-033944b866fb1d767000268988fd2123.jpg" | absolute_url }})
+
+### Thunderbolt 3 接口
 
 这件事又一次证明了，「苹果的产品都是在真空中设计出来的」这个观点。一切接口都以 USB-C 的形式出现，直接配备 4 个 USB-C 形式的 Thunderbolt 3 接口，这当然是理想且性感的。并且这在某种程度上也坐实了苹果作为传闻中的 USB-C 接口的主导者之一，确实是拿出了一个理想状态下相当优秀的方案。
 
@@ -94,13 +103,17 @@ Touch Bar 就是一个典型的这个逻辑之下诞生的东西，即使苹果�
 
 而在很多 PC 主板还没用上麦克风/耳机二合一 3.5mm 接口的今天，苹果已经取消掉了耳机口，当很多主板还在用 USB 2.0 接口的时候，苹果已经开始用统一的 USB-C 形式的 Thunderbolt 3 了。是苹果过于领先，还是苹果过于不顾这个世界的现状，是一个从哪个方面都说得通的事情。
 
-**总结**
+<br>
+
+## 总结
 
 还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个 iPod 么？
 
 在今天这些事都完全不成立了，iPod 在苹果的世界里几乎完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用 iOS 的逻辑来引领的，「试图进一步让 iOS 用户以 iPhone 为起点延伸到 Mac」的 Mac。
 
 尽管在 WWDC 上，Tim Cook 说，苹果现在围绕着 iOS、macOS、watchOS、tvOS 这四大平台展开。但无论是 macOS 还是 tvOS，在这场发布会上，都在试图更紧密地围绕 iOS，试图从苹果最海量的 iOS 用户身上榨取更多价值，而不是探索真正有意义的交互改进。与其说这四大平台并列，倒不如说 iOS 旁边寄生着一个 watchOS，下面跪着两个小弟 macOS 和 tvOS。
+
+<br>
 
 或许是 Mac 的确已经固化太久了，这场发布会，让我在这么几年以来，第一次这么深地感觉苹果的创新基因在衰退，因为它也在做并不能解释「how it works」，以至于不敢让它在其所有产品线上统一出现的设计。
 
