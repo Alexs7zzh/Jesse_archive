@@ -22,10 +22,21 @@
     & > .article-previous, & > .article-next {
       box-sizing: border-box;
       width: 50%;
+      a {
+        font-weight: map-get($base, font-weight-bold);
+        text-decoration: none;
+        @include transition(all map-get($animation, duration) map-get($animation, timing-function));
+        &:hover {
+          .pager-label, .pager-title {
+            text-decoration: underline;
+            color: #9c9c9c;
+          }
+        }
+      }
       .pager-label {
           font-weight: map-get($base, font-weight-bold);
           color: #9c9c9c;
-    }
+      }
       .pager-title {
         display: block;
         @include link-text-colors($text-color, $main-color-1);
