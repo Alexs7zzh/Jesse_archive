@@ -8,7 +8,7 @@
   height: map-get($layout, footer-height);
   margin-top: - map-get($layout, footer-height);
   background-color: $main-color-3;
-  font-size: 1.2rem;
+  @include fluid-type($min-vw, $max-vw, 16px, 26px);
   p {
     color: $text-color-3;
   }
@@ -22,8 +22,12 @@
   }
   .site-rss {
     text-align: center;
-    font-size: map-get($base, font-size-h6);
+    @include fluid-type($min-vw, $max-vw, 14px, 20px);
     margin: 0 auto;
+    font-weight: 400px;
+    a {
+      font-weight: 500;
+    }
     img {
       height: map-get($base, font-size-sub);
     }

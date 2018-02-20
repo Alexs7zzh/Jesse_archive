@@ -14,14 +14,42 @@
       float: none;
     }
   }
-  footer {
-    &>span {
-      color: $text-color-l;
+  .article-previous-next {
+    word-wrap: break-word;
+    margin: map-get($base, vertical-space-large) * 2 0 map-get($base, vertical-space-large) 0;
+    padding-top: map-get($base, vertical-space-large) / 2;
+    @include split-line(top);
+    & > .article-previous, & > .article-next {
+      box-sizing: border-box;
+      width: 50%;
+      a {
+        font-weight: map-get($base, font-weight-bold);
+        text-decoration: none;
+        @include transition(all map-get($animation, duration) map-get($animation, timing-function));
+        &:hover {
+          .pager-label, .pager-title {
+            text-decoration: underline;
+            color: #9c9c9c;
+          }
+        }
+      }
+      .pager-label {
+          font-weight: map-get($base, font-weight-bold);
+          color: #9c9c9c;
+      }
+      .pager-title {
+        display: block;
+        @include link-text-colors($text-color, $main-color-1);
+      }
     }
-    &>.article-license {
-      position: relative;
-      max-width: 30rem;
-      margin: .8rem 0;
+    & > .article-next {
+      float: left;
+      padding-right: .5rem;
+    }
+    & > .article-previous {
+      float: right;
+      padding-left: .5rem;
+      text-align: right;
     }
   }
 }
