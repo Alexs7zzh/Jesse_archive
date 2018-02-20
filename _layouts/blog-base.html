@@ -14,6 +14,9 @@
     {%- include components/footer.html -%}
     <script>
         var clipboard = new Clipboard('.clipboard');
+        .clipboard.addEventListener('click', function(e) {
+        e.stopPropagation();
+    });
         clipboard.on('success', function(e) {
           console.log(e);
         });
