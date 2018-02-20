@@ -8,7 +8,7 @@
   height: map-get($layout, footer-height);
   margin-top: - map-get($layout, footer-height);
   background-color: $main-color-3;
-  @include fluid-type($min-vw, $max-vw, 16px, 26px);
+  @include fluid-type($min-vw, $max-vw, 18px, 26px);
   p {
     color: $text-color-3;
   }
