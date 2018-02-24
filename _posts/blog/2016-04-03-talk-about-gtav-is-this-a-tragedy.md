@@ -110,7 +110,9 @@ Trevor 所面对的善恶观和自己角色的矛盾无法调和，而最后被�
 B 结局的片尾曲《Sleepwalking》是三个结局片尾曲里最赞的一个，也很好地诠释了 Michael 这个角色。
 
 > Destiny turned her face.  
+>
 > Nightmares and violent shapes.  
+>
 > The state of dreaming has left me numb.
 
 <br>
