@@ -6,7 +6,7 @@ excerpt: "相比于去年的 iPhone 6s ，今年的这场发布会或许会是�
 但这仍然是一场特别值得看的发布会，一方面是苹果可以说在自己最重要的产品线，iPhone 上，第一次下了一招「险棋」---- 拿掉 3.5mm 耳机孔。另一方面，这是苹果在 6s 的销量不够好的前提下，苹果在考试倒计时结束后，所交出的答卷。"
 title: "在苹果拿不出什么新「概念」的今天……"
 tags: 科技
-image: "/assets/images/2016/Screen Shot 2016-08-30 at 3.36.27 PM"
+image: "/assets/images/2016/18d2e0651e3f836943fb001060243f5f_backup.jpg"
 excerpt_img: true
 ---
 
