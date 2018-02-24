@@ -88,6 +88,8 @@ excerpt_img: true
 
 没用的。
 
+![]({{ "/assets/images/2016/771599b4e4acdfb3b2f3afa5472cd484_hd.jpg" | absolute_url }})
+
 <br>
 
 以上。
