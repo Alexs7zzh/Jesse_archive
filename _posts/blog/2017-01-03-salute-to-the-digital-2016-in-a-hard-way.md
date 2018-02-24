@@ -6,7 +6,7 @@ excerpt: "作为一个消费者，在总结自己的数字生活的时候，我�
 我想这大概就是写这样一篇文章的意义所在，Salute to digital 2016 的具体对象所在了。"
 title: "Salute to the digital 2016 in a hard way"
 tags: 科技 日常 次文化
-image: "/assets/images/2017/photo-1477124508671-45ba8ede458f.jpg"
+image: "/assets/images/2016/photo-1477124508671-45ba8ede458f.jpg"
 excerpt_img: true
 ---
 
