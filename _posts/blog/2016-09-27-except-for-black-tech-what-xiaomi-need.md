@@ -106,7 +106,7 @@ excerpt_img: true
 
 <br>
 
-压感屏 3D Touch
+### 压感屏 3D Touch
 
 首先对于小米连名字都不换，直接把 3D Touch 的品牌照搬到小米 5s 上，我很失望。特别是有魅族在前面已经至少重新换了一个品牌，3D Press 的前提下。
 
