@@ -64,8 +64,6 @@ excerpt_img: true
 
 我是曾为《网瘾战争》最后那「岂能因声音微小而不呐喊！」而感动过的人，虽然现在性玉自己都在呼吁大家不要信这句话了。
 
-<br>
-
 **但至少，Each move you make,may suggest the protencial direction of the world.**
 
 **你的每一个举动，都可能给这个世界的未来，指明方向。**
