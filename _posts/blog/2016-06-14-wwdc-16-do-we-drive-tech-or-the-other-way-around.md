@@ -118,7 +118,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 ## macOS Sierra
 
-越来越像 iOS ，越来越紧贴 iOS 的 Mac，苹果是在为谁造电脑？**
+**越来越像 iOS ，越来越紧贴 iOS 的 Mac，苹果是在为谁造电脑？**
 
 ![]({{ "/assets/images/2016/884b96d991ef3c5cddbd541e0bc09c60.jpg" | absolute_url }})
 
