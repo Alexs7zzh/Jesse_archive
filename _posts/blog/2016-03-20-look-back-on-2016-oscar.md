@@ -13,7 +13,9 @@ image: "/assets/images/2016/6993d2a208da86471953df153a1a3d51.jpg"
 
 ## 《The Martian》  
 
-我始终认为这是一部在喜剧和科幻两个类型片领域上都有着颠覆性意义，且饱含情怀的佳作。再加上我个人对片中情怀以及趣味的偏好，让它成为今年我最喜欢的奥斯卡提名影片。[《The Martian》：On your face, Neil Armstrong. - 大破进击 - 知乎专栏](https://zhuanlan.zhihu.com/66666/20366634)
+我始终认为这是一部在喜剧和科幻两个类型片领域上都有着颠覆性意义，且饱含情怀的佳作。再加上我个人对片中情怀以及趣味的偏好，让它成为今年我最喜欢的奥斯卡提名影片。
+
+[《The Martian》：On your face, Neil Armstrong. - 大破进击 - 知乎专栏](https://zhuanlan.zhihu.com/66666/20366634)
 
 <br>
 
