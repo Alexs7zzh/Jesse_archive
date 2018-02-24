@@ -7,16 +7,16 @@ excerpt: "这种来知乎抄答案的营销微博，又找到新方法了。
 
 
 
-为什么我觉得这是一个_**规模性**_的行为？
+为什么我觉得这是一个**规模性**的行为？
 
 
 
 因为这些人往往在你跟他们谈转载稿费之后，就默不作声了。"
 title: "Seriously，肏您妈。"
-tags
-image: https://cl.ly/oPVz/9d03b70e580ec919c256baa7a8d7a5fc_r-768x512
+tags: 日常
+image: "/assets/images/2016/9d03b70e580ec919c256baa7a8d7a5fc.jpg"
+excerpt_img: true
 ---
-
 
 这种来知乎抄答案的营销微博，又找到新方法了。
 
@@ -26,12 +26,21 @@ image: https://cl.ly/oPVz/9d03b70e580ec919c256baa7a8d7a5fc_r-768x512
 
 因为这些人往往在你跟他们谈转载稿费之后，就默不作声了。
 
+<br>
+
 而一年前，没有这么多的转载请求私信，但是基本每一个请求转载，发私信过来的博主，都会认真地跟你谈谈转载授权费用的问题。
 
 而现在他们的这种行为，大面积的轰炸，几乎等于是逼迫着你去关私信，然后就可以「耀武扬威」式地把你所有的答案都转走。
+
+<br>
 
 Seriously，所有营销微博公司的工作人员，肏您妈。
 
 以上。
 
-![](https://cl.ly/pPhB/9829676de0519b2c7cf81bbbfd2c1de0) ![](https://cl.ly/pOPX/d4211951725a70aee6e79bfe0179dddd) ![](https://cl.ly/pOAo/29aa0d730138bce74fdc0b4d908df385)
+<br>
+
+![]({{ "/assets/images/2016/9829676de0519b2c7cf81bbbfd2c1de0.jpg" | absolute_url }})
+![]({{ "/assets/images/2016/d4211951725a70aee6e79bfe0179dddd.jpg" | absolute_url }})
+![]({{ "/assets/images/2016/29aa0d730138bce74fdc0b4d908df385.jpg" | absolute_url }})
+![]({{ "/assets/images/2016/d6a698cd72963a5c93d8af351331e145.jpg" | absolute_url }})
