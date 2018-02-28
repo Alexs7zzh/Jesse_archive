@@ -31,6 +31,7 @@ $9.99一个月的价格和Spotify一样，前三个月对所有Apple用户免费
 在前面一篇专栏里我说了苹果的「禁欲系」设计取向，而在乔布斯去世之后，Jonathan Ive也一直在着手把自己的设计风格更多地带进来，而今年他出任CDO之后，给我们带来了，iOS9 - after you get high 。
 
 ![]({{ "/assets/images/2015/27aa53ff534ae273dc8f7a6ea7d549f9.jpg" | absolute_url }})
+
 ![]({{ "/assets/images/2015/43feb71328d9effa5c6fbd0d5b8afd31.jpg" | absolute_url }})
 
 从这个Siri的动画开始，到搜索后结果选择进入的光效。iOS9给我的感觉就是，这个效果确定不是哪个hippie设计师嗑high了弄出来的东西？
@@ -70,6 +71,7 @@ ApplePay和Passbook的整合。这一点就像我在Google I/O结束的时候评
 你也可以看到，即便与前面可以说相对平淡的OS X和iOS发布比起来，底下的开发者对于watchOS发布稀稀拉拉的掌声，更没有欢呼，都体现了这个产品其实还停留在一个非常非常初级的阶段。
 
 ![]({{ "/assets/images/2015/452f492192b54b525f5291a1463d7f3c.jpg" | absolute_url }})
+
 ![]({{ "/assets/images/2015/94131b5d885388eebbac65dbb972ac54.jpg" | absolute_url }})
 
 难以想象苹果居然会在发布会上把这些，night-stand mode、支持多种颜色的Digital Touch当个正儿八经的功能来发布。Kevin Lynch在台上不断地问 " Isn't it cool? " 的时候我已经在脑海里重复了一万遍 "Absolutely not." 了。
