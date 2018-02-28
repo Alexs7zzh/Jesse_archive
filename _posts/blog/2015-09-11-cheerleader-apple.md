@@ -1,22 +1,15 @@
 ---
-excerpt: "![](https://cl.ly/oPOI/1fa9edd8e80ee6bb802e24cf18ad49c8_r)
+excerpt: "我刚刚度过了我可能是我使用智能手机的人生中最灰暗的三个月，使用着一台Android手机。
 
 
 
-我刚刚度过了我可能是我使用智能手机的人生中最灰暗的三个月，使用着一台Android手机。
-
-
-
-苹果在这一次的秋季发布会上，邀请了可以说是史上最多的第三方app开发厂商来为这样一次硬件本身并不那么吸引人的硬件发布会站台。甚至比三个月前针对开发者的WWDC还多。
-
-
-
-在拥有了可以说世界上最好的多媒体内容以及app分销平台之后，苹果跟第三方开发者之间合作的深度，以发布会上各种演示的形式正在以肉眼可见的速度深化。"
+苹果在这一次的秋季发布会上，邀请了可以说是史上最多的第三方app开发厂商来为这样一次硬件本身并不那么吸引人的硬件发布会站台。甚至比三个月前针对开发者的WWDC还多。<br>
+在拥有了可以说世界上最好的多媒体内容以及app分销平台之后，苹果跟第三方开发者之间合作的深度，以发布会上各种演示的形式正在以肉眼可见的速度深化。<br>
+这大概就是在使用了三个月Android手机之后，我已经仿佛受难一般等不及要买新iPhone的原因了吧。"
 title: "Cheerleader Apple"
-
-image: https://cl.ly/oPOI/1fa9edd8e80ee6bb802e24cf18ad49c8_r
+tags: 科技
+image: "/assets/images/2015/1fa9edd8e80ee6bb802e24cf18ad49c8.jpg"
 ---
-
 
 我刚刚度过了我可能是我使用智能手机的人生中最灰暗的三个月，使用着一台Android手机。
 
@@ -34,9 +27,11 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 还好终于马上就可以回到iPhone的怀抱了。
 
-![](https://cl.ly/oPPV/a99f7100b71bff74f5a57d0fddcf2f0f_r)
+<br>
 
-  * watchOS 2
+![]({{ "/assets/images/2015/a99f7100b71bff74f5a57d0fddcf2f0f.jpg" | absolute_url }})
+
+## watchOS 2
 
 从WWDC15上的watchOS介绍到这一次的相关app介绍，我就只有一个感觉，Apple Watch的机能缺口太大了，太大了，太大了。
 
@@ -46,9 +41,11 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 从Apple Watch发布到现在，苹果都没有公布过具体的销量，从这一次发布两种金色的Sport版本手表，大概也能看得出来EDITION版本在销售上的尴尬吧。
 
-![](https://cl.ly/oQnP/177df60a665cdb1da0df8881182a4d22_r)
+<br>
 
-  * iPad Pro
+![]({{ "/assets/images/2015/177df60a665cdb1da0df8881182a4d22.jpg" | absolute_url }})
+
+## iPad Pro
 
 我不太了解在中国之外，iPad作为生产力工具的市场表现如何，但从iPad的销量看，我猜情况可能不会非常好。
 
@@ -62,9 +59,11 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 好在其和iPhone相当的价格让那些想试试它的人们还不用付出太大的成本。
 
-![](https://cl.ly/oR0D/8552d6bf50c531d54fc21ac51bd0ae68_r)
+<br>
 
-  * Apple TV
+![]({{ "/assets/images/2015/8552d6bf50c531d54fc21ac51bd0ae68.jpg" | absolute_url }})
+
+ ## Apple TV
 
 终于，一个真正智能的客厅娱乐中心，来了。
 
@@ -78,9 +77,11 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 至于内容本身，苹果在多媒体内容领域的长期耕耘所结出的果实，必定是业界领先的，不必多说。我倒是对相关的外部资讯，类似球赛比分这样的东西苹果到底做的如何比较感兴趣。这跟News所指向的领域方向大致相同，值得关注。
 
-![](https://cl.ly/oR1e/7d00345bdf56aa3a897737104c83058d_r)
+<br>
 
-  * iPhone 6s & 6s Plus
+![]({{ "/assets/images/2015/7d00345bdf56aa3a897737104c83058d.jpg" | absolute_url }})
+
+## iPhone 6s & 6s Plus
 
 唯一一个我自己要买的设备，也是可以说除了Apple Watch最无聊的一个设备。
 
@@ -94,7 +95,9 @@ iPhone 6s上仍然没有光学防抖，算是一大遗憾。但个人仍然无�
 
 我感觉苹果自己可能也知道这一次的新iPhone算是跟iPhone 4S差不多无聊的一代机器。所以才心虚地用了 "The only things that's changed is everything" 这个广告语。
 
-  * 写在最后
+<br>
+
+## 写在最后
 
 凭着回忆算了下，昨天晚上出现在苹果秋季发布会上的第三方开发者的Demo有将近10个。现在的苹果就像是一个拉拉队长的存在吧，受到各种开发者的追捧，一呼百应。
 
