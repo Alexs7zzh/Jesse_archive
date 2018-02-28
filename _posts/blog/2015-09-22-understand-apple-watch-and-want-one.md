@@ -9,6 +9,7 @@ excerpt: "我对Apple Watch这个产品的态度从其发布的第一分钟开�
 title: "Understand Apple Watch and want one"
 tags: 科技 日常
 image: "/assets/images/2015/b50e990efeaa5d07b2b4b059f883b83e.jpg"
+excerpt_img: true
 ---
 
 _关于我为什么想买Apple Watch，通过用手机判断一个人的人格到底是否错误，以及为什么有果粉。_
