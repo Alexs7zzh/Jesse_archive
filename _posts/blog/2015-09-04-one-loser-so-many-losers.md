@@ -8,6 +8,7 @@ excerpt: "对啊，这个世界是属于现充的，你们这些在次文化圈�
 title: "一个 loser 和很多个 losers"
 tags: 日常 电影 次文化
 image: "/assets/images/2015/0a5438e64c5b2b7ef3fa0cc3dd40dc7e.jpg"
+excerpt_img: true
 ---
 
 原文发布于：[你觉得什么样的人是 loser？ - Jesse Chan 的回答](https://www.zhihu.com/question/20365580/answer/62175444)
