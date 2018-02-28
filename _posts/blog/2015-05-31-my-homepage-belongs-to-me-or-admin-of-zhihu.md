@@ -14,13 +14,13 @@ excerpt_img: true
 
 几分钟后，我处理完了自己的消息，再刷新了一下TL，我的TL变成这样了。
 
-![]({{ "/assets/images/2015/20a137f238f3ba8c0363d4c54c3b31a7.jpg" | absolute_url }})
+![]({{ "/assets/images/2015/e3afdab04f3911da000babd2224083ae.jpg" | absolute_url }})
 
 怎么不见了？我点进子雄的个人主页，这些动态还清清楚楚地展示在他的主页上啊？
 
 ![]({{ "/assets/images/2015/800cf7612ca644997aa011e4bda108c7.jpg" | absolute_url }})
 
-![]({{ "/assets/images/2015/e3afdab04f3911da000babd2224083ae.jpg" | absolute_url }})
+![]({{ "/assets/images/2015/20a137f238f3ba8c0363d4c54c3b31a7.jpg" | absolute_url }})
 
 而我也没有开那个让知乎官方决定我的TL上显示什么的功能啊。 
 
