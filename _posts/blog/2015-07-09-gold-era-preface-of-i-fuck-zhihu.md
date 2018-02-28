@@ -8,6 +8,7 @@ excerpt: "葛巾老师离开知乎的时候，说「梁园仍好」。岂止是�
 title: "黄金时代 ——《我日的知乎》序言"
 tags: 日常
 image: "/assets/images/2015/ef8dc88ecaee38467c6b963e8859f3b7.jpg"
+excerpt_img: true
 ---
 
 这是葛巾老师离开知乎的第11个月，也是知乎三大软狗中我个人觉得贡献好内容最多的winter离开知乎的第40多天。
