@@ -12,7 +12,7 @@ excerpt_img: true
 
 ## Apple Music
 
-![]({{ "/assets/images/2015/" | absolute_url }})
+![]({{ "/assets/images/2015/d3a9b302637b74a029c2f25cbbdadc3b.jpg" | absolute_url }})
 
 昨晚的发布会，当Jimmy Lovine出来向大家介绍Apple Music的时候，大多数熬夜关注WWDC的朋友，甚至包括那些科技媒体的运营，在前20分钟都不知道发生了什么。**苹果在首次推出iTunes改变了数字音乐的销售之后，现在它要做最好同时又是最便宜的流媒体服务了。**
 
