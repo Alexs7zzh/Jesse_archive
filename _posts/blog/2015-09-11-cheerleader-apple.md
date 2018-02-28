@@ -64,7 +64,7 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 ![]({{ "/assets/images/2015/8552d6bf50c531d54fc21ac51bd0ae68.jpg" | absolute_url }})
 
- ## Apple TV
+## Apple TV
 
 终于，一个真正智能的客厅娱乐中心，来了。
 
