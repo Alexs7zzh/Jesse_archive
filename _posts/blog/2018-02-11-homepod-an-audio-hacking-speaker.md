@@ -6,6 +6,10 @@ image: "/assets/images/2017/apple-homepod-02.jpeg"
 excerpt_img: true
 ---
 
+（关于我自己拿到 HomePod 之后的实际体验，[补充了一些在这里]({% post_url blog/2018-03-09-something-more-about-homepod %})。）
+
+<br>
+
 HomePod 的第一批评测已经出炉了，结果和大部分人预想的都一样。HomePod 有着该价位无懈可击的最佳音质，同时又有着最简陋的功能，最封闭的生态。
 
 <br>
