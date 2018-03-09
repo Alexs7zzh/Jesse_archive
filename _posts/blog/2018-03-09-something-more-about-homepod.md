@@ -16,26 +16,42 @@ excerpt_img: true
 ## 产品
 1.安装好 HomePod 之后，「Hey, Siri」在多设备之间的协作变得明显更灵敏，喊完 Hey, Siri 之后，iPhone、Apple Watch 和 HomePod 会同时响应，但 iPhone 和 Apple Watch 会被迅速掐断。不像之前，常常出现 Apple Watch 和 iPhone 同时听完了我的指令并同时执行的情况。有理由认为这个协作是在本地通过 mesh 进行的。
 
+<br>
+
 2.HomePod 对 Hey, Siri 的响应有着最高的优先级。大部分时候你在房里喊 Hey, Siri 回应你的都会是 HomePod。但当你正在操作 iPhone，或将 iPhone 从黑屏抬起并同时喊出 Hey, Siri 时，iPhone 上的 Siri 会掐断其他设备。Apple Watch 同理，从熄屏状态抬起并同时喊，或一边操作一遍喊，会激活 Apple Watch 的 Siri。
 
+<br>
+
 3.HomePod 的逻辑中包含 iTunes 和 iCloud 账户分开的情形。iTunes 账户决定其连接到的 Apple Music 服务以及 iCloud Music Library，iCloud 账户以及相关的家庭共享，决定了哪些设备有 AirPlay 到它的权限。
+
 我出现了在设置好 HomePod 之后，HomePod 不会正确访问美国区 Apple Music 的问题，需要在 Home App 里登出 Apple ID，重新登录一次。
 
+<br>
+
 4.iPhone 可以控制 HomePod（非 AirPlay）的播放、暂停、音量，可以手动选择歌曲让 HomePod 播放。Now Playing 界面会变成两部分，上面是 iPhone 本身的 Playback，下面是 HomePod 的 Playback。两者互不干扰，可以同时进行。
+
 而 Mac 和 Apple Watch 都不可以控制 HomePod 本身的播放。Apple Watch 甚至不能 AirPlay 到 HomePod。
 
 <br>
 
 ## 声音
 1.HomePod 声音最大的特点，与其他单体音箱一耳朵的区别，其实还是在于苹果下最大力气宣传的 spatial awareness，以及借此模拟出的宽阔音感。
+
 以至于，当你闭着眼睛走进一个 HomePod 正在播放音乐的房间，如果这个房间本身不大的话，你很难快速准确地分辨声音到底从是哪里发出来的。
+
 你感觉声音从四面八方冲过来，似乎整面墙都在进行着低频的共振。
+
+<br>
 
 2.另外一个优点就是高低频的质量。  
 低频的量很大，而且铺得很开，就像之前说的，感觉前后左右的墙壁都在与之共振，声音调大之后有震感，又不轰头。
+
 高频意外的非常清晰，即使声音调到最大，也没有尖锐的毛刺感。之前看测评说低频量太大，我以为低频掩盖了大部分的中高频，但实际上并没有。反而高频非常干净地从声音中分离出来，在我听过的消费级单体音箱里，很少对哪款音箱高频的清晰度有如此深刻的印象。
 
+<br>
+
 3.中频相对没那么惊艳，处于正常的水平。苹果一贯的调音风格都没有什么音染，所以其中频没有什么味道，也一点都不突出。
+
 人声的细节还是都能听见，只是距离总感觉远远的。
 
 <br>
