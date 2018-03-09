@@ -1,6 +1,6 @@
 ---
 title: "关于 HomePod 实际体验的几点补充"
-excerpt:"之前写了[关于 HomePod 的文章](%7B%%20post_url%20blog/2018-02-11-homepod-an-audio-hacking-speaker%20%%7D)，本来准备让朋友从美国回来的时候再帮我带。看到各种朋友都已经拿到，实在忍不住，淘宝下单了。<br>
+excerpt: "之前写了[关于 HomePod 的文章](%7B%%20post_url%20blog/2018-02-11-homepod-an-audio-hacking-speaker%20%%7D)，本来准备让朋友从美国回来的时候再帮我带。看到各种朋友都已经拿到，实在忍不住，淘宝下单了。<br>
 大体上就是之前文章里说的那些观点，仍然没有变。但还是有一些关于实际使用中的一些产品和声音的细节想要补充，所以写在这里，权当一次完善。"
 tags: 科技 音乐
 image: "/assets/images/2018/IMG_0282.jpg"
