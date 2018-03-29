@@ -10,7 +10,7 @@ image: "/assets/images/2018/apple-2018-spring-event.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[爱否科技微信公众号](https://mp.weixin.qq.com/s/VS1_tmuX9e1-a0gzbS8RuQ)，一切包括但不限于转载在内的版权转载事宜请联系爱否科技。）
+（本文首发于[爱否科技微信公众号](https://mp.weixin.qq.com/s/VS1_tmuX9e1-a0gzbS8RuQ)，一切包括但不限于转载在内的版权事宜请联系爱否科技。）
 
 <br>
 
