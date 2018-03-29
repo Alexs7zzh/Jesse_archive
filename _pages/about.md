@@ -71,7 +71,7 @@ permalink: /about/
 
 想要深入地了解我，最好的办法是看我的 [Twitter](https://twitter.com/Jesoooor)。
 
-想要联系我，请优先考虑给我[写信](jessechan42@gmail.com)。
+想要联系我，请优先考虑给我[写信](mailto:jessechan42@gmail.com)。
 
 <br>
 
@@ -87,7 +87,7 @@ permalink: /about/
 
 [xiaoboshi on Steam](https://steamcommunity.com/id/jesor/)
 
-[Jesoooor on PlayStationNetwork](https://psnprofiles.com/Jesoooor/)
+[jessechan42 on PlayStationNetwork](https://psnprofiles.com/jessechan42/)
 
 Nintendo Friend Code：214914422524
 
