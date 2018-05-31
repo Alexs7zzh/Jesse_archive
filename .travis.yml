@@ -18,6 +18,6 @@ script: bundle exec jekyll build
 deploy:
 - provider: script
   skip_cleanup: true
-  script: rsync -avzr --quiet --delete-after _site/ jc@172.104.113.239:~/Jesse/master
+  script: rsync -avzr --quiet --delete-after _site/ jc@172.104.113.239:~/Jesse
   on:
     branch: master
