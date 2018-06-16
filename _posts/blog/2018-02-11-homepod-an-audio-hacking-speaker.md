@@ -51,7 +51,7 @@ HomePod 的核心卖点是声音。所有的媒体都对其在其类目下的声
 <br>
 
 ## HomePod 为谁而造？
-从传闻苹果正在开发这么一个「智能音箱」开始，我的态度一直是鲜明的反对。原因很简单，亚马逊之所以要做 Echo，归根结底是由于亚马逊没有自己的 iOS or Android or Windows，所以必须通过一个新的、自己可以完全掌控的硬件来切入。而对于谷歌苹果来说，Android Phone、iPhone 从一开始就是它们的 Echo。Apple Watch 在今天更是苹果的 Echo，而根本没有任何单独去做一个核心功能为「智能语音助手」的音箱。
+从传闻苹果正在开发这么一个「智能音箱」开始，我的态度一直是鲜明的反对。原因很简单，亚马逊之所以要做 Echo，归根结底是由于亚马逊没有自己的 iOS or Android or Windows，所以必须通过一个新的、自己可以完全掌控的硬件来切入。而对于谷歌苹果来说，Android Phone、iPhone 从一开始就是它们的 Echo。Apple Watch 在今天更是苹果的 Echo，而根本没有任何必要单独去做一个核心功能为「智能语音助手」的音箱。
 
 我已经无数次说过 Siri 相比 Google Assistant，其「智能程度」差得实在是太远了。但这归根结底是 Siri 的问题，不是 HomePod 的问题。如果 Siri 会让你更倾向于选择 Google Home 而不是 HomePod，那么你完全有理由因为同一件事去纠结到底是选择 iPhone 还是 Pixel。
 
