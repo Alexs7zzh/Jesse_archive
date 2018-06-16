@@ -30,7 +30,7 @@ excerpt_img: true
 
 4.iPhone 可以控制 HomePod（非 AirPlay）的播放、暂停、音量，可以手动选择歌曲让 HomePod 播放。Now Playing 界面会变成两部分，上面是 iPhone 本身的 Playback，下面是 HomePod 的 Playback。两者互不干扰，可以同时进行。
 
-而 Mac 和 Apple Watch 都不可以控制 HomePod 本身的播放。Apple Watch 甚至不能 AirPlay 到 HomePod。
+而 Mac 和 Apple Watch 都不可以控制 HomePod 本身的播放。Apple Watch 甚至不能 AirPlay 到 HomePod。（Mac 在更新到最新版 iTunes 之后可以了。）
 
 <br>
 
