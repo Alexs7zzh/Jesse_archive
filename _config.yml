@@ -74,17 +74,10 @@ plugins:
 
 defaults:
   - scope:
-      path: "_posts/blog"
+      path: "_posts"
     values:
       layout: post
       categories: blog
-      image: /assets/images/logo/android-chrome-512x512.png
-      
-  - scope:
-      path: "_posts/ideas"
-    values:
-      layout: post
-      categories: ideas
       image: /assets/images/logo/android-chrome-512x512.png
 
   - scope:
