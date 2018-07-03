@@ -76,7 +76,7 @@ PSP 是那时的我最想拥有的数码设备，当时我还不知道 iPhone �
 <br>
 
 ## 视觉进化：从全面屏到 AR 眼镜
-我在之前的那篇[《iPhone X: A step beyond》]({% post_url blog/2017-12-09-iphone-x-a-step-beyond %})里是这样理解「全面屏」的：
+我在之前的那篇[《iPhone X: A step beyond》]({% post_url 2017-12-09-iphone-x-a-step-beyond %})里是这样理解「全面屏」的：
 
 > iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。
 
@@ -213,7 +213,7 @@ iPad、智能手机取代收银机、POS 机的进程已经开始。Square 正�
 <br>
 
 ## 我们也不会走得太远：VR 的危险处境
-虽然我在两年前就说，[自己不会再写 VR]({% post_url blog/2016-05-28-i-tried-vive-and-figured-ps4-is-more-of-a-vr %})，相当于给 VR 盖棺定论了。但既然说到了 Facebook 和 Oculus，我就给这口棺材再铲上一层土。
+虽然我在两年前就说，[自己不会再写 VR]({% post_url 2016-05-28-i-tried-vive-and-figured-ps4-is-more-of-a-vr %})，相当于给 VR 盖棺定论了。但既然说到了 Facebook 和 Oculus，我就给这口棺材再铲上一层土。
 
 <br>
 

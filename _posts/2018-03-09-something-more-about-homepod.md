@@ -7,7 +7,7 @@ image: "/assets/images/2018/IMG_0282.jpg"
 excerpt_img: true
 ---
 
-之前写了[关于 HomePod 的文章]({% post_url blog/2018-02-11-homepod-an-audio-hacking-speaker %})，本来准备让朋友从美国回来的时候再帮我带。看到各种朋友都已经拿到，实在忍不住，淘宝下单了。
+之前写了[关于 HomePod 的文章]({% post_url 2018-02-11-homepod-an-audio-hacking-speaker %})，本来准备让朋友从美国回来的时候再帮我带。看到各种朋友都已经拿到，实在忍不住，淘宝下单了。
 
 大体上就是之前文章里说的那些观点，仍然没有变。但还是有一些关于实际使用中的一些产品和声音的细节想要补充，所以写在这里，权当一次完善。
 
