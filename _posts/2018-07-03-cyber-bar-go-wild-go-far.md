@@ -51,7 +51,7 @@ excerpt_img: true
 我一直不太明白「社交」这件事，除了让我们获得一种「陪伴感」，还有什么更深层次的意义。[Sherry Turkle 在 TED 演讲上的话](https://youtu.be/t7Xr3AsBEK4?t=17m15s)让我突然明白了很多：
 
 > When we listen to each other, we reveal ourselves to each other… 
-
+>
 > Technology is giving us an opportunity to affirm our values and our direction.
 
 这是我希望自己以及大家在互联网这个大酒吧里获得的一种东西，为了达到这个目的，请让自己变得更主动一点，go wild, go far。
