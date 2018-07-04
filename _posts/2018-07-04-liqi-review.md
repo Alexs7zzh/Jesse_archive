@@ -147,4 +147,4 @@ excerpt_img: true
 
 <br>
 
-本文参与了[「利器社群计划」](http://liqi.io/community/)，发现更多创造者和他们的工具：http://liqi.io
+本文参与了[「利器社群计划」](http://liqi.io/community/)，发现更多创造者和他们的工具：[liqi.io](http://liqi.io)
