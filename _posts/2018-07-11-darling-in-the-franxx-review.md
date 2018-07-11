@@ -2,7 +2,7 @@
 excerpt: "如果说《Violet Evergarden》是一月最大花瓶，那么《DitF》甚至只能是被打碎的一地玻璃渣。"
 title: "《Darling in the Franxx》：彩色玻璃渣"
 tags: 次文化
-image: "/assets/images/2018/chuttersnap-413005-unsplash.jpg"
+image: "/assets/images/2018/chuttersnap-413005-unsplas.jpg"
 excerpt_img: true
 ---
 
