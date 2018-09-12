@@ -6,6 +6,10 @@ image: "/assets/images/2018/Snipaste_2018-09-13_04-58-40.jpg"
 excerpt_img: true
 ---
 
+（本文首发于[TechCrunch 中文版](https://techcrunch.cn/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
+
+<br>
+
 尽管发布会前泄漏的消息生动翔实，令人信服，但我心中仍然怀有疑问：
 
 iPhone 11 年的发展史中，有大改、有小改，那些小改动的更新被称为 S 系列。但即便如此，S 系列 iPhone 往往也都包含着重要的硬件及功能更新，iPhone 4S 有 Siri；iPhone 5s 有 Touch ID；iPhone 6s 有 3D Touch…… 那么，iPhone XS 有什么？泄漏的消息里没有提到任何新的功能点。而苹果的答案是，什么都没有。
