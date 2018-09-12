@@ -6,7 +6,7 @@ image: "/assets/images/2018/Snipaste_2018-09-13_04-58-40.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[TechCrunch 中文版](https://techcrunch.cn/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
+（本文首发于[TechCrunch 中文版](https://techcrunch.cn/2018/09/13/apple-18-fall-event/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
 
 <br>
 
