@@ -1,5 +1,5 @@
 ---
-excerpt: "（晚上读了最新一期[离线](https://zhuanlan.zhihu.com/theoffline)《[自动贩卖机：买下全宇宙](https://the-offline.com/issue/31/)》，突然很想写点什么，然后就有了这一篇。）
+excerpt: "（晚上读了最新一期[离线](https://zhuanlan.zhihu.com/theoffline)《[自动贩卖机：买下全宇宙](https://www.zhihu.com/pub/book/119554004)》，突然很想写点什么，然后就有了这一篇。）
 
 
 
