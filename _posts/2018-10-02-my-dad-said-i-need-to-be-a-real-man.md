@@ -50,7 +50,7 @@ IA：你这波描述，难道不是被消费主义蒙蔽了双眼？说好要获
 
 IA：所以你很清楚我为什么怕结婚啊！exactly what you said。
 
-我：我没否认你焦虑的存在啊，I truly understand the problem，but damn，you're a 24-year-old，fucking grown-up man，just stop whining like a fucking bitch，you can't just stay here，waiting things to work themselves out，you have fucking no idea how badly I wanna be in your position，facing this dilemma，you got the right girl with adequately big boobs，go ahead，handle these…real shit，like a fucking adult。
+我：我没否认你焦虑的存在啊，I truly understand the problem，but damn，you're a 24-year-old，fucking grown-up man，just stop whining like a fucking bitch，you can't just stay here，waiting things to work themselves out，you have fucking no idea how badly I wanna be in your position，facing this dilemma，you got the right girl with adequately big boobs，go ahead，handle those… the real shit，like a fucking adult。
 
 IA：好好好，you know，I‘m just a lil bit scared。
 
