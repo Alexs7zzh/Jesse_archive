@@ -6,6 +6,8 @@ image: "/assets/images/2018/IMG_1129.jpg"
 excerpt_img: true
 ---
 
+（本文首发于[TechCrunch 中文版](https://techcrunch.cn/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
+
 我的 Apple Watch Series 3 在仅仅服役 10 个月后，光荣退役。
 
 一年前的这个时候，Jason Snell 将 Series 3 定义为「start of something big.」。这个说法是如此精准，以至于到今天才终于完全应验，Apple Watch Series 4 的的确确成为了 something big。
@@ -112,7 +114,7 @@ Apple Watch 的产品形态决定了你无法去「玩」它，无法沉迷于�
 
 ![]({{ "/assets/images/2018/watch-5.jpg" | absolute_url }})
 
-就像 Apple Watch Series 4 的广告《Better You》，我知道这种关于「选择更好的生活方式」的论述听起来老土又无聊，但当你在自己身上践行过一次这件事后，你也会理解这种力量的强大。
+就像 [Apple Watch Series 4 的广告《Better You》](https://www.youtube.com/watch?v=ms4yxJcvW3s)，我知道这种关于「选择更好的生活方式」的论述听起来老土又无聊，但当你在自己身上践行过一次这件事后，你也会理解这种力量的强大。
 
 <br>
 
