@@ -84,7 +84,7 @@ excerpt_img: true
 
 <br>
 
-我不免想到 Jason Snell 写的关于 iPod 的文章，在乔布斯发布初代 iPod 后不久，他的女儿恰好出生。现在再回头去看这样一篇文章，其中所包含的丰富价值自然是不言自明。我不免问自己：我在今天对未来 10 年技术发展的预言，等到 10 年后再回头看，会显得非常荒谬吗？会包含某种有价值的洞察吗？这是我想要坚持下去，并验证的事。我也希望能在一个自由而宽松的环境下，看到创作这件事在时间的催化下发酵出更多价值，更看到自己的成长。就像 dunkey 在去年的《Cuphead》视频里所说的：
+我不免想到 Jason Snell 写的[关于 iPod 的文章](https://www.macworld.com/article/1053498/ipods/ipod5.html)，在乔布斯发布初代 iPod 后不久，他的女儿恰好出生。现在再回头去看这样一篇文章，其中所包含的丰富价值自然是不言自明。我不免问自己：我在今天对未来 10 年技术发展的预言，等到 10 年后再回头看，会显得非常荒谬吗？会包含某种有价值的洞察吗？这是我想要坚持下去，并验证的事。我也希望能在一个自由而宽松的环境下，看到创作这件事在时间的催化下发酵出更多价值，更看到自己的成长。就像 dunkey 在去年的[《Cuphead》视频](https://www.youtube.com/watch?v=CCkPhYiKbJU)里所说的：
 
 > “Persistence” is the keyword. Going back to New Grounds, there were so many moments when I was a kid that I thought I had something special. I worked so hard for months on some of those movies, and when I finally put them up, the reception was “gay”. And that was crushing for me. But for some reason, I kept going back again, and again, and again. And eventually, eventually, I got better. 
 
