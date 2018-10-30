@@ -6,7 +6,7 @@ image: "/assets/images/2018/apple-oct-2018-event.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[TechCrunch 中文版](https://techcrunch.cn/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
+（本文首发于[TechCrunch 中文版](https://techcrunch.cn/2018/10/31/apple-2018-winter-event-creativity-and-productivity/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
 
 iPad 和 Mac 所处的位置正变得愈发尴尬。
 
