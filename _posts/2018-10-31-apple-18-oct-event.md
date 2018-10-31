@@ -8,6 +8,8 @@ excerpt_img: true
 
 （本文首发于[TechCrunch 中文版](https://techcrunch.cn/2018/10/31/apple-2018-winter-event-creativity-and-productivity/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）
 
+<br>
+
 iPad 和 Mac 所处的位置正变得愈发尴尬。
 
 一年之内，不出意外的话，这两部分业务收入加起来，将被「软件与服务」业务反超。iPhone 是苹果独一无二的「顶梁柱」，Apple Watch 和各种随身的周边配件也在加速增长，未来可期。围绕着这个巨大的消费娱乐矩阵，苹果成为了第一家万亿市值的公司。在这个背景下，iPad 和 Mac 持续的原地徘徊，让它们正变得越来越「无足轻重」，越来越需要一次「重新定义」。
