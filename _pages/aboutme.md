@@ -58,7 +58,7 @@ Jesse Chan，独立创作者。在做博客「大破进击」，以及播客「�
 
 [jessechan42 on PlayStationNetwork](https://psnprofiles.com/jessechan42/)
 
-Nintendo Friend Code：214914422524
+Nintendo Friend Code: 214914422524
 
 Email: <a href="mailto:jessechan42@gmail.com">jessechan42[at]gmail.com</a>
 
