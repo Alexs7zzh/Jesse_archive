@@ -46,13 +46,13 @@ Jesse Chan，独立创作者。在做博客「大破进击」，以及播客「�
 
 ## SNS
 
-[Twitter@Jesoooor](https://twitter.com/Jesoooor)
+[Twitter @Jesoooor](https://twitter.com/Jesoooor)
 
-[Instagram@Jesoooor](https://www.instagram.com/jesoooor/)
+[Instagram @Jesoooor](https://www.instagram.com/jesoooor/)
 
-[知乎@Jesse Chan](https://www.zhihu.com/people/jesor/activities/)
+[知乎 @Jesse Chan](https://www.zhihu.com/people/jesor/activities/)
 
-[Telegram@Jesoooor](https://t.me/Jesoooor/)
+[Telegram @Jesoooor](https://t.me/Jesoooor/)
 
 [xiaoboshi on Steam](https://steamcommunity.com/id/jesor/)
 
