@@ -1,6 +1,6 @@
 ---
 excerpt: "这个故事跟我们的互联网生活又构成了一种有力的互文。生活在数字世界中，正在接受再造的我们常常会认为，邪恶的根源在于产品、在于互联网本身。是社交媒体使我们孤独，是「短平快」的低级内容使我们退化，是引导情绪的「爆文」使我们焦虑，是以讹传讹的谣言使我们无知。但归根结底，我们要抵抗的，难道不是自己内心的低级欲望、条件反射和思维定势吗？"
-title: "无敌破坏王2：互联网漫游指南"
+title: "《无敌破坏王 2》：互联网漫游指南"
 tags: 科技 电影
 image: "/assets/images/2018/vanellope-disney-princess-ralph-breaks-the-internet-wreck-it-ralph-2-movie-2018-s7413.jpg"
 excerpt_img: true

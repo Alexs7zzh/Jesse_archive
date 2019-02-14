@@ -1,6 +1,6 @@
 ---
 excerpt: "在每一集开头直白的性爱镜头背后，《Sex Education》试图「教」会观众的，其实是和解与爱。"
-title: Sex Education：性的迷思和爱的教育
+title: 《Sex Education》：性的迷思和爱的教育
 tags: 电影 次文化
 image: "/assets/images/2019/sex-education-1.jpg"
 excerpt_img: true
