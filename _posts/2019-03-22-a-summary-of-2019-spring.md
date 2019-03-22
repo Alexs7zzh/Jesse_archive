@@ -36,7 +36,7 @@ excerpt_img: true
 
 从过完年开始，我就一直在期盼春天。可能是不再年轻不耐冻了，也可能是今年的冬天的确太冷太长了。跑到西海岸春游了一波，虽然 Venice Beach 阳光灿烂，也总还是觉得没有真正切合进春日的主题。
 
-周三晚上吃完饭什么都不想干，就跑到湖边兜了一圈，趁着四下无人，在车里跟朋友一起 Carpool Karaoke，从小学时候的蔡依林和 S.H.E 开始，唱到周杰伦和林俊杰，Back Street Boys 和 Westlife，Britney 和 Beyonce，High School Musical 和 glee，Maroon 5 和 Taylor。风吹在脸上暖暖的，让我有点开心。
+周三晚上吃完饭什么都不想干，就跑到湖边兜了一圈，趁着四下无人，在车里跟朋友一起 Carpool Karaoke，从小学时候的蔡依林和 S.H.E 开始，唱到周杰伦和林俊杰，Backstreet Boys 和 Westlife，Britney 和 Beyonce，High School Musical 和 glee，Maroon 5 和 Taylor。风吹在脸上暖暖的，让我有点开心。
 
 <br>
 
