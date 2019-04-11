@@ -6,7 +6,7 @@ image: "/assets/images/2019/xiaomi9.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[TechCrunch 中文版](https://techcrunch.cn/2019/02/23/still-xiaomi/)。）
+[（本文首发于 TechCrunch 中文版）](https://techcrunch.cn/2019/02/23/still-xiaomi/)
 
 <br>
 
