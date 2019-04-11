@@ -6,7 +6,7 @@ image: "/assets/images/2019/think-different.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[TechCrunch 中文版](https://techcrunch.cn/2019/03/26/apple-spring-event/)）
+[（本文首发于 TechCrunch 中文版）](https://techcrunch.cn/2019/03/26/apple-spring-event/)
 
 早在 2014 年，库克就决定，要让苹果从「硬件公司」向「服务公司」转型。与此同时，苹果在好莱坞大肆招兵买马，制作原创节目的消息几乎没有间断过。直到 5 年后的 2019 年，苹果一头撞上了「卖手机」这件事的天花板。年初那份糟糕的财报预告了「硬件时代」的结束，苹果要给自己找到新的增长点。
 
