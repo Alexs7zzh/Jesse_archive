@@ -8,8 +8,6 @@ excerpt_img: true
 
 [（本文首发于 TechCrunch 中文版）](https://techcrunch.cn/2019/04/10/airpods-2019-review/)
 
-<br>
-
 把时间拨回到 3 年前的那场 iPhone 7 发布会，Phil Schiller 上台，解释苹果为什么最终决定「取消 iPhone 上的 3.5mm 耳机孔」时，台下几乎一片死寂。这个决定太突然了，牺牲也太大了。紧接着，他向世界宣布，苹果找到一个新的、更好的解决方案，AirPods。
 
 但人们不喜欢 AirPods。这样一个看起来很容易丢、需要充电、蓝牙音质的耳机，居然要价 1200 元。作为耳机，AirPods 提供的体验与免费的 EarPods 几乎没有任何区别。愤怒的人群冲向 YouTube，给 AirPods 的产品视频点「踩」，借此表达自己的不满。从 AirPods 公布到发售的三个月里，有一半以上的人给那个视频点了「踩」。
