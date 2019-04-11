@@ -6,7 +6,7 @@ image: "/assets/images/2019/barrett-ward-451723-unsplash.jpg"
 excerpt_img: true
 ---
 
-[（本文首发于 TechCrunch 中文版）](https://techcrunch.cn/2019/04/10/airpods-2019-review/)
+（本文首发于 [TechCrunch 中文版](https://techcrunch.cn/2019/04/10/airpods-2019-review/)）
 
 把时间拨回到 3 年前的那场 iPhone 7 发布会，Phil Schiller 上台，解释苹果为什么最终决定「取消 iPhone 上的 3.5mm 耳机孔」时，台下几乎一片死寂。这个决定太突然了，牺牲也太大了。紧接着，他向世界宣布，苹果找到一个新的、更好的解决方案，AirPods。
 
