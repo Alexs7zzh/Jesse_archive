@@ -57,3 +57,7 @@ tags: 科技
 - 这场 WWDC 上，被砍的应该只会是 iTunes Store，也没什么实质的影响，音乐商店并入 Apple Music，电影和剧集并入 Apple TV 就行了，这本身也更 make sense。
 
 - 至于 iTunes 软件，最终可能也是要砍的。但在这之前苹果需要把 iTunes 的功能先全部拆出来，比如要有完整的桌面版 Apple Music、完整的桌面版 Apple TV、Podcast、Audiobooks，以及通过电脑管理 iOS 设备的一系列功能。目前的话，还早。
+
+<br>
+
+**发布会时间是北京时间后天 6 月 3 日晚，4 日凌晨 1:00。**
