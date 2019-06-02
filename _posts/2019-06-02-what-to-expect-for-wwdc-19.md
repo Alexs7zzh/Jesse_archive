@@ -1,5 +1,5 @@
 ---
-excerpt: “WWDC19 的看点太多，所以干脆放到博客上了。“
+excerpt: "WWDC19 的看点太多，所以干脆放到博客上了。"
 title: WWDC19 看点
 tags: 科技
 ---
