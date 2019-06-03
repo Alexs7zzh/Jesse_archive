@@ -10,7 +10,7 @@ iPadOS 与 macOS 则组成了新的生产力设备阵营，即将开启一个全
 软件、硬件和服务聚散离合，指向未来全新的苹果生态。"
 title: WWDC19：聚散离合
 tags: 科技
-image: "/assets/images/2018/wwdc-19.jpg"
+image: "/assets/images/2019/wwdc-19.jpg"
 excerpt_img: true
 ---
 
