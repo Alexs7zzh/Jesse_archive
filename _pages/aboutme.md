@@ -10,7 +10,7 @@ Jesse Chan，独立创作者。在做博客「大破进击」，以及播客「�
 
 科技评论人，致力于用人文的视角洞察技术和文化。
 
-在爱否科技做过主笔，期间最满意的作品是 [Nintendo Switch 评测](http://www.bilibili.com/video/av9780659)。给很多媒体供过稿，作品也在本博客多有发布。目前主要在给[极客公园](geekpark.net)和 [TechCrunch 中文版](techcrunch.cn)供稿。
+在爱否科技做过主笔，期间最满意的作品是 [Nintendo Switch 评测](http://www.bilibili.com/video/av9780659)。给很多媒体供过稿，作品也在本博客多有发布。目前主要在给[极客公园](https://geekpark.net)和 [TechCrunch 中文版](https://techcrunch.cn)供稿。
 
 <br>
 
