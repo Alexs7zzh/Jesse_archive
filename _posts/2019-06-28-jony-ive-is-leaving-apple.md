@@ -10,6 +10,10 @@ image: "/assets/images/2019/Apple-update-tim-cook-jonathan-ive-062619.jpg"
 excerpt_img: true
 ---
 
+(本文首发于[极客公园](https://www.geekpark.net/news/243959)，原标题为「产品设计进入下半场，苹果不再需要 Jony Ive」，本站收录时进行了修改。）
+
+<br>
+
 Jony Ive 要离开苹果了。
 
 从 1992 年加入苹果开始，Ive 主导了 Mac、iPod、iPhone、iPad、Apple Watch 等众多苹果产品的设计，还在苹果新总部 Apple Park 的各种设计细节上投入了大量心血。
