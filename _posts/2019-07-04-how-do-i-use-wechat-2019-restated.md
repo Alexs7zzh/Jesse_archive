@@ -31,4 +31,6 @@ tags: 科技 日常
 - 我鼓励所有朋友使用 iMessage 和 Telegram 进行私人通信，不仅因为它们能保护你我的通讯隐私。更在于我希望更多人能对「好和坏」有感受和判断力，理解「方便有时会成为一种暴力」。
 - 除了 iMessage 和 Telegram，我对任何私密、安全的通讯工具都持欢迎态度。如果你更愿意使用其他的加密通讯手段进行私人通讯，我十分欢迎。包括但不限于 WhatsApp、Messenger、Google Duo、Discord…
 
+<br>
+
 我的 iMessage 地址是 jessechan42@gmail.com，Telegram 用户名是 @Jesoooor。
