@@ -150,7 +150,7 @@ _Daylight_ 对整张专辑做出了最完美的总结。一切互相攻击、斗
 
 从 _Red_ 平均每首歌 4 分钟，到 _1989_、_reputation_ 的 3.7 分钟，再到 _Lover_ 的 3.4 分钟，Taylor 的歌越来越短、越来越急，很多时候让人感觉主歌还没唱完就匆匆进入副歌，副歌的旋律还没 get 到就已经进入 Bridge。我知道 Taylor Swift 还远没到「江郎才尽」的地步，但如果未来的她如果跌落神坛，这就是创作走下坡路的一个开端。
 
-在前几遍听 Lover 的过程中，我感受到一种「迷失」，原本属于 Taylor Swift 的很多特征都迷失在了缺乏特点的曲子和程序化的制作中。特别是在前半段，你很容易从 _The Man_、_I Think He Knows_ 里听出 _Carly Rae Jepsen_ 的感觉，_The Man_ 旋律的走向、鼓点和配器都跟 _Now That I Found You_ 有相似之处，至于 _Miss Americana & The Heartbreak Prince_ 则立刻让我想到了 _Lana Del Ray_ 的 _Without You_。
+在前几遍听 Lover 的过程中，我感受到一种「迷失」，原本属于 Taylor Swift 的很多特征都迷失在了缺乏特点的曲子和程序化的制作中。特别是在前半段，你很容易从 _The Man_、_I Think He Knows_ 里听出 _Carly Rae Jepsen_ 的感觉，_The Man_ 旋律的走向、鼓点和配器都跟 _Now That I Found You_ 有相似之处，至于 _Miss Americana & The Heartbreak Prince_ 则立刻让我想到了 _Lana Del Rey_ 的 _Without You_。
 
 我理解 Taylor Swift 需要一个「新的开始」，在经历了那么多事之后，她试图和过去的自己做一种「割裂」，说「I forgot That you existed.」。但通过 _Lover_，我很难听出她未来的目的地在哪里，过度饱和的粉红烟尘弥漫，使整张专辑的氛围迷离起来。
 
