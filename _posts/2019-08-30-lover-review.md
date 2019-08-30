@@ -131,7 +131,7 @@ _Lover_ 的第一首单曲 _ME!_ 刚放出的时候，有人评价它是「彩�
 
 > Holy orange bottles, each night, I pray to you; Desperate people find faith, so now I pray to Jesus too; And I say to you... Ooh-ah; Soon, you'll get better (Soon You’ll Get Better, Lover)
 
-到了最后一首歌 _Dayligh_t，一切情绪被以一种温和的方式推向高潮。不像前两张专辑，情绪的高潮部分出现在倒数二三首的_ I Know Places_ 和 _This Is Why We Can‘t Have Nice Thing_。
+到了最后一首歌 _Daylight_，一切情绪被以一种温和的方式推向高潮。不像前两张专辑，情绪的高潮部分出现在倒数二三首的 _I Know Places_ 和 _This Is Why We Can‘t Have Nice Thing_。
 
 > I've been sleeping so long in a 20-year dark night; (Now I'm wide awake); And now I see daylight, I only see daylight (Daylight, Lover)
 
