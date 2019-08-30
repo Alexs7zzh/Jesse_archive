@@ -74,7 +74,7 @@ Taylor Swift 用了 10 年时间、4 张唱片，将她作曲和作词的天赋�
 
 > Romeo, take me somewhere we can be alone; I'll be waiting, all there's left to do is run; You'll be the prince and I'll be the princess; It's a love story baby just say "yes" (Love Story, Fearless)
 
-到了 _Spark Fly_，Taylor 完成了对爱情认知的第一步成长。她开始寻找自己经历的爱情中的元素来构成歌曲，也从此开启了「虽然我们分手了，但我会把你写进歌里」这个梗。
+到了 _Speak Now_，Taylor 完成了对爱情认知的第一步成长。她开始寻找自己经历的爱情中的元素来构成歌曲，也从此开启了「虽然我们分手了，但我会把你写进歌里」这个梗。
 
 > So this is me swallowing my pride; Standing in front of you, saying I'm sorry for that night; And I'd go back to December all the time (Back to December, Speak Now)
 
