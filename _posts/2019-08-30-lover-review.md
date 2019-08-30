@@ -6,7 +6,7 @@ image: "/assets/images/2019/lover.jpg"
 excerpt_img: true
 ---
 
-在 _Lover _放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从 _Spark Fly_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
+在 _Lover_ 放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从  _Spark Fly_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
 
 从这个角度来看，Lover 显然不是 Taylor Swift 最好的专辑，但只有从前一个山顶上走下来，她才能攀向新的高峰。
 
