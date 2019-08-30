@@ -6,7 +6,7 @@ image: "/assets/images/2019/lover.jpg"
 excerpt_img: true
 ---
 
-在 _Lover_ 放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从  _Spark Fly_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
+在 _Lover_ 放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从  _Speak Now_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
 
 从这个角度来看，Lover 显然不是 Taylor Swift 最好的专辑，但只有从前一个山顶上走下来，她才能攀向新的高峰。
 
@@ -16,7 +16,7 @@ excerpt_img: true
 ## The Old Taylor
 我们常常会因为「回忆起 10 年前的自己疯狂迷恋某个偶像」而想扇当年的自己两耳光，对我来说，这件事是反过来的。10 年前的我如果知道自己现在这么喜欢 Taylor Swift，他可能会想穿越到未来，扇现在的我两耳光。
 
-作为一个「伪独立乐迷」，我对 Taylor Swift 天然过敏。从带有浓烈 Teen Pop 感歌词的乡村，到 _Spark Fly_ 开始加入摇滚配器和合成器，调和出一点流行风味，2012 年以前，一个有点喜欢「装腔」的乐迷很难喜欢上 Taylor，那时的我也从未认真地听过她的歌，除了被迫洗脑的 _Love Story_ 和 _You Belong With Me_。
+作为一个「伪独立乐迷」，我对 Taylor Swift 天然过敏。从带有浓烈 Teen Pop 感歌词的乡村，到 _Speak Now_ 开始加入摇滚配器和合成器，调和出一点流行风味，2012 年以前，一个有点喜欢「装腔」的乐迷很难喜欢上 Taylor，那时的我也从未认真地听过她的歌，除了被迫洗脑的 _Love Story_ 和 _You Belong With Me_。
 
 但从 _Red_ 开始，你无法继续忽略她；_1989_ 更是以整个 2010 年代最佳流行制作的姿态入侵你的耳朵；至于 _reputation_，那是她站在整个流行艺术之巅的一次「任性」。
 
@@ -26,13 +26,13 @@ excerpt_img: true
 
 Taylor Swift 的创作天才是全方位的，如特写镜头一般深入细节还各种不重样的歌词，从主歌到 Pre-Chorus 层层递进的铺垫，最后引爆令人过耳不忘的副歌旋律……在她的前 6 张专辑里，这样的例子太多了。
 
-> Long live the walls we crashed through; All the kingdom lights shined just for me and you (Long Live, Spark Fly)
+> Long live the walls we crashed through; All the kingdom lights shined just for me and you (Long Live, Speak Now)
 > 
 > Say you'll remember me; Standing in a nice dress; Staring at the sunset, babe; Red lips and rosy cheeks; Say you'll see me again; Even if it's just in your; Wildest dreams (Wildest Dreams, 1989)
 
 Taylor 的很多歌都并不急着进副歌，而是选择在主歌和 Pre-Chorus 阶段多走一两个循环，在 Bridge 之后也常常会设置一段主歌的 refrain，改成 Breakdown。比如 _Long Live_，走过三个主歌循环再点燃副歌旋律；_Back to December_，两个主歌循环加上一个 Pre-Chorus，_Moment I Knew_ 直接是有两段主歌……在这些副歌之前的部分，Taylor 会用她的歌词把要讲的故事全部一点点讲得深入细节。
 
-> I'm so glad you made time to see me; How's life? Tell me, how's your family?; I haven't seen them in a while; You've been good, busier than ever; We small talk, work and the weather; Your guard is up and I know why (Back to December, Spark Fly)
+> I'm so glad you made time to see me; How's life? Tell me, how's your family?; I haven't seen them in a while; You've been good, busier than ever; We small talk, work and the weather; Your guard is up and I know why (Back to December, Speak Now)
 > 
 > You should've been there; Should've burst through the door; With that "Baby, I'm right here" smile; And it would've felt like; A million little shining stars had just aligned; And I would've been so happy (The Moment I Knew, Red)
 
@@ -76,7 +76,7 @@ Taylor Swift 用了 10 年时间、4 张唱片，将她作曲和作词的天赋�
 
 到了 _Spark Fly_，Taylor 完成了对爱情认知的第一步成长。她开始寻找自己经历的爱情中的元素来构成歌曲，也从此开启了「虽然我们分手了，但我会把你写进歌里」这个梗。
 
-> So this is me swallowing my pride; Standing in front of you, saying I'm sorry for that night; And I'd go back to December all the time (Back to December, Spark Fly)
+> So this is me swallowing my pride; Standing in front of you, saying I'm sorry for that night; And I'd go back to December all the time (Back to December, Speak Now)
 
 _Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都是对某个人单纯的迷恋，或是分手后对这个「人」的挽留，到了 Red 里，Taylor Swift 的自我女性意识开始觉醒，最典型例子当然是本专的主打歌  _We Are Never Ever Getting Back Together_。
 
