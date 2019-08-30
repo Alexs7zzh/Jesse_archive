@@ -78,7 +78,7 @@ Taylor Swift 用了 10 年时间、4 张唱片，将她作曲和作词的天赋�
 
 > So this is me swallowing my pride; Standing in front of you, saying I'm sorry for that night; And I'd go back to December all the time (Back to December, Spark Fly)
 
-_Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都是对某个人单纯的迷恋，或是分手后对这个「人」的挽留，到了 Red 里，Taylor Swift 的自我女性意识开始觉醒，最典型例子当然是本专的主打歌  _We Are Never Ever Getting Back Togethe_r。
+_Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都是对某个人单纯的迷恋，或是分手后对这个「人」的挽留，到了 Red 里，Taylor Swift 的自我女性意识开始觉醒，最典型例子当然是本专的主打歌  _We Are Never Ever Getting Back Together_。
 
 > Then you come around again and say; "Baby, I miss you and I swear I'm gonna change, trust me"; Remember how that lasted for a day?; I say, "I hate you," we break up, you call me, "I love you" (We Are Never Ever Getting Back Together, Red)
 
