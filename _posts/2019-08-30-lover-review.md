@@ -99,7 +99,7 @@ _Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都
 
 > Could've spent forever with your hands in my pockets; Picture of your face in an invisible locket (Dancing with Our Hands Tied, reputation)
 
-再_Lover_ 的第一首单曲 _ME!_ 的 MV 的第一个镜头里，一条蛇钻出来，化成了一屏幕的粉色蝴蝶。Old Taylor 不再躲藏在专辑的 B 面里，而是以最高调的方式站出来，向世界宣告，她要忘掉之前一切不好的回忆。
+在 _Lover_ 的第一首单曲 _ME!_ 的 MV 的第一个镜头里，一条蛇钻出来，化成了一屏幕的粉色蝴蝶。Old Taylor 不再躲藏在专辑的 B 面里，而是以最高调的方式站出来，向世界宣告，她要忘掉之前一切不好的回忆。
 
 相比 Taylor 之前一切作品，_Lover_ 更轻盈、更直白、更去制作化。开场的 _I Forgot That You Existed_ 如同即兴演出一般灵敏，选了合成器上最轻的音色，副歌部分的旋律也点到即止，衬托出整张专辑「随性」的情感基调。
 
