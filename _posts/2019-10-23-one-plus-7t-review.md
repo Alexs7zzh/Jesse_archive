@@ -8,6 +8,8 @@ excerpt_img: true
 
 >本文系 Jesse Chan 原创，今日头条首发。
 
+<br>
+
 想要评价一加手机并不难。
 
 简单成熟的设计方案、顶到极致的硬件配置、原生简洁的软件系统…一加手机最适合两种人，一种是只有浅度需求，99% 的时候用手机只是发发微信刷刷抖音的「普通小白」，另一种则是擅用各种第三方软件去满足自己的需要，只需要厂商提供一个相对自由干净环境的「搞机老炮」。
@@ -23,7 +25,7 @@ excerpt_img: true
 
 但一加没有过多纠结，一加 7T 的屏幕设计直接继承了一加 7 的水滴屏设计，没有在设计上走任何弯路。考虑到同时期推出的 OPPO Reno Ace 和 realme X2 Pro 也都采用了同样的水滴 90Hz 屏幕。很显然，这套方案在 OPPO 内部得到了极大的认可，是相对最能兼顾体验、质量和成本的方案。
 
-![]({{ "/assets/images/2019/oneplus7t_1.JPG“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_1.JPG" | absolute_url }})
 
 90Hz 屏幕给一加 7T 带来的体验提升是明显的。特别是习惯了在软件动画流畅度上位列行业标杆的 iPhone 和 iPad Pro 之后，一加 7T 是最近我体验过的安卓手机中上手最快的，也是唯一一个软件动画流畅度能够媲美 iPhone 的手机。
 
@@ -42,11 +44,11 @@ excerpt_img: true
 
 一加 7T 相机的优点在于 4800 万像素能提供足够的解析力，自动 HDR 的效果也十分令人满意，缺点则在于对焦的速度和成功率都要略逊于更贵的旗舰机，比如 iPhone 11 Pro 和三星 Note 10。
 
-![]({{ "/assets/images/2019/oneplus7t_3.JPG“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_3.JPG" | absolute_url }})
 
-![]({{ "/assets/images/2019/oneplus7t_4.JPG“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_4.JPG" | absolute_url }})
 
-![]({{ "/assets/images/2019/oneplus7t_5.JPG“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_5.JPG" | absolute_url }})
 
 <br>
 
@@ -55,7 +57,7 @@ excerpt_img: true
 
 这些配置参数都很无聊，每半年更新一次的高通旗舰芯片，一定可以无压力处理好一切应用。但对一加来说，更关键的问题在于，除了纸面上的跑分，性能可以给用户带来什么？
 
-![]({{ "/assets/images/2019/oneplus7t_6.JPG“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_6.JPG" | absolute_url }})
 
 在这件事上，一加给出的答案是「流畅」。这也是为什么一加 7T 要标配 90Hz 屏幕的原因所在。因为 90Hz 屏幕不只是「电竞屏」，不只是「游戏发烧友」需要，更是为每一个普通用户提供流畅体验的硬件基础，只有围绕「流畅」这一最基本的优质体验，才能使旗舰配置、超前性能的存在有意义。
 
@@ -74,7 +76,7 @@ excerpt_img: true
 
 但这就够了吗？Reno Ace 把广告打到了宅男文化的暴风之眼，英雄联盟 S9 总决赛上，打到了全国成千上万家线下门店的门脸上。这时的一加，要如何寻找自己的绿洲？
 
-![]({{ "/assets/images/2019/oneplus7t_2.jpg“ | absolute_url }})
+![]({{ "/assets/images/2019/oneplus7t_2.jpg" | absolute_url }})
 
 一加 7T 最终还是给出了自己的答案。软硬件配合只为打造出终极的「流畅」体验，独特的系统 UI 在整个安卓阵营中鹤立鸡群，「三段式静音键」这样的产品功能细节，甚至是与众不同的包装，都让它成为一个有不同点、闪光点的手机。
 
