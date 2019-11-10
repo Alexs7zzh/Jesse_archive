@@ -6,6 +6,12 @@ image: "/assets/images/2019/smartisan-1.JPG"
 excerpt_img: true
 ---
 
+<br>
+
+>本文系 Jesse Chan 原创，今日头条首发。
+
+<br>
+
 手机领域里，「小厂」这个概念正在消亡。
 
 刚刚过去的第三季度里，华为小米，OV 苹果这五家巨头占据了整个国内市场 92% 的份额，剩下魅族，徘徊在「其他」类目的悬崖边缘。
