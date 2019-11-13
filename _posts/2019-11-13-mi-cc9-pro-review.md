@@ -6,6 +6,12 @@ image: "/assets/images/2019/xiaomi-cc9-pro-1.jpg"
 excerpt_img: true
 ---
 
+<br>
+
+>本文系 Jesse Chan 原创，今日头条首发。
+
+<br>
+
 DXO Mark 排名第一，2799 起。
 
 这是小米 CC9 Pro 的一句话概括。小米希望打造一款「最强拍照手机」，同时售价只有 Mate 30 Pro 的一半不到。从 DXOMark 得分的角度来说，小米做到了。
