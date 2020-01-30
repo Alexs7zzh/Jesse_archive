@@ -36,7 +36,7 @@ Jesse Chan，独立创作者。在做博客「大破进击」，以及播客「�
 
 想要高效地了解我，最好的办法是读本站文章和我的[知乎答案](https://www.zhihu.com/people/jesor/answers)。
 
-想要深入地了解我，最好的办法是关注我的 [Twitter](https://twitter.com/Jesooor) 和 [Telegram Channel](https://t.me/forwardlikehell)。
+想要深入地了解我，最好的办法是关注我的 [Twitter](https://twitter.com/Jesoooor) 和 [Telegram Channel](https://t.me/forwardlikehell)。
 
 想要联系我，请优先考虑给我[写信](mailto:jessechan42@gmail.com)，也可以用 [Telegram](https://t.me/Jesoooor/) 或 [iMessage](sms:jessechan42@gmail.com) 找到我。
 
