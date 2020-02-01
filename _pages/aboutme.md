@@ -4,6 +4,8 @@ title: 关于我
 permalink: /aboutme/
 ---
 
+![]({{ "/assets/images/2020/bio.jpg" | absolute_url }})
+
 Jesse Chan，独立创作者。在做博客「大破进击」，以及播客「交差点」。
 
 <br>
