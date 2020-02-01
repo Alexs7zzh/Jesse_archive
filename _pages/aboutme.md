@@ -64,4 +64,6 @@ Email: <a href="mailto:jessechan42@gmail.com">jessechan42[at]gmail.com</a>
 
 iMessage: <a href="sms:jessechan42@gmail.com">jessechan42[at]gmail.com</a>
 
+<br>
+
 ![]({{ "/assets/images/2020/du-2.jpg" | absolute_url }})
