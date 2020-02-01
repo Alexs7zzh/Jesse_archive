@@ -4,6 +4,8 @@ title: 关于本站
 permalink: /about/
 ---
 
+![]({{ "/assets/images/2020/about.jpg" | absolute_url }})
+
 > 如果妳在读这个博客，我会感激。但是毋庸置疑：我是没法知道妳喜欢什么的。人类创造出的产品里，只有那些为了满足自己而作的，才是真正值得读、值得看、值得听的。满足全世界这个目标太大，妳很难射中靶心。
 >
 > —— Tim Bray（Lawrence Li 译）
