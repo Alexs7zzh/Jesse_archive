@@ -1,6 +1,6 @@
 ---
-excerpt: "2019 年我看过最好的电影、听过最好的音乐，和一份数字消费指南。"
-title: "10 years of iPad"
+excerpt: "iPad 走入了一个更复杂，也艰难得多的领域，但它却因此拥有了更多的可能性。它不再是那个只在七个应用场景下比 iPhone 更有优势平板电脑，而是在每个人手上用法都截然不同的 iPad。"
+title: "iPad 十周年：需求、场景、可能性"
 tags: 科技
 image: "/assets/images/2020/ipad-10-heading.jpg"
 excerpt_img: true
@@ -14,7 +14,7 @@ excerpt_img: true
 
 乔布斯没有解释这张沙发存在的意义，而是直接展示了这款「介于 iPhone 和 MacBook 之间」的设备，iPad。他坐在沙发上，翘起腿，开始用一种前所未有的方式演示浏览网页，收发邮件，管理照片……
 
-![]({{ "/assets/images/2020/ipad-10-heading.jpg" | absolute_url }})
+![]({{ "/assets/images/2020/steve-jobs-ipad.jpg" | absolute_url }})
 
 十年前的这场初代 iPad 发布会上，乔布斯列举了七大需求，网页、邮件、照片、视频、音乐、游戏、电子书，表示 iPad 在处理这些需求时，比 iPhone 和 MacBook 更具优势。
 
