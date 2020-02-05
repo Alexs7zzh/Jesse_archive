@@ -6,6 +6,10 @@ image: "/assets/images/2020/ipad-10-heading.jpg"
 excerpt_img: true
 ---
 
+（本文首发于[极客公园](https://mp.weixin.qq.com/s/QVRtbOs6NOvQ-YI9xz-N6g)，原标题为「十年了，你除了会拿 iPad 看剧还会干啥！」，本站收录时进行了修改。）
+
+<br>
+
 乔布斯在舞台上摆了一张黑色的皮沙发。
 
 这是一种很罕见的发布会陈设。大部分时候，乔布斯都更倾向于用一张蒙着黑布的方桌来陈列产品，让所有人的注意力集中在产品，而不是桌子上。
