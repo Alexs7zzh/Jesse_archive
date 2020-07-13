@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 ![]({{ "/assets/images/2020/bio.jpg" | absolute_url }})
 
-Jesse Chan，独立创作者。
+This is Jesse Chan.
 
 I observe, document, analyse and narrate.
 
