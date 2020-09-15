@@ -1,7 +1,7 @@
 ---
 excerpt: "苹果正面临一对矛盾：它长远的产品未来，和眼前的财报周期之间的矛盾。"
 title: "苹果 2019 秋季发布会：新的周期"
-tags: 日常
+tags: 科技
 image: "/assets/images/2019/apple-fall-event.jpg"
 excerpt_img: true
 ---
