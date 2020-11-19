@@ -4,7 +4,7 @@ excerpt: "拿到 iPhone 12 mini 之后，我没有将之前手机里的 App 迁�
 尺寸上、设计上，iPhone 12 mini 似乎在向后倒退，但对我来说，这是一个「纠错」的机会，是对「手机应该被用来干什么」的一次重新思考。"
 title: "iPhone 12 mini: revertigo"
 tags: 科技
-image: "/assets/images/2020/iphone-12-mini-2.jpg"
+image: "/assets/images/2020/iphone-12-mini-3.jpg"
 excerpt_img: true
 ---
 
@@ -16,7 +16,7 @@ excerpt_img: true
 
 iPhone 12 mini 拿在手上的感觉，与 iPhone 5 非常接近。它甚至唤起了我当年的肌肉记忆——用食指去按手机顶部的「电源」键，使手机亮屏、锁屏。
 
-尽管采用了「复古」的小尺寸，iPhone 12 mini 的性能没有妥协：同样的 A12 Bionic、同样的 5G 频段支持、同样的双摄系统，包括这颗 12 Pro 同款的 f1.6 广角主摄。这仍是一台旗舰 iPhone。
+尽管采用了「复古」的小尺寸，iPhone 12 mini 的性能没有妥协：同样的 A14 Bionic、同样的 5G 频段支持、同样的双摄系统，包括这颗 12 Pro 同款的 f1.6 广角主摄。这仍是一台旗舰 iPhone。
 
 从我出生的第一天起，电子设备的屏幕就是不断变大的：电视、显示器、各种随身播放器，特别是手机。从 1 寸黑白屏的诺基亚 1110、2.4 寸彩屏的 N78，3.5 寸 Retina 的 iPhone 4S，4.7 寸的 6s、5.8 寸的 X。这种进化当然不只是「变大」那么简单，手机能做到的事也越来越多。
 
