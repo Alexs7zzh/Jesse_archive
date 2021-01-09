@@ -6,7 +6,7 @@ image: "/assets/images/2020/cyberpunk-2077-header.jpg"
 excerpt_img: true
 ---
 
-（本文首发于[极客公园](https://www.geekpark.net/news/271446)，原标题为「复盘《赛博朋克2077》：CDPR 的噩梦早就埋下了伏笔」，本站收录时进行了修改。）
+（本文首发于[极客公园](https://www.geekpark.net/news/271446)，原标题为「复盘《赛博朋克2077》：谁让你提前 57 年发布呢？」，本站收录时进行了修改。）
 
 <br>
 
