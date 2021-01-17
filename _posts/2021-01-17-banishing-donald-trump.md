@@ -10,6 +10,10 @@ image: "/assets/images/2021/trump-capitol-rally.jpg"
 excerpt_img: true
 ---
 
+（本文首发于[极客公园](https://www.geekpark.net/news/272732)，原标题为「放逐特朗普，与「Twitter 文明」的失败」，本站收录时进行了修改。）
+
+<br>
+
 特朗普被硅谷「放逐」了。
 
 尽管权力还没有正式交接：在拜登正式接受任命之前，他仍是现任美国总统。但特朗普已经被美国所有主流社交媒体平台「封杀」，包括 Twitter、Facebook、Instagram、YouTube……以及他曾经下令封禁的 TikTok。
