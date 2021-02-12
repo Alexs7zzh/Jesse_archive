@@ -1,7 +1,7 @@
 ---
 excerpt: "在湾区的家里远程办公几个月后，人们开始思考一个问题：能不能将办公的地方搬得更远？部分行动派，已经开始离开旧金山湾区，离开硅谷。"
-title: "逃离硅谷"
-tags: 科技
+title: "🔥 逃离硅谷"
+tags: 科技 🔥
 image: "/assets/images/2020/silicon-valley-bridge.jpg"
 excerpt_img: true
 ---

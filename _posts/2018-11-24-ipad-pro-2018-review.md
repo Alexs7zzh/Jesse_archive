@@ -1,7 +1,7 @@
 ---
 excerpt: "它之所以成为一件优秀的设备，就是因为它的诸多优良特性，让我们能以一种新的视角进行创造。它的轻薄、省电、触摸交互、连接性、Apple Pencil、AR，都让它成为一个不一样的设备。而这种不同，正在启发着一代人。"
-title: "iPad Pro 2018：专业级业余"
-tags: 科技
+title: "🔥 iPad Pro 2018：专业级业余"
+tags: 科技 🔥
 image: "/assets/images/2018/IMG_1377.JPG"
 excerpt_img: true
 ---
