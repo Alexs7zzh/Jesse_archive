@@ -1,7 +1,7 @@
 ---
 excerpt: "歌迷们会用「出村」这个词来形容 Taylor 职业上的发展，但从某种角度来说，霉霉从未出村。她一直是那个用创作表达自我，同时又会因各种大小事感到开心、愤懑、无所适从的普通女生。最终，她的谦和与专注占据了上风，才能为所有人带来这样一张 _Lover_。"
-title: "Lover: 🐍➡️🦋"
-tags: 音乐
+title: "⭐️ Lover: 🐍➡️🦋"
+tags: 音乐 ⭐️
 image: "/assets/images/2019/lover.jpg"
 excerpt_img: true
 ---

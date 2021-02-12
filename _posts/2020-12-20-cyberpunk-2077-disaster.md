@@ -1,7 +1,7 @@
 ---
 excerpt: "靠着波澜壮阔的决心，不惧一切的勇气，和对游戏倾尽所有的热忱，CDPR 一步步走到了今天。但这一次，它的野心膨胀成了一场骑虎难下的闹剧。"
-title: "赛博朋克 2077 怎么了？"
-tags: 游戏
+title: "⭐️ 赛博朋克 2077 怎么了？"
+tags: 游戏 ⭐️
 image: "/assets/images/2020/cyberpunk-2077-header.jpg"
 excerpt_img: true
 ---
