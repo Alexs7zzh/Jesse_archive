@@ -8,7 +8,7 @@ permalink: /aboutme/
 
 This is Jesse Chan.
 
-I observe, document, analyse and narrate.
+I document and narrate.
 
 <br>
 
