@@ -4,7 +4,7 @@ excerpt: "按照计划，拜登的就任典礼将于 1 月 20 日下周三举办
 
 
 而这个问题，从来都不只是美国人的问题。"
-title: "⭐️放逐特朗普"
+title: "⭐️ 放逐特朗普"
 tags: 科技 新闻报道 ⭐️
 image: "/assets/images/2021/trump-capitol-rally.jpg"
 excerpt_img: true
