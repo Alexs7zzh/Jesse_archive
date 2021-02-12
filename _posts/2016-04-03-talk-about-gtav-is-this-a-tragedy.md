@@ -4,8 +4,8 @@ excerpt: "这就是《GTA V》故事最大的悲剧性所在。也是这个建�
 
 
 「当我们拥有足够的能力从外部武装自己，又能不能获取足够的勇气来直面自己的内心？」"
-title: "漫谈《GTA V》之故事篇：这是一个悲剧吗？"
-tags: 游戏 次文化
+title: "⭐️ 漫谈《GTA V》之故事篇：这是一个悲剧吗？"
+tags: 游戏 次文化 ⭐️
 image: "/assets/images/2016/d16ad26206413a743f5e780a443cd61a.jpg"
 excerpt_img: true
 ---

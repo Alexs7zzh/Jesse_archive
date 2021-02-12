@@ -5,8 +5,8 @@ excerpt: "今天下午回家的路上，一条推送显示在我的 Apple Watch 
 
 
 只是 iPhone 在过去的 10 年里改变的，远远不止我们接起电话说「Hello」的方式，这大概是我在这样一个时刻还是有一点感动的原因，除了把苹果公司带向商业的顶端之外，iPhone 对我来说更重要的意义是把我与世界、与时间连接起来了，成为了我生活中不可或缺的一部分。"
-title: "10 Years of iPhone"
-tags: 科技
+title: "🔥 10 Years of iPhone"
+tags: 科技 🔥
 image: "/assets/images/2017/v2-c4e6644c4147625a8717e5fd5df529ef.jpg"
 ---
 

@@ -6,8 +6,8 @@ excerpt: "我对Apple Watch这个产品的态度从其发布的第一分钟开�
 
 上周末我在北京，在街上看到了有史以来最多的Apple Watch。去三里屯想尝试一下3D Touch的体验，6s没有试用到，却在准备走的时候第一次自己亲手用到了Apple Watch。<br>
 然后我把Apple Watch放到了我个人电子产品欲购列表上新款iPhone的后面。"
-title: "Understand Apple Watch and want one"
-tags: 科技 日常
+title: "🔥 Understand Apple Watch and want one"
+tags: 科技 日常 🔥
 image: "/assets/images/2015/b50e990efeaa5d07b2b4b059f883b83e.jpg"
 excerpt_img: true
 ---

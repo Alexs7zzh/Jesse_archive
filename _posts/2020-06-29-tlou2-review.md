@@ -4,7 +4,7 @@ excerpt: "作为一种艺术媒介，游戏不断向前发展，过程中我们�
 
 
 *全程高能剧透"
-title: "⭐️ 《最后生还者 2》的功与罪"
+title: "⭐️《最后生还者 2》的功与罪"
 tags: 游戏 ⭐️
 image: "/assets/images/2020/tlou2-cover.jpg"
 excerpt_img: true
