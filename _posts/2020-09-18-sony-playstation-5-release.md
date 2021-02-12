@@ -1,7 +1,7 @@
 ---
 excerpt: "新的世代来临，索尼想再赢一次。"
-title: "索尼能再赢一次吗？"
-tags: 科技 游戏
+title: "🔥 索尼能再赢一次吗？"
+tags: 科技 游戏 🔥
 image: "/assets/images/2020/sony-playstation.jpg"
 excerpt_img: true
 ---
