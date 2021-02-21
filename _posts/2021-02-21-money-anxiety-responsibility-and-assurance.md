@@ -1,6 +1,6 @@
 ---
 excerpt: "这是过去一年我反复问自己的问题：做了这么多财务管理的工作，教别人记账、做预算，提供投资建议。构建游戏化的机制，为毫无灵魂的工作找一个借口，为赚钱赋予意义，这一切就是为了驱动自己赚更多、花更少吗？"
-title: "钱的焦虑、责任和安全感"
+title: "【免费试读】钱的焦虑、责任和安全感"
 tags: 日常 科技
 image: "/assets/images/2021/money-dollar-bill.jpg"
 excerpt_img: true
@@ -66,8 +66,12 @@ excerpt_img: true
 
 -
 
-本文节选自「LIFEHACKING101 DLC1：钱！钱！钱！」，完整的 DLC 内容，将于 3 月 1 日推送给付费读者。
+**本文节选自「LIFEHACKING101 DLC1：钱！钱！钱！」，完整的 DLC 内容是我在过去一年用哪些新方法进行记账、投资的总结，将于 3 月 1 日推送给付费读者。**
 
 此前购买了 LIFEHACKING101 的读者，可以免费获得所有 DLC 推送。
 
-想阅读完整 DLC 的朋友，可以支付 99 元购买 LIFEHACKING101 Deluxe（Paypal 请付 18 美元），获得全部文字和音频内容，以及未来全部 DLC 内容。
+**想阅读完整 DLC 的朋友，可以支付 99 元购买 LIFEHACKING101 Deluxe，获得全部文字和音频内容，以及未来全部 DLC 内容。** 
+
+购买请转账 99 元至支付宝 & Paypal: jessechan42@gmail.com ，并备注你的邮箱地址，用于接收内容。
+
+![]({{ "/assets/images/2021/lifehacking-101-deluxe-payment.jpg" | absolute_url }})
