@@ -4,7 +4,7 @@ excerpt: "HomePod 将「认真听」这件事平民化了。你不需要一个�
 
 
 这是苹果做产品的核心理念，也就是他们反复强调的，the music DNA。"
-title: "To HomePod: the music DNA"
+title: "⭐️ To HomePod: the music DNA"
 tags: 科技 ⭐️
 image: "/assets/images/2021/homepod.jpg"
 excerpt_img: true
